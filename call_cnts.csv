@@ -1,0 +1,1723 @@
+call_city	call_date	Temp	Humidity	Windspeed	weather_Events	date_key	calendar_quarter	calendar_month_number	Month_name	week_day_name	week_day_number	Working_day	is_a_weekend_day	is_a_public_holiday	season	wevents	call_cnt
+CHERRY HILL	2015-01-05	36	39	16		20150105	1	1	January     	Monday    	2	1	0	0	1	1	1
+CHERRY HILL	2015-01-06	16	78	4	Fog-Snow	20150106	1	1	January     	Tuesday   	3	1	0	0	1	7	2
+CHERRY HILL	2015-01-10	18	44	8		20150110	1	1	January     	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2015-01-12	34	91	1	Rain	20150112	1	1	January     	Monday    	2	1	0	0	1	2	1
+CHERRY HILL	2015-01-17	24	47	7		20150117	1	1	January     	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2015-01-29	22	59	2		20150129	1	1	January     	Thursday  	5	1	0	0	1	1	2
+CHERRY HILL	2015-02-02	28	89	7	Fog-Rain-Snow	20150202	1	2	February    	Monday    	2	1	0	0	1	8	1
+CHERRY HILL	2015-02-05	26	54	9		20150205	1	2	February    	Thursday  	5	1	0	0	1	1	1
+CHERRY HILL	2015-02-07	31	55	2		20150207	1	2	February    	Saturday  	7	0	1	0	1	1	2
+CHERRY HILL	2015-02-13	14	44	10		20150213	1	2	February    	Friday    	6	1	0	0	1	1	1
+CHERRY HILL	2015-02-14	22	77	5	Fog-Snow	20150214	1	2	February    	Saturday  	7	0	1	0	1	7	1
+CHERRY HILL	2015-02-16	8	50	10	Snow	20150216	1	2	February    	Monday    	2	1	0	1	1	4	1
+CHERRY HILL	2015-02-17	18	79	3	Fog-Snow	20150217	1	2	February    	Tuesday   	3	1	0	0	1	7	1
+CHERRY HILL	2015-02-18	15	63	2		20150218	1	2	February    	Wednesday 	4	1	0	0	1	1	2
+CHERRY HILL	2015-02-20	8	43	12		20150220	1	2	February    	Friday    	6	1	0	0	1	1	1
+CHERRY HILL	2015-02-24	14	52	2		20150224	1	2	February    	Tuesday   	3	1	0	0	1	1	1
+CHERRY HILL	2015-03-03	28	75	6	Rain-Snow	20150303	1	3	March       	Tuesday   	3	1	0	0	2	6	1
+CHERRY HILL	2015-03-04	40	94	5	Fog-Rain	20150304	1	3	March       	Wednesday 	4	1	0	0	2	7	1
+CHERRY HILL	2015-03-06	14	63	6		20150306	1	3	March       	Friday    	6	1	0	0	2	1	1
+CHERRY HILL	2015-03-09	42	63	3		20150309	1	3	March       	Monday    	2	1	0	0	2	1	1
+CHERRY HILL	2015-03-13	38	39	4	Rain	20150313	1	3	March       	Friday    	6	1	0	0	2	2	2
+CHERRY HILL	2015-04-10	50	93	5	Rain-Thunderstorm	20150410	2	4	April       	Friday    	6	1	0	0	2	6	1
+CHERRY HILL	2015-04-13	56	59	4		20150413	2	4	April       	Monday    	2	1	0	0	2	1	2
+CHERRY HILL	2015-05-23	57	40	6		20150523	2	5	May         	Saturday  	7	0	1	0	2	1	1
+CHERRY HILL	2015-05-24	62	62	3		20150524	2	5	May         	Sunday    	1	0	1	0	2	1	1
+CHERRY HILL	2015-05-25	72	60	3		20150525	2	5	May         	Monday    	2	1	0	1	2	1	1
+CHERRY HILL	2015-06-01	64	91	5	Rain-Thunderstorm	20150601	2	6	June        	Monday    	2	1	0	0	3	6	1
+CHERRY HILL	2015-06-03	60	81	5	Rain	20150603	2	6	June        	Wednesday 	4	1	0	0	3	2	1
+CHERRY HILL	2015-06-15	78	85	3	Rain	20150615	2	6	June        	Monday    	2	1	0	0	3	2	1
+CHERRY HILL	2015-07-11	75	66	1		20150711	3	7	July        	Saturday  	7	0	1	0	3	1	1
+CHERRY HILL	2015-07-13	74	70	1		20150713	3	7	July        	Monday    	2	1	0	0	3	1	1
+CHERRY HILL	2015-07-14	76	82	3	Rain-Thunderstorm	20150714	3	7	July        	Tuesday   	3	1	0	0	3	6	1
+CHERRY HILL	2015-07-16	70	66	6		20150716	3	7	July        	Thursday  	5	1	0	0	3	1	1
+CHERRY HILL	2015-07-17	68	75	2		20150717	3	7	July        	Friday    	6	1	0	0	3	1	1
+CHERRY HILL	2015-07-25	73	63	1		20150725	3	7	July        	Saturday  	7	0	1	0	3	1	3
+CHERRY HILL	2015-07-29	80	83	1	Fog	20150729	3	7	July        	Wednesday 	4	1	0	0	3	3	1
+CHERRY HILL	2015-08-05	75	57	3		20150805	3	8	August      	Wednesday 	4	1	0	0	3	1	1
+CHERRY HILL	2015-08-12	73	78	2	Fog	20150812	3	8	August      	Wednesday 	4	1	0	0	3	3	1
+CHERRY HILL	2015-08-14	70	66	1		20150814	3	8	August      	Friday    	6	1	0	0	3	1	1
+CHERRY HILL	2015-09-03	80	68	2		20150903	3	9	September   	Thursday  	5	1	0	0	4	1	1
+CHERRY HILL	2015-09-04	76	80	3		20150904	3	9	September   	Friday    	6	1	0	0	4	1	1
+CHERRY HILL	2015-09-06	68	76	1	Fog	20150906	3	9	September   	Sunday    	1	0	1	0	4	3	1
+CHERRY HILL	2015-09-20	68	73	3		20150920	3	9	September   	Sunday    	1	0	1	0	4	1	1
+CHERRY HILL	2015-09-21	62	66	5		20150921	3	9	September   	Monday    	2	1	0	0	4	1	1
+CHERRY HILL	2015-09-23	66	65	5		20150923	3	9	September   	Wednesday 	4	1	0	0	4	1	1
+CHERRY HILL	2015-09-24	64	69	2		20150924	3	9	September   	Thursday  	5	1	0	0	4	1	2
+CHERRY HILL	2015-09-29	74	88	2	Fog-Rain	20150929	3	9	September   	Tuesday   	3	1	0	0	4	7	2
+CHERRY HILL	2015-10-01	60	82	11	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	1
+CHERRY HILL	2015-10-06	58	74	2		20151006	4	10	October     	Tuesday   	3	1	0	0	4	1	1
+CHERRY HILL	2015-10-07	63	75	2		20151007	4	10	October     	Wednesday 	4	1	0	0	4	1	3
+CHERRY HILL	2015-10-09	65	89	3	Fog-Rain-Thunderstorm	20151009	4	10	October     	Friday    	6	1	0	0	4	8	1
+CHERRY HILL	2015-10-15	54	68	2		20151015	4	10	October     	Thursday  	5	1	0	0	4	1	1
+CHERRY HILL	2015-10-17	47	57	6		20151017	4	10	October     	Saturday  	7	0	1	0	4	1	1
+CHERRY HILL	2015-10-19	39	66	1		20151019	4	10	October     	Monday    	2	1	0	0	4	1	2
+CHERRY HILL	2015-10-20	56	54	7		20151020	4	10	October     	Tuesday   	3	1	0	0	4	1	3
+CHERRY HILL	2015-10-22	59	67	2		20151022	4	10	October     	Thursday  	5	1	0	0	4	1	2
+CHERRY HILL	2015-10-25	59	73	5		20151025	4	10	October     	Sunday    	1	0	1	0	4	1	1
+CHERRY HILL	2015-10-26	47	67	5		20151026	4	10	October     	Monday    	2	1	0	0	4	1	1
+CHERRY HILL	2015-10-27	46	77	2		20151027	4	10	October     	Tuesday   	3	1	0	0	4	1	1
+CHERRY HILL	2015-10-28	61	91	8	Fog-Rain	20151028	4	10	October     	Wednesday 	4	1	0	0	4	7	1
+CHERRY HILL	2015-10-29	64	73	7	Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	2	1
+CHERRY HILL	2015-10-30	48	56	6		20151030	4	10	October     	Friday    	6	1	0	0	4	1	1
+CHERRY HILL	2015-11-02	52	86	2		20151102	4	11	November    	Monday    	2	1	0	0	4	1	1
+CHERRY HILL	2015-11-03	54	80	1	Fog	20151103	4	11	November    	Tuesday   	3	1	0	0	4	3	2
+CHERRY HILL	2015-11-04	58	79	2	Fog	20151104	4	11	November    	Wednesday 	4	1	0	0	4	3	2
+CHERRY HILL	2015-11-07	60	64	4		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	1
+CHERRY HILL	2015-11-11	56	82	9	Rain	20151111	4	11	November    	Wednesday 	4	1	0	1	4	2	1
+CHERRY HILL	2015-11-13	52	45	10		20151113	4	11	November    	Friday    	6	1	0	0	4	1	1
+CHERRY HILL	2015-11-14	44	46	10		20151114	4	11	November    	Saturday  	7	0	1	0	4	1	1
+CHERRY HILL	2015-11-17	44	71	4		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	2
+CHERRY HILL	2015-11-19	60	92	7	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	1
+CHERRY HILL	2015-11-20	48	59	5		20151120	4	11	November    	Friday    	6	1	0	0	4	1	1
+CHERRY HILL	2015-11-22	46	60	5		20151122	4	11	November    	Sunday    	1	0	1	0	4	1	1
+CHERRY HILL	2015-11-23	32	54	8		20151123	4	11	November    	Monday    	2	1	0	0	4	1	2
+CHERRY HILL	2015-11-24	36	64	2		20151124	4	11	November    	Tuesday   	3	1	0	0	4	1	1
+CHERRY HILL	2015-11-25	38	69	2		20151125	4	11	November    	Wednesday 	4	1	0	0	4	1	2
+CHERRY HILL	2015-11-28	54	84	5		20151128	4	11	November    	Saturday  	7	0	1	0	4	1	1
+CHERRY HILL	2015-11-30	40	71	7	Rain	20151130	4	11	November    	Monday    	2	1	0	0	4	2	1
+CHERRY HILL	2015-12-01	49	95	5	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	3
+CHERRY HILL	2015-12-02	56	95	2	Fog-Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	7	3
+CHERRY HILL	2015-12-03	48	59	10		20151203	4	12	December    	Thursday  	5	1	0	0	1	1	1
+CHERRY HILL	2015-12-04	41	67	4		20151204	4	12	December    	Friday    	6	1	0	0	1	1	2
+CHERRY HILL	2015-12-05	39	80	1		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2015-12-07	41	82	1	Fog	20151207	4	12	December    	Monday    	2	1	0	0	1	3	2
+CHERRY HILL	2015-12-08	38	72	4		20151208	4	12	December    	Tuesday   	3	1	0	0	1	1	4
+CHERRY HILL	2015-12-09	41	81	3		20151209	4	12	December    	Wednesday 	4	1	0	0	1	1	2
+CHERRY HILL	2015-12-10	52	80	2		20151210	4	12	December    	Thursday  	5	1	0	0	1	1	1
+CHERRY HILL	2015-12-11	48	91	1	Fog	20151211	4	12	December    	Friday    	6	1	0	0	1	3	2
+CHERRY HILL	2015-12-12	57	83	2	Fog	20151212	4	12	December    	Saturday  	7	0	1	0	1	3	2
+CHERRY HILL	2015-12-13	62	86	1		20151213	4	12	December    	Sunday    	1	0	1	0	1	1	2
+CHERRY HILL	2015-12-14	62	92	4	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	2
+CHERRY HILL	2015-12-16	48	67	5		20151216	4	12	December    	Wednesday 	4	1	0	0	1	1	3
+CHERRY HILL	2015-12-18	46	71	7	Rain	20151218	4	12	December    	Friday    	6	1	0	0	1	2	2
+CHERRY HILL	2015-12-19	36	45	13		20151219	4	12	December    	Saturday  	7	0	1	0	1	1	2
+CHERRY HILL	2015-12-20	36	56	7		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	1
+CHERRY HILL	2015-12-21	44	68	6		20151221	4	12	December    	Monday    	2	1	0	0	1	1	4
+CHERRY HILL	2015-12-22	57	92	5	Rain	20151222	4	12	December    	Tuesday   	3	1	0	0	1	2	4
+CHERRY HILL	2015-12-23	62	97	4	Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	2	1
+CHERRY HILL	2015-12-24	66	91	8	Fog-Rain	20151224	4	12	December    	Thursday  	5	1	0	0	1	7	1
+CHERRY HILL	2015-12-25	62	96	2	Fog-Rain	20151225	4	12	December    	Friday    	6	1	0	1	1	7	2
+CHERRY HILL	2015-12-26	54	81	7		20151226	4	12	December    	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2015-12-27	56	93	6	Fog-Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	7	2
+CHERRY HILL	2015-12-28	41	68	10	Rain	20151228	4	12	December    	Monday    	2	1	0	0	1	2	3
+CHERRY HILL	2015-12-29	46	97	8	Rain	20151229	4	12	December    	Tuesday   	3	1	0	0	1	2	1
+CHERRY HILL	2015-12-30	48	93	2	Rain	20151230	4	12	December    	Wednesday 	4	1	0	0	1	2	1
+CHERRY HILL	2015-12-31	46	81	5		20151231	4	12	December    	Thursday  	5	1	0	0	1	1	3
+CHERRY HILL	2016-01-01	37	58	8		20160101	1	1	January     	Friday    	6	1	0	1	1	1	1
+CHERRY HILL	2016-01-02	34	64	5		20160102	1	1	January     	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2016-01-03	36	67	3		20160103	1	1	January     	Sunday    	1	0	1	0	1	1	1
+CHERRY HILL	2016-01-04	24	52	9		20160104	1	1	January     	Monday    	2	1	0	0	1	1	3
+CHERRY HILL	2016-01-05	19	50	8		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	3
+CHERRY HILL	2016-01-06	24	59	1		20160106	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+CHERRY HILL	2016-01-08	38	74	3		20160108	1	1	January     	Friday    	6	1	0	0	1	1	1
+CHERRY HILL	2016-01-09	44	89	4		20160109	1	1	January     	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2016-01-10	52	89	9	Rain-Thunderstorm	20160110	1	1	January     	Sunday    	1	0	1	0	1	6	2
+CHERRY HILL	2016-01-12	31	65	7	Snow	20160112	1	1	January     	Tuesday   	3	1	0	0	1	4	1
+CHERRY HILL	2016-01-13	23	45	14		20160113	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+CHERRY HILL	2016-01-14	34	54	4		20160114	1	1	January     	Thursday  	5	1	0	0	1	1	2
+CHERRY HILL	2016-01-15	40	71	2	Rain	20160115	1	1	January     	Friday    	6	1	0	0	1	2	2
+CHERRY HILL	2016-01-16		92	7	Rain	20160116	1	1	January     	Saturday  	7	0	1	0	1	2	2
+CHERRY HILL	2016-01-18	22	52	11		20160118	1	1	January     	Monday    	2	1	0	1	1	1	3
+CHERRY HILL	2016-01-19	21	47	13		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	1
+CHERRY HILL	2016-01-20	28	57	7		20160120	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+CHERRY HILL	2016-01-21	30	54	7		20160121	1	1	January     	Thursday  	5	1	0	0	1	1	1
+CHERRY HILL	2016-01-22	22	68	7	Fog-Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	7	2
+CHERRY HILL	2016-01-24	26	58	8	Snow	20160124	1	1	January     	Sunday    	1	0	1	0	1	4	2
+CHERRY HILL	2016-01-25	24	69	2		20160125	1	1	January     	Monday    	2	1	0	0	1	1	1
+CHERRY HILL	2016-01-26	37	67	5		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	1
+CHERRY HILL	2016-01-28	30	72	1		20160128	1	1	January     	Thursday  	5	1	0	0	1	1	1
+CHERRY HILL	2016-01-29	31	70	4	Snow	20160129	1	1	January     	Friday    	6	1	0	0	1	4	2
+CHERRY HILL	2016-01-30	32	56	6		20160130	1	1	January     	Saturday  	7	0	1	0	1	1	1
+CHERRY HILL	2016-01-31	44	63	2		20160131	1	1	January     	Sunday    	1	0	1	0	1	1	2
+CHERRY HILL	2016-02-01	48	80	5	Fog-Rain	20160201	1	2	February    	Monday    	2	1	0	0	1	7	1
+CHERRY HILL	2016-02-02	39	68	3		20160202	1	2	February    	Tuesday   	3	1	0	0	1	1	2
+HAMILTON	2015-01-01	31	45	10		20150101	1	1	January     	Thursday  	5	1	0	1	1	1	7
+HAMILTON	2015-01-02	35	53	7		20150102	1	1	January     	Friday    	6	1	0	0	1	1	26
+HAMILTON	2015-01-03	34	76	5	Rain-Snow	20150103	1	1	January     	Saturday  	7	0	1	0	1	6	18
+HAMILTON	2015-01-04	48	78	8	Fog-Rain	20150104	1	1	January     	Sunday    	1	0	1	0	1	7	17
+HAMILTON	2015-01-05	35	42	15		20150105	1	1	January     	Monday    	2	1	0	0	1	1	27
+HAMILTON	2015-01-06	18	64	4	Snow	20150106	1	1	January     	Tuesday   	3	1	0	0	1	4	33
+HAMILTON	2015-01-07	16	60	11		20150107	1	1	January     	Wednesday 	4	1	0	0	1	1	24
+HAMILTON	2015-01-08	13	50	9		20150108	1	1	January     	Thursday  	5	1	0	0	1	1	43
+HAMILTON	2015-01-09	24	49	10	Snow	20150109	1	1	January     	Friday    	6	1	0	0	1	4	35
+HAMILTON	2015-01-10	18	45	8		20150110	1	1	January     	Saturday  	7	0	1	0	1	1	31
+HAMILTON	2015-01-11	25	51	6		20150111	1	1	January     	Sunday    	1	0	1	0	1	1	13
+HAMILTON	2015-01-12	35	74	4	Rain	20150112	1	1	January     	Monday    	2	1	0	0	1	2	23
+HAMILTON	2015-01-13	26	54	11		20150113	1	1	January     	Tuesday   	3	1	0	0	1	1	23
+HAMILTON	2015-01-14	23	58	7		20150114	1	1	January     	Wednesday 	4	1	0	0	1	1	19
+HAMILTON	2015-01-15	30	63	5		20150115	1	1	January     	Thursday  	5	1	0	0	1	1	18
+HAMILTON	2015-01-16	31	57	12		20150116	1	1	January     	Friday    	6	1	0	0	1	1	22
+HAMILTON	2015-01-17	22	43	6		20150117	1	1	January     	Saturday  	7	0	1	0	1	1	18
+HAMILTON	2015-01-18	30	81	5	Rain	20150118	1	1	January     	Sunday    	1	0	1	0	1	2	12
+HAMILTON	2015-01-19	38	68	9		20150119	1	1	January     	Monday    	2	1	0	1	1	1	18
+HAMILTON	2015-01-20	36	71	5	Rain	20150120	1	1	January     	Tuesday   	3	1	0	0	1	2	16
+HAMILTON	2015-01-21	28	70	4	Snow	20150121	1	1	January     	Wednesday 	4	1	0	0	1	4	15
+HAMILTON	2015-01-22	34	75	4	Snow	20150122	1	1	January     	Thursday  	5	1	0	0	1	4	19
+HAMILTON	2015-01-23	30	69	5	Snow	20150123	1	1	January     	Friday    	6	1	0	0	1	4	20
+HAMILTON	2015-01-24	35	80	8	Fog-Rain-Snow	20150124	1	1	January     	Saturday  	7	0	1	0	1	8	15
+HAMILTON	2015-01-25	37	60	9	Snow	20150125	1	1	January     	Sunday    	1	0	1	0	1	4	16
+HAMILTON	2015-01-26	27	75	14	Snow	20150126	1	1	January     	Monday    	2	1	0	0	1	4	22
+HAMILTON	2015-01-27	25	64	13	Snow	20150127	1	1	January     	Tuesday   	3	1	0	0	1	4	13
+HAMILTON	2015-01-28	25	42	10		20150128	1	1	January     	Wednesday 	4	1	0	0	1	1	31
+HAMILTON	2015-01-29	21	57	5	Snow	20150129	1	1	January     	Thursday  	5	1	0	0	1	4	15
+HAMILTON	2015-01-30	28	63	11	Snow	20150130	1	1	January     	Friday    	6	1	0	0	1	4	23
+HAMILTON	2015-01-31	20	45	12		20150131	1	1	January     	Saturday  	7	0	1	0	1	1	23
+HAMILTON	2015-02-01	27	61	5	Snow	20150201	1	2	February    	Sunday    	1	0	1	0	1	4	17
+HAMILTON	2015-02-02	26	74	12	Rain-Snow	20150202	1	2	February    	Monday    	2	1	0	0	1	6	26
+HAMILTON	2015-02-03	21	52	8		20150203	1	2	February    	Tuesday   	3	1	0	0	1	1	26
+HAMILTON	2015-02-04	30	62	6		20150204	1	2	February    	Wednesday 	4	1	0	0	1	1	24
+HAMILTON	2015-02-05	26	51	13	Snow	20150205	1	2	February    	Thursday  	5	1	0	0	1	4	19
+HAMILTON	2015-02-06	21	43	7		20150206	1	2	February    	Friday    	6	1	0	0	1	1	16
+HAMILTON	2015-02-07	30	49	4		20150207	1	2	February    	Saturday  	7	0	1	0	1	1	15
+HAMILTON	2015-02-08	38	74	7	Fog	20150208	1	2	February    	Sunday    	1	0	1	0	1	3	19
+HAMILTON	2015-02-09	30	87	12	Rain	20150209	1	2	February    	Monday    	2	1	0	0	1	2	20
+HAMILTON	2015-02-10	33	66	10		20150210	1	2	February    	Tuesday   	3	1	0	0	1	1	21
+HAMILTON	2015-02-11	29	54	7		20150211	1	2	February    	Wednesday 	4	1	0	0	1	1	23
+HAMILTON	2015-02-12	29	57	10	Snow	20150212	1	2	February    	Thursday  	5	1	0	0	1	4	21
+HAMILTON	2015-02-13	14	43	10		20150213	1	2	February    	Friday    	6	1	0	0	1	1	23
+HAMILTON	2015-02-14	22	70	7	Fog-Snow	20150214	1	2	February    	Saturday  	7	0	1	0	1	7	15
+HAMILTON	2015-02-15	12	58	18	Snow	20150215	1	2	February    	Sunday    	1	0	1	0	1	4	17
+HAMILTON	2015-02-16	10	47	10	Snow	20150216	1	2	February    	Monday    	2	1	0	1	1	4	50
+HAMILTON	2015-02-17	20	67	5	Snow	20150217	1	2	February    	Tuesday   	3	1	0	0	1	4	32
+HAMILTON	2015-02-18	18	56	6	Snow	20150218	1	2	February    	Wednesday 	4	1	0	0	1	4	30
+HAMILTON	2015-02-19	15	44	14	Snow	20150219	1	2	February    	Thursday  	5	1	0	0	1	4	40
+HAMILTON	2015-02-20	8	44	10		20150220	1	2	February    	Friday    	6	1	0	0	1	1	37
+HAMILTON	2015-02-21	18	69	6	Fog-Rain-Snow	20150221	1	2	February    	Saturday  	7	0	1	0	1	8	17
+HAMILTON	2015-02-22	37	75	3	Rain	20150222	1	2	February    	Sunday    	1	0	1	0	1	2	11
+HAMILTON	2015-02-23	23	48	11		20150223	1	2	February    	Monday    	2	1	0	0	1	1	23
+HAMILTON	2015-02-24	12	49	5		20150224	1	2	February    	Tuesday   	3	1	0	0	1	1	28
+HAMILTON	2015-02-25	23	61	6		20150225	1	2	February    	Wednesday 	4	1	0	0	1	1	22
+HAMILTON	2015-02-26	26	52	8		20150226	1	2	February    	Thursday  	5	1	0	0	1	1	24
+HAMILTON	2015-02-27	24	54	7		20150227	1	2	February    	Friday    	6	1	0	0	1	1	17
+HAMILTON	2015-02-28	20	39	5		20150228	1	2	February    	Saturday  	7	0	1	0	1	1	14
+HAMILTON	2015-03-01	23	67	3	Fog-Rain-Snow	20150301	1	3	March       	Sunday    	1	0	1	0	2	8	9
+HAMILTON	2015-03-02	34	63	9		20150302	1	3	March       	Monday    	2	1	0	0	2	1	22
+HAMILTON	2015-03-03	27	66	7	Rain-Snow	20150303	1	3	March       	Tuesday   	3	1	0	0	2	6	18
+HAMILTON	2015-03-04	39	89	5	Fog-Rain	20150304	1	3	March       	Wednesday 	4	1	0	0	2	7	38
+HAMILTON	2015-03-05	28	74	10	Fog-Rain-Snow	20150305	1	3	March       	Thursday  	5	1	0	0	2	8	15
+HAMILTON	2015-03-06	15	55	6	Snow	20150306	1	3	March       	Friday    	6	1	0	0	2	4	30
+HAMILTON	2015-03-07	23	58	7		20150307	1	3	March       	Saturday  	7	0	1	0	2	1	25
+HAMILTON	2015-03-08	37	58	6		20150308	1	3	March       	Sunday    	1	0	1	0	2	1	15
+HAMILTON	2015-03-09	42	50	5	Rain	20150309	1	3	March       	Monday    	2	1	0	0	2	2	35
+HAMILTON	2015-03-10	43	72	3	Fog-Rain	20150310	1	3	March       	Tuesday   	3	1	0	0	2	7	26
+HAMILTON	2015-03-11	51	70	7	Rain	20150311	1	3	March       	Wednesday 	4	1	0	0	2	2	21
+HAMILTON	2015-03-12	41	41	12		20150312	1	3	March       	Thursday  	5	1	0	0	2	1	29
+HAMILTON	2015-03-13	38	39	8		20150313	1	3	March       	Friday    	6	1	0	0	2	1	18
+HAMILTON	2015-03-14	41	91	4	Rain	20150314	1	3	March       	Saturday  	7	0	1	0	2	2	16
+HAMILTON	2015-03-15	41	73	12	Rain	20150315	1	3	March       	Sunday    	1	0	1	0	2	2	13
+HAMILTON	2015-03-16	43	60	5		20150316	1	3	March       	Monday    	2	1	0	0	2	1	20
+HAMILTON	2015-03-17	49	52	12		20150317	1	3	March       	Tuesday   	3	1	0	0	2	1	14
+HAMILTON	2015-03-18	36	31	13		20150318	1	3	March       	Wednesday 	4	1	0	0	2	1	17
+HAMILTON	2015-03-19	33	45	5		20150319	1	3	March       	Thursday  	5	1	0	0	2	1	22
+HAMILTON	2015-03-20	32	70	8	Fog-Rain-Snow	20150320	1	3	March       	Friday    	6	1	0	0	2	8	22
+HAMILTON	2015-03-21	39	74	5		20150321	1	3	March       	Saturday  	7	0	1	0	2	1	19
+HAMILTON	2015-03-22	37	45	10		20150322	1	3	March       	Sunday    	1	0	1	0	2	1	11
+HAMILTON	2015-03-23	32	41	7		20150323	1	3	March       	Monday    	2	1	0	0	2	1	24
+HAMILTON	2015-03-24	33	40	4		20150324	1	3	March       	Tuesday   	3	1	0	0	2	1	11
+HAMILTON	2015-03-25	34	62	4	Rain	20150325	1	3	March       	Wednesday 	4	1	0	0	2	2	17
+HAMILTON	2015-03-26	52	89	5	Fog-Rain	20150326	1	3	March       	Thursday  	5	1	0	0	2	7	21
+HAMILTON	2015-03-27	41	71	7	Rain	20150327	1	3	March       	Friday    	6	1	0	0	2	2	15
+HAMILTON	2015-03-28	33	48	13		20150328	1	3	March       	Saturday  	7	0	1	0	2	1	10
+HAMILTON	2015-03-29	35	33	9		20150329	1	3	March       	Sunday    	1	0	1	0	2	1	6
+HAMILTON	2015-03-30	44	57	10	Snow	20150330	1	3	March       	Monday    	2	1	0	0	2	4	16
+HAMILTON	2015-03-31	41	62	6	Rain-Snow-Thunderstorm	20150331	1	3	March       	Tuesday   	3	1	0	0	2	8	20
+HAMILTON	2015-04-01	42	59	8		20150401	2	4	April       	Wednesday 	4	1	0	0	2	1	17
+HAMILTON	2015-04-02	48	54	10		20150402	2	4	April       	Thursday  	5	1	0	0	2	1	16
+HAMILTON	2015-04-03	60	67	8	Fog-Rain	20150403	2	4	April       	Friday    	6	1	0	0	2	7	18
+HAMILTON	2015-04-04	53	56	14	Fog-Rain	20150404	2	4	April       	Saturday  	7	0	1	0	2	7	15
+HAMILTON	2015-04-05	51	35	11		20150405	2	4	April       	Sunday    	1	0	1	0	2	1	11
+HAMILTON	2015-04-06	56	48	9		20150406	2	4	April       	Monday    	2	1	0	0	2	1	19
+HAMILTON	2015-04-07	56	69	9	Rain	20150407	2	4	April       	Tuesday   	3	1	0	0	2	2	15
+HAMILTON	2015-04-08	42	73	15	Rain	20150408	2	4	April       	Wednesday 	4	1	0	0	2	2	17
+HAMILTON	2015-04-09	40	86	8	Rain	20150409	2	4	April       	Thursday  	5	1	0	0	2	2	16
+HAMILTON	2015-04-10	48	89	7	Rain-Thunderstorm	20150410	2	4	April       	Friday    	6	1	0	0	2	6	12
+HAMILTON	2015-04-11	52	50	10		20150411	2	4	April       	Saturday  	7	0	1	0	2	1	6
+HAMILTON	2015-04-12	50	44	5		20150412	2	4	April       	Sunday    	1	0	1	0	2	1	12
+HAMILTON	2015-04-13	58	51	9		20150413	2	4	April       	Monday    	2	1	0	0	2	1	19
+HAMILTON	2015-04-14	58	56	6	Rain	20150414	2	4	April       	Tuesday   	3	1	0	0	2	2	18
+HAMILTON	2015-04-15	59	33	9		20150415	2	4	April       	Wednesday 	4	1	0	0	2	1	22
+HAMILTON	2015-04-16	59	42	9		20150416	2	4	April       	Thursday  	5	1	0	1	2	1	19
+HAMILTON	2015-04-17	63	73	7	Rain	20150417	2	4	April       	Friday    	6	1	0	0	2	2	28
+HAMILTON	2015-04-18	65	54	7		20150418	2	4	April       	Saturday  	7	0	1	0	2	1	16
+HAMILTON	2015-04-19	55	42	10	Rain	20150419	2	4	April       	Sunday    	1	0	1	0	2	2	9
+HAMILTON	2015-04-20	59	81	9	Fog-Rain	20150420	2	4	April       	Monday    	2	1	0	0	2	7	16
+HAMILTON	2015-04-21	58	59	8	Rain-Thunderstorm	20150421	2	4	April       	Tuesday   	3	1	0	0	2	6	16
+HAMILTON	2015-04-22	56	52	10	Rain-Thunderstorm	20150422	2	4	April       	Wednesday 	4	1	0	0	2	6	15
+HAMILTON	2015-04-23	44	47	12		20150423	2	4	April       	Thursday  	5	1	0	0	2	1	11
+HAMILTON	2015-04-24	46	34	12		20150424	2	4	April       	Friday    	6	1	0	0	2	1	19
+HAMILTON	2015-04-25	46	41	6		20150425	2	4	April       	Saturday  	7	0	1	0	2	1	13
+HAMILTON	2015-04-26	52	40	7		20150426	2	4	April       	Sunday    	1	0	1	0	2	1	14
+HAMILTON	2015-04-27	51	45	10		20150427	2	4	April       	Monday    	2	1	0	0	2	1	20
+HAMILTON	2015-04-28	59	50	11		20150428	2	4	April       	Tuesday   	3	1	0	0	2	1	15
+HAMILTON	2015-04-29	63	42	8		20150429	2	4	April       	Wednesday 	4	1	0	0	2	1	15
+HAMILTON	2015-04-30	56	64	10		20150430	2	4	April       	Thursday  	5	1	0	0	2	1	20
+HAMILTON	2015-05-01	54	62	6		20150501	2	5	May         	Friday    	6	1	0	0	2	1	20
+HAMILTON	2015-05-02	57	56	5		20150502	2	5	May         	Saturday  	7	0	1	0	2	1	12
+HAMILTON	2015-05-03	62	48	4		20150503	2	5	May         	Sunday    	1	0	1	0	2	1	13
+HAMILTON	2015-05-04	66	47	7		20150504	2	5	May         	Monday    	2	1	0	0	2	1	32
+HAMILTON	2015-05-05	71	54	5		20150505	2	5	May         	Tuesday   	3	1	0	0	2	1	19
+HAMILTON	2015-05-06	63	54	7		20150506	2	5	May         	Wednesday 	4	1	0	0	2	1	18
+HAMILTON	2015-05-07	66	59	5		20150507	2	5	May         	Thursday  	5	1	0	0	2	1	21
+HAMILTON	2015-05-08	68	65	6		20150508	2	5	May         	Friday    	6	1	0	0	2	1	18
+HAMILTON	2015-05-09	65	79	6	Rain	20150509	2	5	May         	Saturday  	7	0	1	0	2	2	12
+HAMILTON	2015-05-10	75	72	8		20150510	2	5	May         	Sunday    	1	0	1	0	2	1	12
+HAMILTON	2015-05-11	75	74	8	Rain-Thunderstorm	20150511	2	5	May         	Monday    	2	1	0	0	2	6	23
+HAMILTON	2015-05-12	74	61	11		20150512	2	5	May         	Tuesday   	3	1	0	0	2	1	28
+HAMILTON	2015-05-13	61	48	11		20150513	2	5	May         	Wednesday 	4	1	0	0	2	1	19
+HAMILTON	2015-05-14	59	47	6		20150514	2	5	May         	Thursday  	5	1	0	0	2	1	14
+HAMILTON	2015-05-15	62	57	7		20150515	2	5	May         	Friday    	6	1	0	0	2	1	12
+HAMILTON	2015-05-16	69	72	5	Rain-Thunderstorm	20150516	2	5	May         	Saturday  	7	0	1	0	2	6	11
+HAMILTON	2015-05-17	73	79	3	Fog	20150517	2	5	May         	Sunday    	1	0	1	0	2	3	6
+HAMILTON	2015-05-18	67	87	7		20150518	2	5	May         	Monday    	2	1	0	0	2	1	19
+HAMILTON	2015-05-19	70	77	6	Fog	20150519	2	5	May         	Tuesday   	3	1	0	0	2	3	10
+HAMILTON	2015-05-20	60	52	10		20150520	2	5	May         	Wednesday 	4	1	0	0	2	1	11
+HAMILTON	2015-05-21	53	68	4	Rain	20150521	2	5	May         	Thursday  	5	1	0	0	2	2	23
+HAMILTON	2015-05-22	62	59	9		20150522	2	5	May         	Friday    	6	1	0	0	2	1	24
+HAMILTON	2015-05-23	57	37	6		20150523	2	5	May         	Saturday  	7	0	1	0	2	1	14
+HAMILTON	2015-05-24	63	59	7		20150524	2	5	May         	Sunday    	1	0	1	0	2	1	14
+HAMILTON	2015-05-25	73	58	10		20150525	2	5	May         	Monday    	2	1	0	1	2	1	11
+HAMILTON	2015-05-26	75	62	10		20150526	2	5	May         	Tuesday   	3	1	0	0	2	1	41
+HAMILTON	2015-05-27	79	69	9	Rain-Thunderstorm	20150527	2	5	May         	Wednesday 	4	1	0	0	2	6	25
+HAMILTON	2015-05-28	78	70	5	Thunderstorm	20150528	2	5	May         	Thursday  	5	1	0	0	2	5	20
+HAMILTON	2015-05-29	74	59	6		20150529	2	5	May         	Friday    	6	1	0	0	2	1	13
+HAMILTON	2015-05-30	77	70	10		20150530	2	5	May         	Saturday  	7	0	1	0	2	1	20
+HAMILTON	2015-05-31	79	63	10	Rain-Thunderstorm	20150531	2	5	May         	Sunday    	1	0	1	0	2	6	12
+HAMILTON	2015-06-01	60	95	10	Rain-Thunderstorm	20150601	2	6	June        	Monday    	2	1	0	0	3	6	19
+HAMILTON	2015-06-02	53	93	8	Rain	20150602	2	6	June        	Tuesday   	3	1	0	0	3	2	22
+HAMILTON	2015-06-03	62	73	7	Rain	20150603	2	6	June        	Wednesday 	4	1	0	0	3	2	19
+HAMILTON	2015-06-04	61	69	10		20150604	2	6	June        	Thursday  	5	1	0	0	3	1	19
+HAMILTON	2015-06-05	64	81	5	Rain	20150605	2	6	June        	Friday    	6	1	0	0	3	2	18
+HAMILTON	2015-06-06	70	61	6	Rain	20150606	2	6	June        	Saturday  	7	0	1	0	3	2	13
+HAMILTON	2015-06-07	65	64	8		20150607	2	6	June        	Sunday    	1	0	1	0	3	1	13
+HAMILTON	2015-06-08	73	74	11	Rain	20150608	2	6	June        	Monday    	2	1	0	0	3	2	35
+HAMILTON	2015-06-09	75	68	8	Rain	20150609	2	6	June        	Tuesday   	3	1	0	0	3	2	24
+HAMILTON	2015-06-10	71	64	5		20150610	2	6	June        	Wednesday 	4	1	0	0	3	1	16
+HAMILTON	2015-06-11	79	66	7		20150611	2	6	June        	Thursday  	5	1	0	0	3	1	24
+HAMILTON	2015-06-12	82	67	6		20150612	2	6	June        	Friday    	6	1	0	0	3	1	26
+HAMILTON	2015-06-13	79	63	7		20150613	2	6	June        	Saturday  	7	0	1	0	3	1	23
+HAMILTON	2015-06-14	78	74	5	Rain-Thunderstorm	20150614	2	6	June        	Sunday    	1	0	1	0	3	6	6
+HAMILTON	2015-06-15	78	76	8	Rain-Thunderstorm	20150615	2	6	June        	Monday    	2	1	0	0	3	6	25
+HAMILTON	2015-06-16	78	78	6	Fog-Rain	20150616	2	6	June        	Tuesday   	3	1	0	0	3	7	27
+HAMILTON	2015-06-17	72	64	7		20150617	2	6	June        	Wednesday 	4	1	0	0	3	1	19
+HAMILTON	2015-06-18	66	83	7	Rain	20150618	2	6	June        	Thursday  	5	1	0	0	3	2	32
+HAMILTON	2015-06-19	77	74	6	Rain	20150619	2	6	June        	Friday    	6	1	0	0	3	2	17
+HAMILTON	2015-06-20	72	79	8	Rain	20150620	2	6	June        	Saturday  	7	0	1	0	3	2	13
+HAMILTON	2015-06-21	80	75	10	Rain	20150621	2	6	June        	Sunday    	1	0	1	0	3	2	11
+HAMILTON	2015-06-22	79	60	6		20150622	2	6	June        	Monday    	2	1	0	0	3	1	17
+HAMILTON	2015-06-23	80	68	10	Rain-Thunderstorm	20150623	2	6	June        	Tuesday   	3	1	0	0	3	6	14
+HAMILTON	2015-06-24	74	67	7		20150624	2	6	June        	Wednesday 	4	1	0	0	3	1	22
+HAMILTON	2015-06-25	71	62	4	Rain	20150625	2	6	June        	Thursday  	5	1	0	0	3	2	14
+HAMILTON	2015-06-26	73	66	5	Rain	20150626	2	6	June        	Friday    	6	1	0	0	3	2	18
+HAMILTON	2015-06-27	65	77	11	Rain	20150627	2	6	June        	Saturday  	7	0	1	0	3	2	14
+HAMILTON	2015-06-28	70	75	10	Rain	20150628	2	6	June        	Sunday    	1	0	1	0	3	2	11
+HAMILTON	2015-06-29	69	62	7		20150629	2	6	June        	Monday    	2	1	0	0	3	1	28
+HAMILTON	2015-06-30	73	71	8	Rain-Thunderstorm	20150630	2	6	June        	Tuesday   	3	1	0	0	3	6	18
+HAMILTON	2015-07-01	75	69	8	Rain-Thunderstorm	20150701	3	7	July        	Wednesday 	4	1	0	0	3	6	20
+HAMILTON	2015-07-02	69	77	3	Rain	20150702	3	7	July        	Thursday  	5	1	0	0	3	2	17
+HAMILTON	2015-07-03	72	71	5		20150703	3	7	July        	Friday    	6	1	0	1	3	1	17
+HAMILTON	2015-07-04	71	67	6	Rain	20150704	3	7	July        	Saturday  	7	0	1	0	3	2	18
+HAMILTON	2015-07-05	74	68	4		20150705	3	7	July        	Sunday    	1	0	1	0	3	1	18
+HAMILTON	2015-07-06	77	76	6	Rain	20150706	3	7	July        	Monday    	2	1	0	0	3	2	27
+HAMILTON	2015-07-07	81	76	6	Rain-Thunderstorm	20150707	3	7	July        	Tuesday   	3	1	0	0	3	6	20
+HAMILTON	2015-07-08	81	76	6	Rain	20150708	3	7	July        	Wednesday 	4	1	0	0	3	2	18
+HAMILTON	2015-07-09	77	83	6	Rain-Thunderstorm	20150709	3	7	July        	Thursday  	5	1	0	0	3	6	26
+HAMILTON	2015-07-10	77	66	8		20150710	3	7	July        	Friday    	6	1	0	0	3	1	26
+HAMILTON	2015-07-11	77	58	5		20150711	3	7	July        	Saturday  	7	0	1	0	3	1	19
+HAMILTON	2015-07-12	77	65	3		20150712	3	7	July        	Sunday    	1	0	1	0	3	1	18
+HAMILTON	2015-07-13	78	60	5		20150713	3	7	July        	Monday    	2	1	0	0	3	1	20
+HAMILTON	2015-07-14	76	81	5	Rain-Thunderstorm	20150714	3	7	July        	Tuesday   	3	1	0	0	3	6	24
+HAMILTON	2015-07-15	75	82	5	Rain-Thunderstorm	20150715	3	7	July        	Wednesday 	4	1	0	0	3	6	20
+HAMILTON	2015-07-16	70	62	7		20150716	3	7	July        	Thursday  	5	1	0	0	3	1	21
+HAMILTON	2015-07-17	71	72	7		20150717	3	7	July        	Friday    	6	1	0	0	3	1	17
+HAMILTON	2015-07-18	79	73	7	Rain-Thunderstorm	20150718	3	7	July        	Saturday  	7	0	1	0	3	6	24
+HAMILTON	2015-07-19	84	71	4		20150719	3	7	July        	Sunday    	1	0	1	0	3	1	9
+HAMILTON	2015-07-20	85	67	5		20150720	3	7	July        	Monday    	2	1	0	0	3	1	26
+HAMILTON	2015-07-21	78	69	4	Rain-Thunderstorm	20150721	3	7	July        	Tuesday   	3	1	0	0	3	6	27
+HAMILTON	2015-07-22	74	59	7		20150722	3	7	July        	Wednesday 	4	1	0	0	3	1	32
+HAMILTON	2015-07-23	72	56	5		20150723	3	7	July        	Thursday  	5	1	0	0	3	1	21
+HAMILTON	2015-07-24	73	58	4		20150724	3	7	July        	Friday    	6	1	0	0	3	1	19
+HAMILTON	2015-07-25	75	57	5		20150725	3	7	July        	Saturday  	7	0	1	0	3	1	17
+HAMILTON	2015-07-26	78	60	8		20150726	3	7	July        	Sunday    	1	0	1	0	3	1	12
+HAMILTON	2015-07-27	78	73	6	Rain-Thunderstorm	20150727	3	7	July        	Monday    	2	1	0	0	3	6	21
+HAMILTON	2015-07-28	82	61	3		20150728	3	7	July        	Tuesday   	3	1	0	0	3	1	25
+HAMILTON	2015-07-29	82	66	5		20150729	3	7	July        	Wednesday 	4	1	0	0	3	1	15
+HAMILTON	2015-07-30	82	77	8	Rain-Thunderstorm	20150730	3	7	July        	Thursday  	5	1	0	0	3	6	28
+HAMILTON	2015-07-31	79	63	7	Rain	20150731	3	7	July        	Friday    	6	1	0	0	3	2	24
+HAMILTON	2015-08-01	80	50	7	Rain	20150801	3	8	August      	Saturday  	7	0	1	0	3	2	21
+HAMILTON	2015-08-02	77	56	5		20150802	3	8	August      	Sunday    	1	0	1	0	3	1	16
+HAMILTON	2015-08-03	79	62	8		20150803	3	8	August      	Monday    	2	1	0	0	3	1	21
+HAMILTON	2015-08-04	79	61	7	Rain-Thunderstorm	20150804	3	8	August      	Tuesday   	3	1	0	0	3	6	20
+HAMILTON	2015-08-05	76	55	6		20150805	3	8	August      	Wednesday 	4	1	0	0	3	1	18
+HAMILTON	2015-08-06	73	61	4	Rain	20150806	3	8	August      	Thursday  	5	1	0	0	3	2	20
+HAMILTON	2015-08-07	75	61	7		20150807	3	8	August      	Friday    	6	1	0	0	3	1	18
+HAMILTON	2015-08-08	72	66	5		20150808	3	8	August      	Saturday  	7	0	1	0	3	1	10
+HAMILTON	2015-08-09	75	67	6		20150809	3	8	August      	Sunday    	1	0	1	0	3	1	14
+HAMILTON	2015-08-10	72	72	7	Rain	20150810	3	8	August      	Monday    	2	1	0	0	3	2	18
+HAMILTON	2015-08-11	76	83	8	Fog-Rain-Thunderstorm	20150811	3	8	August      	Tuesday   	3	1	0	0	3	8	20
+HAMILTON	2015-08-12	75	68	7		20150812	3	8	August      	Wednesday 	4	1	0	0	3	1	24
+HAMILTON	2015-08-13	72	59	4		20150813	3	8	August      	Thursday  	5	1	0	0	3	1	23
+HAMILTON	2015-08-14	73	62	4		20150814	3	8	August      	Friday    	6	1	0	0	3	1	18
+HAMILTON	2015-08-15	77	63	4		20150815	3	8	August      	Saturday  	7	0	1	0	3	1	10
+HAMILTON	2015-08-16	80	63	5		20150816	3	8	August      	Sunday    	1	0	1	0	3	1	5
+HAMILTON	2015-08-17	82	64	5	Rain-Thunderstorm	20150817	3	8	August      	Monday    	2	1	0	0	3	6	18
+HAMILTON	2015-08-18	80	64	6		20150818	3	8	August      	Tuesday   	3	1	0	0	3	1	18
+HAMILTON	2015-08-19	82	70	7	Rain-Thunderstorm	20150819	3	8	August      	Wednesday 	4	1	0	0	3	6	33
+HAMILTON	2015-08-20	79	78	10	Rain	20150820	3	8	August      	Thursday  	5	1	0	0	3	2	23
+HAMILTON	2015-08-21	77	67	7	Rain-Thunderstorm	20150821	3	8	August      	Friday    	6	1	0	0	3	6	18
+HAMILTON	2015-08-22	73	51	6		20150822	3	8	August      	Saturday  	7	0	1	0	3	1	13
+HAMILTON	2015-08-23	72	68	3		20150823	3	8	August      	Sunday    	1	0	1	0	3	1	19
+HAMILTON	2015-08-24	74	72	5		20150824	3	8	August      	Monday    	2	1	0	0	3	1	38
+HAMILTON	2015-08-25	78	61	6		20150825	3	8	August      	Tuesday   	3	1	0	0	3	1	19
+HAMILTON	2015-08-26	71	55	7		20150826	3	8	August      	Wednesday 	4	1	0	0	3	1	25
+HAMILTON	2015-08-27	70	63	6		20150827	3	8	August      	Thursday  	5	1	0	0	3	1	16
+HAMILTON	2015-08-28	70	63	4		20150828	3	8	August      	Friday    	6	1	0	0	3	1	29
+HAMILTON	2015-08-29	71	68	4		20150829	3	8	August      	Saturday  	7	0	1	0	3	1	17
+HAMILTON	2015-08-30	77	0	5		20150830	3	8	August      	Sunday    	1	0	1	0	3	1	8
+HAMILTON	2015-08-31	82	66	6		20150831	3	8	August      	Monday    	2	1	0	0	3	1	25
+HAMILTON	2015-09-01	80	64	5		20150901	3	9	September   	Tuesday   	3	1	0	0	4	1	22
+HAMILTON	2015-09-02	79	71	3	Fog	20150902	3	9	September   	Wednesday 	4	1	0	0	4	3	21
+HAMILTON	2015-09-03	82	59	6		20150903	3	9	September   	Thursday  	5	1	0	0	4	1	18
+HAMILTON	2015-09-04	78	70	8		20150904	3	9	September   	Friday    	6	1	0	0	4	1	19
+HAMILTON	2015-09-05	73	62	7		20150905	3	9	September   	Saturday  	7	0	1	0	4	1	14
+HAMILTON	2015-09-06	72	59	5		20150906	3	9	September   	Sunday    	1	0	1	0	4	1	10
+HAMILTON	2015-09-07	76	69	5	Fog	20150907	3	9	September   	Monday    	2	1	0	1	4	3	16
+HAMILTON	2015-09-08	81	65	6		20150908	3	9	September   	Tuesday   	3	1	0	0	4	1	28
+HAMILTON	2015-09-09	82	69	7	Rain	20150909	3	9	September   	Wednesday 	4	1	0	0	4	2	18
+HAMILTON	2015-09-10	73	91	8	Rain-Thunderstorm	20150910	3	9	September   	Thursday  	5	1	0	0	4	6	29
+HAMILTON	2015-09-11	74	72	7	Rain	20150911	3	9	September   	Friday    	6	1	0	0	4	2	31
+HAMILTON	2015-09-12	70	81	7	Rain	20150912	3	9	September   	Saturday  	7	0	1	0	4	2	16
+HAMILTON	2015-09-13	64	75	7	Rain	20150913	3	9	September   	Sunday    	1	0	1	0	4	2	11
+HAMILTON	2015-09-14	64	55	8		20150914	3	9	September   	Monday    	2	1	0	0	4	1	20
+HAMILTON	2015-09-15	68	57	6		20150915	3	9	September   	Tuesday   	3	1	0	0	4	1	28
+HAMILTON	2015-09-16	72	60	7		20150916	3	9	September   	Wednesday 	4	1	0	0	4	1	24
+HAMILTON	2015-09-17	72	63	5		20150917	3	9	September   	Thursday  	5	1	0	0	4	1	21
+HAMILTON	2015-09-18	71	67	5		20150918	3	9	September   	Friday    	6	1	0	0	4	1	25
+HAMILTON	2015-09-19	72	70	4	Fog	20150919	3	9	September   	Saturday  	7	0	1	0	4	3	17
+HAMILTON	2015-09-20	69	64	8		20150920	3	9	September   	Sunday    	1	0	1	0	4	1	11
+HAMILTON	2015-09-21	64	54	8		20150921	3	9	September   	Monday    	2	1	0	0	4	1	29
+HAMILTON	2015-09-22	66	70	8		20150922	3	9	September   	Tuesday   	3	1	0	0	4	1	19
+HAMILTON	2015-09-23	67	59	5		20150923	3	9	September   	Wednesday 	4	1	0	0	4	1	28
+HAMILTON	2015-09-24	66	63	7		20150924	3	9	September   	Thursday  	5	1	0	0	4	1	23
+HAMILTON	2015-09-25	68	64	8		20150925	3	9	September   	Friday    	6	1	0	0	4	1	20
+HAMILTON	2015-09-26	64	67	9		20150926	3	9	September   	Saturday  	7	0	1	0	4	1	9
+HAMILTON	2015-09-27	63	74	7		20150927	3	9	September   	Sunday    	1	0	1	0	4	1	20
+HAMILTON	2015-09-28	73	78	5		20150928	3	9	September   	Monday    	2	1	0	0	4	1	20
+HAMILTON	2015-09-29	75	81	5	Fog-Rain	20150929	3	9	September   	Tuesday   	3	1	0	0	4	7	19
+HAMILTON	2015-09-30	72	79	11	Rain	20150930	3	9	September   	Wednesday 	4	1	0	0	4	2	21
+HAMILTON	2015-10-01	60	75	11	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	22
+HAMILTON	2015-10-02	52	0	16	Rain	20151002	4	10	October     	Friday    	6	1	0	0	4	2	23
+HAMILTON	2015-10-03	51	88	15	Rain	20151003	4	10	October     	Saturday  	7	0	1	0	4	2	14
+HAMILTON	2015-10-04	57	68	12		20151004	4	10	October     	Sunday    	1	0	1	0	4	1	21
+HAMILTON	2015-10-05	57	67	8		20151005	4	10	October     	Monday    	2	1	0	0	4	1	28
+HAMILTON	2015-10-06	61	67	4		20151006	4	10	October     	Tuesday   	3	1	0	0	4	1	25
+HAMILTON	2015-10-07	64	66	5		20151007	4	10	October     	Wednesday 	4	1	0	0	4	1	19
+HAMILTON	2015-10-08	62	75	4		20151008	4	10	October     	Thursday  	5	1	0	0	4	1	20
+HAMILTON	2015-10-09	69	80	8	Fog-Rain-Thunderstorm	20151009	4	10	October     	Friday    	6	1	0	0	4	8	15
+HAMILTON	2015-10-10	56	61	5		20151010	4	10	October     	Saturday  	7	0	1	0	4	1	17
+HAMILTON	2015-10-11	55	68	3		20151011	4	10	October     	Sunday    	1	0	1	0	4	1	13
+HAMILTON	2015-10-12	60	62	4		20151012	4	10	October     	Monday    	2	1	0	1	4	1	23
+HAMILTON	2015-10-13	64	77	5	Thunderstorm	20151013	4	10	October     	Tuesday   	3	1	0	0	4	5	21
+HAMILTON	2015-10-14	59	68	7		20151014	4	10	October     	Wednesday 	4	1	0	0	4	1	24
+HAMILTON	2015-10-15	55	66	6		20151015	4	10	October     	Thursday  	5	1	0	0	4	1	17
+HAMILTON	2015-10-16	55	61	6		20151016	4	10	October     	Friday    	6	1	0	0	4	1	23
+HAMILTON	2015-10-17	48	59	7		20151017	4	10	October     	Saturday  	7	0	1	0	4	1	15
+HAMILTON	2015-10-18	42	54	6		20151018	4	10	October     	Sunday    	1	0	1	0	4	1	10
+HAMILTON	2015-10-19	40	60	5		20151019	4	10	October     	Monday    	2	1	0	0	4	1	31
+HAMILTON	2015-10-20	57	55	8		20151020	4	10	October     	Tuesday   	3	1	0	0	4	1	14
+HAMILTON	2015-10-21	60	64	4		20151021	4	10	October     	Wednesday 	4	1	0	0	4	1	25
+HAMILTON	2015-10-22	60	69	5		20151022	4	10	October     	Thursday  	5	1	0	0	4	1	21
+HAMILTON	2015-10-23	53	50	9		20151023	4	10	October     	Friday    	6	1	0	0	4	1	24
+HAMILTON	2015-10-24	49	64	8		20151024	4	10	October     	Saturday  	7	0	1	0	4	1	10
+HAMILTON	2015-10-25	57	63	8	Rain	20151025	4	10	October     	Sunday    	1	0	1	0	4	2	12
+HAMILTON	2015-10-26	49	58	5		20151026	4	10	October     	Monday    	2	1	0	0	4	1	15
+HAMILTON	2015-10-27	48	75	7		20151027	4	10	October     	Tuesday   	3	1	0	0	4	1	23
+HAMILTON	2015-10-28	61	86	13	Fog-Rain	20151028	4	10	October     	Wednesday 	4	1	0	0	4	7	19
+HAMILTON	2015-10-29	64	61	10	Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	2	23
+HAMILTON	2015-10-30	52	51	7		20151030	4	10	October     	Friday    	6	1	0	0	4	1	16
+HAMILTON	2015-10-31	45	64	4		20151031	4	10	October     	Saturday  	7	0	1	0	4	1	22
+HAMILTON	2015-11-01	57	75	7		20151101	4	11	November    	Sunday    	1	0	1	0	4	1	11
+HAMILTON	2015-11-02	54	69	2		20151102	4	11	November    	Monday    	2	1	0	0	4	1	26
+HAMILTON	2015-11-03	57	65	3		20151103	4	11	November    	Tuesday   	3	1	0	0	4	1	28
+HAMILTON	2015-11-04	60	66	4	Fog	20151104	4	11	November    	Wednesday 	4	1	0	0	4	3	21
+HAMILTON	2015-11-05	61	89	3	Fog-Rain	20151105	4	11	November    	Thursday  	5	1	0	0	4	7	14
+HAMILTON	2015-11-06	69	81	7	Fog	20151106	4	11	November    	Friday    	6	1	0	0	4	3	24
+HAMILTON	2015-11-07	60	58	6		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	12
+HAMILTON	2015-11-08	47	53	5		20151108	4	11	November    	Sunday    	1	0	1	0	4	1	19
+HAMILTON	2015-11-09	46	63	2		20151109	4	11	November    	Monday    	2	1	0	0	4	1	26
+HAMILTON	2015-11-10	55	74	12	Rain-Thunderstorm	20151110	4	11	November    	Tuesday   	3	1	0	0	4	6	31
+HAMILTON	2015-11-11	57	78	7	Rain	20151111	4	11	November    	Wednesday 	4	1	0	1	4	2	17
+HAMILTON	2015-11-12	53	89	6	Rain	20151112	4	11	November    	Thursday  	5	1	0	0	4	2	12
+HAMILTON	2015-11-13	53	46	12		20151113	4	11	November    	Friday    	6	1	0	0	4	1	22
+HAMILTON	2015-11-14	45	45	10		20151114	4	11	November    	Saturday  	7	0	1	0	4	1	8
+HAMILTON	2015-11-15	47	51	7		20151115	4	11	November    	Sunday    	1	0	1	0	4	1	6
+HAMILTON	2015-11-16	55	46	6		20151116	4	11	November    	Monday    	2	1	0	0	4	1	25
+HAMILTON	2015-11-17	46	61	9		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	17
+HAMILTON	2015-11-18	49	74	9		20151118	4	11	November    	Wednesday 	4	1	0	0	4	1	25
+HAMILTON	2015-11-19	61	86	10	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	23
+HAMILTON	2015-11-20	49	61	8		20151120	4	11	November    	Friday    	6	1	0	0	4	1	23
+HAMILTON	2015-11-21	43	59	7		20151121	4	11	November    	Saturday  	7	0	1	0	4	1	13
+HAMILTON	2015-11-22	45	63	8		20151122	4	11	November    	Sunday    	1	0	1	0	4	1	14
+HAMILTON	2015-11-23	35	50	8		20151123	4	11	November    	Monday    	2	1	0	0	4	1	20
+HAMILTON	2015-11-24	36	58	3		20151124	4	11	November    	Tuesday   	3	1	0	0	4	1	17
+HAMILTON	2015-11-25	39	61	3		20151125	4	11	November    	Wednesday 	4	1	0	0	4	1	23
+HAMILTON	2015-11-26	47	67	3		20151126	4	11	November    	Thursday  	5	1	0	1	4	1	13
+HAMILTON	2015-11-27	50	78	4	Fog-Snow	20151127	4	11	November    	Friday    	6	1	0	0	4	7	15
+HAMILTON	2015-11-28	55	79	3	Rain	20151128	4	11	November    	Saturday  	7	0	1	0	4	2	14
+HAMILTON	2015-11-29	42	61	6	Rain	20151129	4	11	November    	Sunday    	1	0	1	0	4	2	7
+HAMILTON	2015-11-30	38	71	9	Rain	20151130	4	11	November    	Monday    	2	1	0	0	4	2	33
+HAMILTON	2015-12-01	47	95	8	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	17
+HAMILTON	2015-12-02	53	89	4	Fog-Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	7	21
+HAMILTON	2015-12-03	47	61	10		20151203	4	12	December    	Thursday  	5	1	0	0	1	1	22
+HAMILTON	2015-12-04	42	61	5		20151204	4	12	December    	Friday    	6	1	0	0	1	1	14
+HAMILTON	2015-12-05	41	69	4		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	19
+HAMILTON	2015-12-06	41	72	3		20151206	4	12	December    	Sunday    	1	0	1	0	1	1	21
+HAMILTON	2015-12-07	44	68	4		20151207	4	12	December    	Monday    	2	1	0	0	1	1	21
+HAMILTON	2015-12-08	41	66	5		20151208	4	12	December    	Tuesday   	3	1	0	0	1	1	20
+HAMILTON	2015-12-09	43	74	5		20151209	4	12	December    	Wednesday 	4	1	0	0	1	1	26
+HAMILTON	2015-12-10	52	73	3	Rain	20151210	4	12	December    	Thursday  	5	1	0	0	1	2	29
+HAMILTON	2015-12-11	50	81	3	Fog	20151211	4	12	December    	Friday    	6	1	0	0	1	3	17
+HAMILTON	2015-12-12	56	76	2		20151212	4	12	December    	Saturday  	7	0	1	0	1	1	16
+HAMILTON	2015-12-13	61	79	3	Fog	20151213	4	12	December    	Sunday    	1	0	1	0	1	3	17
+HAMILTON	2015-12-14	61	87	8	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	23
+HAMILTON	2015-12-15	59	69	12	Rain	20151215	4	12	December    	Tuesday   	3	1	0	0	1	2	22
+HAMILTON	2015-12-16	49	63	8		20151216	4	12	December    	Wednesday 	4	1	0	0	1	1	24
+HAMILTON	2015-12-17	51	86	3	Fog-Rain	20151217	4	12	December    	Thursday  	5	1	0	0	1	7	20
+HAMILTON	2015-12-18	46	70	9		20151218	4	12	December    	Friday    	6	1	0	0	1	1	15
+HAMILTON	2015-12-19	36	47	12		20151219	4	12	December    	Saturday  	7	0	1	0	1	1	17
+HAMILTON	2015-12-20	36	52	6		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	23
+HAMILTON	2015-12-21	43	63	6		20151221	4	12	December    	Monday    	2	1	0	0	1	1	18
+HAMILTON	2015-12-22	57	86	6	Fog-Rain	20151222	4	12	December    	Tuesday   	3	1	0	0	1	7	21
+HAMILTON	2015-12-23	61	95	7	Fog-Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	7	32
+HAMILTON	2015-12-24	67	89	9	Fog-Rain	20151224	4	12	December    	Thursday  	5	1	0	0	1	7	16
+HAMILTON	2015-12-25	63	94	3	Fog-Rain	20151225	4	12	December    	Friday    	6	1	0	1	1	7	5
+HAMILTON	2015-12-26	54	71	9		20151226	4	12	December    	Saturday  	7	0	1	0	1	1	15
+HAMILTON	2015-12-27	54	90	8	Fog-Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	7	15
+HAMILTON	2015-12-28	41	67	11	Rain	20151228	4	12	December    	Monday    	2	1	0	0	1	2	30
+HAMILTON	2015-12-29	43	93	8	Fog-Rain	20151229	4	12	December    	Tuesday   	3	1	0	0	1	7	25
+HAMILTON	2015-12-30	45	93	4	Fog-Rain	20151230	4	12	December    	Wednesday 	4	1	0	0	1	7	18
+HAMILTON	2015-12-31	46	78	6		20151231	4	12	December    	Thursday  	5	1	0	0	1	1	16
+HAMILTON	2016-01-01	36	56	8		20160101	1	1	January     	Friday    	6	1	0	1	1	1	11
+HAMILTON	2016-01-02	35	56	6		20160102	1	1	January     	Saturday  	7	0	1	0	1	1	14
+HAMILTON	2016-01-03	36	61	7		20160103	1	1	January     	Sunday    	1	0	1	0	1	1	24
+HAMILTON	2016-01-04	23	52	13		20160104	1	1	January     	Monday    	2	1	0	0	1	1	17
+HAMILTON	2016-01-05	20	41	7		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	50
+HAMILTON	2016-01-06	26	52	3		20160106	1	1	January     	Wednesday 	4	1	0	0	1	1	30
+HAMILTON	2016-01-07	33	52	2		20160107	1	1	January     	Thursday  	5	1	0	0	1	1	31
+HAMILTON	2016-01-08	38	65	6		20160108	1	1	January     	Friday    	6	1	0	0	1	1	15
+HAMILTON	2016-01-09	44	83	8		20160109	1	1	January     	Saturday  	7	0	1	0	1	1	18
+HAMILTON	2016-01-10	52	76	15	Rain	20160110	1	1	January     	Sunday    	1	0	1	0	1	2	13
+HAMILTON	2016-01-11	29	42	10		20160111	1	1	January     	Monday    	2	1	0	0	1	1	25
+HAMILTON	2016-01-12	30	60	8	Snow	20160112	1	1	January     	Tuesday   	3	1	0	0	1	4	32
+HAMILTON	2016-01-13	24	47	11		20160113	1	1	January     	Wednesday 	4	1	0	0	1	1	29
+HAMILTON	2016-01-14	31	51	4		20160114	1	1	January     	Thursday  	5	1	0	0	1	1	24
+HAMILTON	2016-01-15	38	67	3	Rain	20160115	1	1	January     	Friday    	6	1	0	0	1	2	15
+HAMILTON	2016-01-16	46	73	8	Rain	20160116	1	1	January     	Saturday  	7	0	1	0	1	2	15
+HAMILTON	2016-01-17	33	74	5	Snow	20160117	1	1	January     	Sunday    	1	0	1	0	1	4	11
+HAMILTON	2016-01-18	23	66	13		20160118	1	1	January     	Monday    	2	1	0	1	1	1	31
+HAMILTON	2016-01-19	21	45	15		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	31
+HAMILTON	2016-01-20	29	53	6		20160120	1	1	January     	Wednesday 	4	1	0	0	1	1	26
+HAMILTON	2016-01-21	30	51	8		20160121	1	1	January     	Thursday  	5	1	0	0	1	1	18
+HAMILTON	2016-01-22	22	65	6	Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	4	28
+HAMILTON	2016-01-23	26	87	20	Fog-Snow	20160123	1	1	January     	Saturday  	7	0	1	0	1	7	9
+HAMILTON	2016-01-24	27	50	9	Snow	20160124	1	1	January     	Sunday    	1	0	1	0	1	4	20
+HAMILTON	2016-01-25	24	60	3		20160125	1	1	January     	Monday    	2	1	0	0	1	1	43
+HAMILTON	2016-01-26	34	73	4		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	35
+HAMILTON	2016-01-27	36	55	8		20160127	1	1	January     	Wednesday 	4	1	0	0	1	1	36
+HAMILTON	2016-01-28	29	68	3		20160128	1	1	January     	Thursday  	5	1	0	0	1	1	20
+HAMILTON	2016-01-29	32	66	8	Rain-Snow	20160129	1	1	January     	Friday    	6	1	0	0	1	6	18
+HAMILTON	2016-01-30	30	59	6		20160130	1	1	January     	Saturday  	7	0	1	0	1	1	19
+HAMILTON	2016-01-31	42	58	3		20160131	1	1	January     	Sunday    	1	0	1	0	1	1	11
+HAMILTON	2016-02-01	47	71	5	Rain	20160201	1	2	February    	Monday    	2	1	0	0	1	2	18
+HAMILTON	2016-02-02	41	55	4		20160202	1	2	February    	Tuesday   	3	1	0	0	1	1	22
+HAMILTON	2016-02-03	46	85	7	Fog-Rain	20160203	1	2	February    	Wednesday 	4	1	0	0	1	7	20
+HAMILTON	2016-02-04	48	73	6	Fog-Rain	20160204	1	2	February    	Thursday  	5	1	0	0	1	7	20
+HAMILTON	2016-02-05	35	65	9	Rain-Snow	20160205	1	2	February    	Friday    	6	1	0	0	1	6	28
+HAMILTON	2016-02-06	30	63	3		20160206	1	2	February    	Saturday  	7	0	1	0	1	1	15
+HAMILTON	2016-02-07	34	64	4		20160207	1	2	February    	Sunday    	1	0	1	0	1	1	21
+HAMILTON	2016-02-08	36	62	10	Snow	20160208	1	2	February    	Monday    	2	1	0	0	1	4	21
+HAMILTON	2016-02-09	32	88	6	Snow	20160209	1	2	February    	Tuesday   	3	1	0	0	1	4	12
+HAMILTON	2016-02-10	32	74	10	Snow	20160210	1	2	February    	Wednesday 	4	1	0	0	1	4	16
+HAMILTON	2016-02-11	23	56	12	Snow	20160211	1	2	February    	Thursday  	5	1	0	0	1	4	19
+HAMILTON	2016-02-12	19	55	6	Snow	20160212	1	2	February    	Friday    	6	1	0	0	1	4	25
+HAMILTON	2016-02-13	16	53	14	Snow	20160213	1	2	February    	Saturday  	7	0	1	0	1	4	17
+HAMILTON	2016-02-14	10	45	7		20160214	1	2	February    	Sunday    	1	0	1	0	1	1	26
+HILLSBOROUGH	2015-01-01	26	57	2		20150101	1	1	January     	Thursday  	5	1	0	1	1	1	5
+HILLSBOROUGH	2015-01-02	34	56	4		20150102	1	1	January     	Friday    	6	1	0	0	1	1	25
+HILLSBOROUGH	2015-01-03	28	87	2	Rain-Snow	20150103	1	1	January     	Saturday  	7	0	1	0	1	6	16
+HILLSBOROUGH	2015-01-04	44	92	3	Fog-Rain	20150104	1	1	January     	Sunday    	1	0	1	0	1	7	14
+HILLSBOROUGH	2015-01-05	34	39	11		20150105	1	1	January     	Monday    	2	1	0	0	1	1	19
+HILLSBOROUGH	2015-01-06	14	74	2	Snow	20150106	1	1	January     	Tuesday   	3	1	0	0	1	4	22
+HILLSBOROUGH	2015-01-07	14	57	7	Snow	20150107	1	1	January     	Wednesday 	4	1	0	0	1	4	24
+HILLSBOROUGH	2015-01-08	10	48	8		20150108	1	1	January     	Thursday  	5	1	0	0	1	1	31
+HILLSBOROUGH	2015-01-12	36	85	2	Rain	20150112	1	1	January     	Monday    	2	1	0	0	1	2	16
+HILLSBOROUGH	2015-01-13	26	49	10		20150113	1	1	January     	Tuesday   	3	1	0	0	1	1	22
+HILLSBOROUGH	2015-01-14	23	57	5		20150114	1	1	January     	Wednesday 	4	1	0	0	1	1	9
+HILLSBOROUGH	2015-01-15	26	65	4		20150115	1	1	January     	Thursday  	5	1	0	0	1	1	13
+HILLSBOROUGH	2015-01-16	30	59	7	Snow	20150116	1	1	January     	Friday    	6	1	0	0	1	4	16
+HILLSBOROUGH	2015-01-17	21	47	4		20150117	1	1	January     	Saturday  	7	0	1	0	1	1	10
+HILLSBOROUGH	2015-01-18	27	91	3	Fog-Rain	20150118	1	1	January     	Sunday    	1	0	1	0	1	7	12
+HILLSBOROUGH	2015-01-19	37	63	4		20150119	1	1	January     	Monday    	2	1	0	1	1	1	18
+HILLSBOROUGH	2015-01-20	34	61	5		20150120	1	1	January     	Tuesday   	3	1	0	0	1	1	16
+HILLSBOROUGH	2015-01-21	28	57	4	Snow	20150121	1	1	January     	Wednesday 	4	1	0	0	1	4	14
+HILLSBOROUGH	2015-01-22	32	73	2	Snow	20150122	1	1	January     	Thursday  	5	1	0	0	1	4	14
+HILLSBOROUGH	2015-01-23	28	67	3	Snow	20150123	1	1	January     	Friday    	6	1	0	0	1	4	14
+HILLSBOROUGH	2015-01-24	36	86	2	Fog-Rain-Snow	20150124	1	1	January     	Saturday  	7	0	1	0	1	8	7
+HILLSBOROUGH	2015-01-25	36	52	7		20150125	1	1	January     	Sunday    	1	0	1	0	1	1	18
+HILLSBOROUGH	2015-01-26	24	74	9	Snow	20150126	1	1	January     	Monday    	2	1	0	0	1	4	16
+HILLSBOROUGH	2015-01-27	24	70	10	Snow	20150127	1	1	January     	Tuesday   	3	1	0	0	1	4	4
+HILLSBOROUGH	2015-01-28	26	41	10		20150128	1	1	January     	Wednesday 	4	1	0	0	1	1	22
+HILLSBOROUGH	2015-01-29	16	63	2	Snow	20150129	1	1	January     	Thursday  	5	1	0	0	1	4	14
+HILLSBOROUGH	2015-01-30	28	68	6	Snow	20150130	1	1	January     	Friday    	6	1	0	0	1	4	19
+HILLSBOROUGH	2015-01-31	19	46	12		20150131	1	1	January     	Saturday  	7	0	1	0	1	1	8
+HILLSBOROUGH	2015-02-01	22	72	1	Snow	20150201	1	2	February    	Sunday    	1	0	1	0	1	4	8
+HILLSBOROUGH	2015-02-02	25	82	8	Fog-Rain-Snow	20150202	1	2	February    	Monday    	2	1	0	0	1	8	16
+HILLSBOROUGH	2015-02-03	17	66	3		20150203	1	2	February    	Tuesday   	3	1	0	0	1	1	24
+HILLSBOROUGH	2015-02-04	24	78	1		20150204	1	2	February    	Wednesday 	4	1	0	0	1	1	15
+HILLSBOROUGH	2015-02-05	24	56	9		20150205	1	2	February    	Thursday  	5	1	0	0	1	1	11
+HILLSBOROUGH	2015-02-06	16	52	4		20150206	1	2	February    	Friday    	6	1	0	0	1	1	16
+HILLSBOROUGH	2015-02-07	24	63	1	Snow	20150207	1	2	February    	Saturday  	7	0	1	0	1	4	12
+HILLSBOROUGH	2015-02-08	36	81	3		20150208	1	2	February    	Sunday    	1	0	1	0	1	1	5
+HILLSBOROUGH	2015-02-09	30	79	8	Rain	20150209	1	2	February    	Monday    	2	1	0	0	1	2	10
+HILLSBOROUGH	2015-02-10	34	67	7		20150210	1	2	February    	Tuesday   	3	1	0	0	1	1	10
+HILLSBOROUGH	2015-02-11	29	51	4		20150211	1	2	February    	Wednesday 	4	1	0	0	1	1	13
+HILLSBOROUGH	2015-02-12	29	65	4	Snow	20150212	1	2	February    	Thursday  	5	1	0	0	1	4	7
+HILLSBOROUGH	2015-02-13	14	45	12		20150213	1	2	February    	Friday    	6	1	0	0	1	1	11
+HILLSBOROUGH	2015-02-14	16	79	2	Fog-Snow	20150214	1	2	February    	Saturday  	7	0	1	0	1	7	7
+HILLSBOROUGH	2015-02-15	12	55	20	Snow	20150215	1	2	February    	Sunday    	1	0	1	0	1	4	11
+HILLSBOROUGH	2015-02-16	10	42	10		20150216	1	2	February    	Monday    	2	1	0	1	1	1	28
+HILLSBOROUGH	2015-02-17	18	69	3	Snow	20150217	1	2	February    	Tuesday   	3	1	0	0	1	4	24
+HILLSBOROUGH	2015-02-18	14	59	2		20150218	1	2	February    	Wednesday 	4	1	0	0	1	1	19
+HILLSBOROUGH	2015-02-19	14	43	11		20150219	1	2	February    	Thursday  	5	1	0	0	1	1	13
+HILLSBOROUGH	2015-02-20	8	44	8		20150220	1	2	February    	Friday    	6	1	0	0	1	1	19
+HILLSBOROUGH	2015-02-21	13	81	2	Fog-Rain-Snow	20150221	1	2	February    	Saturday  	7	0	1	0	1	8	15
+HILLSBOROUGH	2015-02-22	36	80	1	Rain-Snow	20150222	1	2	February    	Sunday    	1	0	1	0	1	6	15
+HILLSBOROUGH	2015-02-23	22	43	9		20150223	1	2	February    	Monday    	2	1	0	0	1	1	19
+HILLSBOROUGH	2015-02-24	8	51	2		20150224	1	2	February    	Tuesday   	3	1	0	0	1	1	19
+HILLSBOROUGH	2015-02-25	20	59	2		20150225	1	2	February    	Wednesday 	4	1	0	0	1	1	16
+HILLSBOROUGH	2015-02-26	22	56	5		20150226	1	2	February    	Thursday  	5	1	0	0	1	1	12
+HILLSBOROUGH	2015-02-27	21	51	4		20150227	1	2	February    	Friday    	6	1	0	0	1	1	7
+HILLSBOROUGH	2015-02-28	16	45	3		20150228	1	2	February    	Saturday  	7	0	1	0	1	1	16
+HILLSBOROUGH	2015-03-01	16	77	1	Fog-Rain-Snow	20150301	1	3	March       	Sunday    	1	0	1	0	2	8	10
+HILLSBOROUGH	2015-03-02	32	60	5	Snow	20150302	1	3	March       	Monday    	2	1	0	0	2	4	31
+HILLSBOROUGH	2015-03-03	22	76	3	Fog-Rain-Snow	20150303	1	3	March       	Tuesday   	3	1	0	0	2	8	20
+HILLSBOROUGH	2015-03-04	40	90	2	Fog-Rain	20150304	1	3	March       	Wednesday 	4	1	0	0	2	7	15
+HILLSBOROUGH	2015-03-05	28	83	4	Fog-Rain-Snow	20150305	1	3	March       	Thursday  	5	1	0	0	2	8	9
+HILLSBOROUGH	2015-03-06	14	59	5		20150306	1	3	March       	Friday    	6	1	0	0	2	1	21
+HILLSBOROUGH	2015-03-07	20	62	2		20150307	1	3	March       	Saturday  	7	0	1	0	2	1	18
+HILLSBOROUGH	2015-03-08	34	64	2		20150308	1	3	March       	Sunday    	1	0	1	0	2	1	13
+HILLSBOROUGH	2015-03-09	38	63	2		20150309	1	3	March       	Monday    	2	1	0	0	2	1	20
+HILLSBOROUGH	2015-03-10	40	79	1	Fog-Rain	20150310	1	3	March       	Tuesday   	3	1	0	0	2	7	14
+HILLSBOROUGH	2015-03-11	46	82	2	Fog-Rain	20150311	1	3	March       	Wednesday 	4	1	0	0	2	7	20
+HILLSBOROUGH	2015-03-12	39	29	11		20150312	1	3	March       	Thursday  	5	1	0	0	2	1	20
+HILLSBOROUGH	2015-03-13	34	46	4		20150313	1	3	March       	Friday    	6	1	0	0	2	1	17
+HILLSBOROUGH	2015-03-14	40	91	1	Fog-Rain	20150314	1	3	March       	Saturday  	7	0	1	0	2	7	13
+HILLSBOROUGH	2015-03-15	39	66	6		20150315	1	3	March       	Sunday    	1	0	1	0	2	1	12
+HILLSBOROUGH	2015-03-16	40	62	3		20150316	1	3	March       	Monday    	2	1	0	0	2	1	14
+HILLSBOROUGH	2015-03-17	46	59	6		20150317	1	3	March       	Tuesday   	3	1	0	0	2	1	16
+HILLSBOROUGH	2015-03-18	35	35	13		20150318	1	3	March       	Wednesday 	4	1	0	0	2	1	12
+HILLSBOROUGH	2015-03-19	30	48	3		20150319	1	3	March       	Thursday  	5	1	0	0	2	1	11
+HILLSBOROUGH	2015-03-20	30	80	4	Fog-Snow	20150320	1	3	March       	Friday    	6	1	0	0	2	7	5
+HILLSBOROUGH	2015-03-21	39	77	2	Rain-Snow	20150321	1	3	March       	Saturday  	7	0	1	0	2	6	8
+HILLSBOROUGH	2015-03-22	36	36	10		20150322	1	3	March       	Sunday    	1	0	1	0	2	1	9
+HILLSBOROUGH	2015-03-23	31	37	7		20150323	1	3	March       	Monday    	2	1	0	0	2	1	13
+HILLSBOROUGH	2015-03-24	36	38	5		20150324	1	3	March       	Tuesday   	3	1	0	0	2	1	19
+HILLSBOROUGH	2015-03-25	34	72	1	Rain	20150325	1	3	March       	Wednesday 	4	1	0	0	2	2	12
+HILLSBOROUGH	2015-03-26	46	90	1	Fog-Rain	20150326	1	3	March       	Thursday  	5	1	0	0	2	7	18
+HILLSBOROUGH	2015-03-27	42	68	6	Rain	20150327	1	3	March       	Friday    	6	1	0	0	2	2	9
+HILLSBOROUGH	2015-03-28	33	46	12		20150328	1	3	March       	Saturday  	7	0	1	0	2	1	7
+HILLSBOROUGH	2015-03-29	36	32	9		20150329	1	3	March       	Sunday    	1	0	1	0	2	1	7
+HILLSBOROUGH	2015-03-30	42	52	5		20150330	1	3	March       	Monday    	2	1	0	0	2	1	12
+HILLSBOROUGH	2015-03-31	38	71	6	Rain-Snow	20150331	1	3	March       	Tuesday   	3	1	0	0	2	6	9
+HILLSBOROUGH	2015-04-01	41	50	7		20150401	2	4	April       	Wednesday 	4	1	0	0	2	1	5
+HILLSBOROUGH	2015-04-02	46	50	5		20150402	2	4	April       	Thursday  	5	1	0	0	2	1	10
+HILLSBOROUGH	2015-04-03	58	76	2	Rain	20150403	2	4	April       	Friday    	6	1	0	0	2	2	10
+HILLSBOROUGH	2015-04-04	46	65	6	Fog-Rain	20150404	2	4	April       	Saturday  	7	0	1	0	2	7	6
+HILLSBOROUGH	2015-04-05	44	47	3		20150405	2	4	April       	Sunday    	1	0	1	0	2	1	5
+HILLSBOROUGH	2015-04-06	52	51	3		20150406	2	4	April       	Monday    	2	1	0	0	2	1	11
+HILLSBOROUGH	2015-04-07	54	76	3	Rain	20150407	2	4	April       	Tuesday   	3	1	0	0	2	2	14
+HILLSBOROUGH	2015-04-08	44	71	7	Rain	20150408	2	4	April       	Wednesday 	4	1	0	0	2	2	11
+HILLSBOROUGH	2015-04-09	40	83	6	Rain	20150409	2	4	April       	Thursday  	5	1	0	0	2	2	8
+HILLSBOROUGH	2015-04-10	47	89	5	Rain	20150410	2	4	April       	Friday    	6	1	0	0	2	2	14
+HILLSBOROUGH	2015-04-11	48	53	7		20150411	2	4	April       	Saturday  	7	0	1	0	2	1	10
+HILLSBOROUGH	2015-04-12	52	35	2		20150412	2	4	April       	Sunday    	1	0	1	0	2	1	10
+HILLSBOROUGH	2015-04-13	54	54	3		20150413	2	4	April       	Monday    	2	1	0	0	2	1	20
+HILLSBOROUGH	2015-04-14	60	52	6	Rain	20150414	2	4	April       	Tuesday   	3	1	0	0	2	2	13
+HILLSBOROUGH	2015-04-15	56	33	5		20150415	2	4	April       	Wednesday 	4	1	0	0	2	1	9
+HILLSBOROUGH	2015-04-16	52	46	4		20150416	2	4	April       	Thursday  	5	1	0	1	2	1	15
+HILLSBOROUGH	2015-04-17	62	78	2	Rain	20150417	2	4	April       	Friday    	6	1	0	0	2	2	14
+HILLSBOROUGH	2015-04-18	62	58	2		20150418	2	4	April       	Saturday  	7	0	1	0	2	1	15
+HILLSBOROUGH	2015-04-19	55	41	7		20150419	2	4	April       	Sunday    	1	0	1	0	2	1	7
+HILLSBOROUGH	2015-04-20	54	88	8	Rain	20150420	2	4	April       	Monday    	2	1	0	0	2	2	16
+HILLSBOROUGH	2015-04-21	56	76	3	Rain	20150421	2	4	April       	Tuesday   	3	1	0	0	2	2	10
+HILLSBOROUGH	2015-04-22	52	62	3	Rain	20150422	2	4	April       	Wednesday 	4	1	0	0	2	2	7
+HILLSBOROUGH	2015-04-23	42	52	8		20150423	2	4	April       	Thursday  	5	1	0	0	2	1	15
+HILLSBOROUGH	2015-04-24	44	38	9		20150424	2	4	April       	Friday    	6	1	0	0	2	1	10
+HILLSBOROUGH	2015-04-25	44	50	2		20150425	2	4	April       	Saturday  	7	0	1	0	2	1	7
+HILLSBOROUGH	2015-04-26	48	48	3		20150426	2	4	April       	Sunday    	1	0	1	0	2	1	11
+HILLSBOROUGH	2015-04-27	48	52	5		20150427	2	4	April       	Monday    	2	1	0	0	2	1	14
+HILLSBOROUGH	2015-04-28	60	44	9		20150428	2	4	April       	Tuesday   	3	1	0	0	2	1	7
+HILLSBOROUGH	2015-04-29	59	45	4		20150429	2	4	April       	Wednesday 	4	1	0	0	2	1	15
+HILLSBOROUGH	2015-04-30	56	61	7		20150430	2	4	April       	Thursday  	5	1	0	0	2	1	12
+HILLSBOROUGH	2015-05-01	53	64	2		20150501	2	5	May         	Friday    	6	1	0	0	2	1	9
+HILLSBOROUGH	2015-05-02	56	59	2		20150502	2	5	May         	Saturday  	7	0	1	0	2	1	13
+HILLSBOROUGH	2015-05-03	60	51	2		20150503	2	5	May         	Sunday    	1	0	1	0	2	1	7
+HILLSBOROUGH	2015-05-04	64	49	2		20150504	2	5	May         	Monday    	2	1	0	0	2	1	12
+HILLSBOROUGH	2015-05-05	66	58	1		20150505	2	5	May         	Tuesday   	3	1	0	0	2	1	9
+HILLSBOROUGH	2015-05-06	62	60	2	Rain	20150506	2	5	May         	Wednesday 	4	1	0	0	2	2	8
+HILLSBOROUGH	2015-05-07	64	58	2		20150507	2	5	May         	Thursday  	5	1	0	0	2	1	13
+HILLSBOROUGH	2015-05-08	66	60	2		20150508	2	5	May         	Friday    	6	1	0	0	2	1	10
+HILLSBOROUGH	2015-05-09	60	87	1	Fog-Rain	20150509	2	5	May         	Saturday  	7	0	1	0	2	7	10
+HILLSBOROUGH	2015-05-10	72	84	1	Fog	20150510	2	5	May         	Sunday    	1	0	1	0	2	3	5
+HILLSBOROUGH	2015-05-11	74	79	2	Rain	20150511	2	5	May         	Monday    	2	1	0	0	2	2	11
+HILLSBOROUGH	2015-05-12	73	73	2	Fog	20150512	2	5	May         	Tuesday   	3	1	0	0	2	3	10
+HILLSBOROUGH	2015-05-13	60	46	9		20150513	2	5	May         	Wednesday 	4	1	0	0	2	1	7
+HILLSBOROUGH	2015-05-14	58	45	3		20150514	2	5	May         	Thursday  	5	1	0	0	2	1	8
+HILLSBOROUGH	2015-05-15	58	56	1		20150515	2	5	May         	Friday    	6	1	0	0	2	1	8
+HILLSBOROUGH	2015-05-16	62	76	0	Rain	20150516	2	5	May         	Saturday  	7	0	1	0	2	2	8
+HILLSBOROUGH	2015-05-17	72	84	2	Fog	20150517	2	5	May         	Sunday    	1	0	1	0	2	3	3
+HILLSBOROUGH	2015-05-18	60	85	2	Fog	20150518	2	5	May         	Monday    	2	1	0	0	2	3	12
+HILLSBOROUGH	2015-05-19	68	85	1	Rain	20150519	2	5	May         	Tuesday   	3	1	0	0	2	2	14
+HILLSBOROUGH	2015-05-20	56	53	8	Rain	20150520	2	5	May         	Wednesday 	4	1	0	0	2	2	8
+HILLSBOROUGH	2015-05-21	51	69	2		20150521	2	5	May         	Thursday  	5	1	0	0	2	1	4
+HILLSBOROUGH	2015-05-22	60	56	3		20150522	2	5	May         	Friday    	6	1	0	0	2	1	10
+HILLSBOROUGH	2015-05-23	56	43	3		20150523	2	5	May         	Saturday  	7	0	1	0	2	1	9
+HILLSBOROUGH	2015-05-24	59	53	1		20150524	2	5	May         	Sunday    	1	0	1	0	2	1	6
+HILLSBOROUGH	2015-05-25	70	59	3		20150525	2	5	May         	Monday    	2	1	0	1	2	1	11
+HILLSBOROUGH	2015-05-26	72	61	4		20150526	2	5	May         	Tuesday   	3	1	0	0	2	1	20
+HILLSBOROUGH	2015-05-27	76	81	3	Fog-Rain	20150527	2	5	May         	Wednesday 	4	1	0	0	2	7	12
+HILLSBOROUGH	2015-05-28	76	80	1	Fog	20150528	2	5	May         	Thursday  	5	1	0	0	2	3	10
+HILLSBOROUGH	2015-05-29	70	65	2		20150529	2	5	May         	Friday    	6	1	0	0	2	1	6
+HILLSBOROUGH	2015-05-30	72	71	3		20150530	2	5	May         	Saturday  	7	0	1	0	2	1	13
+HILLSBOROUGH	2015-05-31	74	80	4	Fog-Rain-Thunderstorm	20150531	2	5	May         	Sunday    	1	0	1	0	2	8	7
+HILLSBOROUGH	2015-06-01	58	90	4	Fog-Rain-Thunderstorm	20150601	2	6	June        	Monday    	2	1	0	0	3	8	21
+HILLSBOROUGH	2015-06-02	54	88	5	Rain	20150602	2	6	June        	Tuesday   	3	1	0	0	3	2	14
+HILLSBOROUGH	2015-06-03	62	72	3		20150603	2	6	June        	Wednesday 	4	1	0	0	3	1	17
+HILLSBOROUGH	2015-06-04	60	69	2		20150604	2	6	June        	Thursday  	5	1	0	0	3	1	11
+HILLSBOROUGH	2015-06-05	62	80	2	Rain	20150605	2	6	June        	Friday    	6	1	0	0	3	2	4
+HILLSBOROUGH	2015-06-06	68	72	2	Rain	20150606	2	6	June        	Saturday  	7	0	1	0	3	2	14
+HILLSBOROUGH	2015-06-07	62	59	4		20150607	2	6	June        	Sunday    	1	0	1	0	3	1	7
+HILLSBOROUGH	2015-06-08	73	69	5	Rain	20150608	2	6	June        	Monday    	2	1	0	0	3	2	17
+HILLSBOROUGH	2015-06-09	73	71	3	Rain	20150609	2	6	June        	Tuesday   	3	1	0	0	3	2	9
+HILLSBOROUGH	2015-06-10	68	67	2		20150610	2	6	June        	Wednesday 	4	1	0	0	3	1	15
+HILLSBOROUGH	2015-06-11	76	71	2		20150611	2	6	June        	Thursday  	5	1	0	0	3	1	5
+HILLSBOROUGH	2015-06-12	78	69	2	Thunderstorm	20150612	2	6	June        	Friday    	6	1	0	0	3	5	18
+HILLSBOROUGH	2015-06-13	77	61	4	Rain	20150613	2	6	June        	Saturday  	7	0	1	0	3	2	10
+HILLSBOROUGH	2015-06-14	75	74	3	Rain-Thunderstorm	20150614	2	6	June        	Sunday    	1	0	1	0	3	6	12
+HILLSBOROUGH	2015-06-15	76	87	2	Fog-Rain-Thunderstorm	20150615	2	6	June        	Monday    	2	1	0	0	3	8	18
+HILLSBOROUGH	2015-06-16	75	86	2	Rain	20150616	2	6	June        	Tuesday   	3	1	0	0	3	2	11
+HILLSBOROUGH	2015-06-17	72	60	4	Rain	20150617	2	6	June        	Wednesday 	4	1	0	0	3	2	8
+HILLSBOROUGH	2015-06-18	66	88	2	Rain	20150618	2	6	June        	Thursday  	5	1	0	0	3	2	12
+HILLSBOROUGH	2015-06-19	76	76	2		20150619	2	6	June        	Friday    	6	1	0	0	3	1	14
+HILLSBOROUGH	2015-06-20	68	78	3	Rain	20150620	2	6	June        	Saturday  	7	0	1	0	3	2	5
+HILLSBOROUGH	2015-06-21	80	83	3	Rain	20150621	2	6	June        	Sunday    	1	0	1	0	3	2	10
+HILLSBOROUGH	2015-06-22	75	71	1		20150622	2	6	June        	Monday    	2	1	0	0	3	1	12
+HILLSBOROUGH	2015-06-23	76	75	2	Rain-Thunderstorm	20150623	2	6	June        	Tuesday   	3	1	0	0	3	6	19
+HILLSBOROUGH	2015-06-24	74	57	6		20150624	2	6	June        	Wednesday 	4	1	0	0	3	1	7
+HILLSBOROUGH	2015-06-25	67	73	1		20150625	2	6	June        	Thursday  	5	1	0	0	3	1	12
+HILLSBOROUGH	2015-06-26	73	69	1		20150626	2	6	June        	Friday    	6	1	0	0	3	1	13
+HILLSBOROUGH	2015-06-27	63	86	4	Rain	20150627	2	6	June        	Saturday  	7	0	1	0	3	2	5
+HILLSBOROUGH	2015-06-28	68	79	4	Rain	20150628	2	6	June        	Sunday    	1	0	1	0	3	2	12
+HILLSBOROUGH	2015-06-29	66	67	4		20150629	2	6	June        	Monday    	2	1	0	0	3	1	19
+HILLSBOROUGH	2015-06-30	70	77	4	Rain	20150630	2	6	June        	Tuesday   	3	1	0	0	3	2	18
+HILLSBOROUGH	2015-07-01	74	78	3	Rain-Thunderstorm	20150701	3	7	July        	Wednesday 	4	1	0	0	3	6	8
+HILLSBOROUGH	2015-07-02	68	79	0	Rain	20150702	3	7	July        	Thursday  	5	1	0	0	3	2	7
+HILLSBOROUGH	2015-07-03	70	70	2		20150703	3	7	July        	Friday    	6	1	0	1	3	1	6
+HILLSBOROUGH	2015-07-04	70	77	2	Rain	20150704	3	7	July        	Saturday  	7	0	1	0	3	2	6
+HILLSBOROUGH	2015-07-05	71	76	1		20150705	3	7	July        	Sunday    	1	0	1	0	3	1	6
+HILLSBOROUGH	2015-07-06	74	83	1	Rain	20150706	3	7	July        	Monday    	2	1	0	0	3	2	13
+HILLSBOROUGH	2015-07-07	78	85	2	Fog	20150707	3	7	July        	Tuesday   	3	1	0	0	3	3	8
+HILLSBOROUGH	2015-07-08	76	85	1	Rain	20150708	3	7	July        	Wednesday 	4	1	0	0	3	2	14
+HILLSBOROUGH	2015-07-09	76	79	3	Rain-Thunderstorm	20150709	3	7	July        	Thursday  	5	1	0	0	3	6	4
+HILLSBOROUGH	2015-07-10	75	70	3		20150710	3	7	July        	Friday    	6	1	0	0	3	1	13
+HILLSBOROUGH	2015-07-11	75	65	3		20150711	3	7	July        	Saturday  	7	0	1	0	3	1	11
+HILLSBOROUGH	2015-07-12	74	71	1		20150712	3	7	July        	Sunday    	1	0	1	0	3	1	6
+HILLSBOROUGH	2015-07-13	76	67	2		20150713	3	7	July        	Monday    	2	1	0	0	3	1	6
+HILLSBOROUGH	2015-07-14	72	83	1	Rain	20150714	3	7	July        	Tuesday   	3	1	0	0	3	2	8
+HILLSBOROUGH	2015-07-15	76	82	2	Rain-Thunderstorm	20150715	3	7	July        	Wednesday 	4	1	0	0	3	6	13
+HILLSBOROUGH	2015-07-16	68	60	5		20150716	3	7	July        	Thursday  	5	1	0	0	3	1	12
+HILLSBOROUGH	2015-07-17	68	73	2		20150717	3	7	July        	Friday    	6	1	0	0	3	1	7
+HILLSBOROUGH	2015-07-18	78	78	3	Rain-Thunderstorm	20150718	3	7	July        	Saturday  	7	0	1	0	3	6	9
+HILLSBOROUGH	2015-07-19	81	75	1		20150719	3	7	July        	Sunday    	1	0	1	0	3	1	5
+HILLSBOROUGH	2015-07-20	81	72	1		20150720	3	7	July        	Monday    	2	1	0	0	3	1	18
+HILLSBOROUGH	2015-07-21	77	78	1	Rain	20150721	3	7	July        	Tuesday   	3	1	0	0	3	2	10
+HILLSBOROUGH	2015-07-22	70	71	3		20150722	3	7	July        	Wednesday 	4	1	0	0	3	1	10
+HILLSBOROUGH	2015-07-23	68	62	2		20150723	3	7	July        	Thursday  	5	1	0	0	3	1	10
+HILLSBOROUGH	2015-07-24	70	60	4		20150724	3	7	July        	Friday    	6	1	0	0	3	1	11
+HILLSBOROUGH	2015-07-25	72	59	1		20150725	3	7	July        	Saturday  	7	0	1	0	3	1	12
+HILLSBOROUGH	2015-07-26	75	66	3		20150726	3	7	July        	Sunday    	1	0	1	0	3	1	6
+HILLSBOROUGH	2015-07-27	78	75	1	Rain-Thunderstorm	20150727	3	7	July        	Monday    	2	1	0	0	3	6	12
+HILLSBOROUGH	2015-07-28	80	79	0	Fog	20150728	3	7	July        	Tuesday   	3	1	0	0	3	3	4
+HILLSBOROUGH	2015-07-29	78	64	2		20150729	3	7	July        	Wednesday 	4	1	0	0	3	1	11
+HILLSBOROUGH	2015-07-30	78	88	1	Fog-Rain-Thunderstorm	20150730	3	7	July        	Thursday  	5	1	0	0	3	8	13
+HILLSBOROUGH	2015-07-31	76	76	1	Fog	20150731	3	7	July        	Friday    	6	1	0	0	3	3	12
+HILLSBOROUGH	2015-08-01	74	66	1		20150801	3	8	August      	Saturday  	7	0	1	0	3	1	8
+HILLSBOROUGH	2015-08-02	72	60	1		20150802	3	8	August      	Sunday    	1	0	1	0	3	1	8
+HILLSBOROUGH	2015-08-03	75	62	2		20150803	3	8	August      	Monday    	2	1	0	0	3	1	19
+HILLSBOROUGH	2015-08-04	76	68	3	Rain-Thunderstorm	20150804	3	8	August      	Tuesday   	3	1	0	0	3	6	9
+HILLSBOROUGH	2015-08-05	73	68	2		20150805	3	8	August      	Wednesday 	4	1	0	0	3	1	9
+HILLSBOROUGH	2015-08-06	69	65	3		20150806	3	8	August      	Thursday  	5	1	0	0	3	1	11
+HILLSBOROUGH	2015-08-07	72	60	2		20150807	3	8	August      	Friday    	6	1	0	0	3	1	6
+HILLSBOROUGH	2015-08-08	70	63	2		20150808	3	8	August      	Saturday  	7	0	1	0	3	1	13
+HILLSBOROUGH	2015-08-09	74	52	1		20150809	3	8	August      	Sunday    	1	0	1	0	3	1	9
+HILLSBOROUGH	2015-08-10	76	62	2		20150810	3	8	August      	Monday    	2	1	0	0	3	1	15
+HILLSBOROUGH	2015-08-11	72	89	2	Rain	20150811	3	8	August      	Tuesday   	3	1	0	0	3	2	10
+HILLSBOROUGH	2015-08-12	72	84	1	Fog	20150812	3	8	August      	Wednesday 	4	1	0	0	3	3	12
+HILLSBOROUGH	2015-08-13	68	66	2	Rain	20150813	3	8	August      	Thursday  	5	1	0	0	3	2	15
+HILLSBOROUGH	2015-08-14	71	70	1		20150814	3	8	August      	Friday    	6	1	0	0	3	1	3
+HILLSBOROUGH	2015-08-15	76	72	1		20150815	3	8	August      	Saturday  	7	0	1	0	3	1	8
+HILLSBOROUGH	2015-08-16	77	72	1		20150816	3	8	August      	Sunday    	1	0	1	0	3	1	7
+HILLSBOROUGH	2015-08-17	80	77	1	Fog	20150817	3	8	August      	Monday    	2	1	0	0	3	3	17
+HILLSBOROUGH	2015-08-18	82	67	2	Thunderstorm	20150818	3	8	August      	Tuesday   	3	1	0	0	3	5	12
+HILLSBOROUGH	2015-08-19	82	74	3	Thunderstorm	20150819	3	8	August      	Wednesday 	4	1	0	0	3	5	18
+HILLSBOROUGH	2015-08-20	81	84	4	Fog-Rain	20150820	3	8	August      	Thursday  	5	1	0	0	3	7	14
+HILLSBOROUGH	2015-08-21	77	77	3	Fog-Rain-Thunderstorm	20150821	3	8	August      	Friday    	6	1	0	0	3	8	7
+HILLSBOROUGH	2015-08-22	70	60	4		20150822	3	8	August      	Saturday  	7	0	1	0	3	1	8
+HILLSBOROUGH	2015-08-23	68	73	2		20150823	3	8	August      	Sunday    	1	0	1	0	3	1	11
+HILLSBOROUGH	2015-08-24	72	79	1	Fog	20150824	3	8	August      	Monday    	2	1	0	0	3	3	15
+HILLSBOROUGH	2015-08-25	76	64	1		20150825	3	8	August      	Tuesday   	3	1	0	0	3	1	11
+HILLSBOROUGH	2015-08-26	67	64	2		20150826	3	8	August      	Wednesday 	4	1	0	0	3	1	17
+HILLSBOROUGH	2015-08-27	66	67	2		20150827	3	8	August      	Thursday  	5	1	0	0	3	1	13
+HILLSBOROUGH	2015-08-28	66	68	3		20150828	3	8	August      	Friday    	6	1	0	0	3	1	10
+HILLSBOROUGH	2015-08-29	70	67	2		20150829	3	8	August      	Saturday  	7	0	1	0	3	1	17
+HILLSBOROUGH	2015-08-30	74	69	1		20150830	3	8	August      	Sunday    	1	0	1	0	3	1	6
+HILLSBOROUGH	2015-08-31	80	67	2		20150831	3	8	August      	Monday    	2	1	0	0	3	1	19
+HILLSBOROUGH	2015-09-01	78	73	1		20150901	3	9	September   	Tuesday   	3	1	0	0	4	1	15
+HILLSBOROUGH	2015-09-02	76	72	1		20150902	3	9	September   	Wednesday 	4	1	0	0	4	1	7
+HILLSBOROUGH	2015-09-03	78	72	1	Thunderstorm	20150903	3	9	September   	Thursday  	5	1	0	0	4	5	9
+HILLSBOROUGH	2015-09-04	76	73	4		20150904	3	9	September   	Friday    	6	1	0	0	4	1	3
+HILLSBOROUGH	2015-09-05	74	70	1		20150905	3	9	September   	Saturday  	7	0	1	0	4	1	4
+HILLSBOROUGH	2015-09-06	72	64	2		20150906	3	9	September   	Sunday    	1	0	1	0	4	1	5
+HILLSBOROUGH	2015-09-07	73	66	1		20150907	3	9	September   	Monday    	2	1	0	1	4	1	10
+HILLSBOROUGH	2015-09-08	80	64	1		20150908	3	9	September   	Tuesday   	3	1	0	0	4	1	15
+HILLSBOROUGH	2015-09-09	78	73	2		20150909	3	9	September   	Wednesday 	4	1	0	0	4	1	6
+HILLSBOROUGH	2015-09-10	74	87	5	Fog-Rain-Thunderstorm	20150910	3	9	September   	Thursday  	5	1	0	0	4	8	14
+HILLSBOROUGH	2015-09-11	72	74	5	Rain	20150911	3	9	September   	Friday    	6	1	0	0	4	2	9
+HILLSBOROUGH	2015-09-12	67	86	1	Rain	20150912	3	9	September   	Saturday  	7	0	1	0	4	2	6
+HILLSBOROUGH	2015-09-13	66	82	2	Fog-Rain	20150913	3	9	September   	Sunday    	1	0	1	0	4	7	5
+HILLSBOROUGH	2015-09-14	62	65	3		20150914	3	9	September   	Monday    	2	1	0	0	4	1	19
+HILLSBOROUGH	2015-09-15	64	66	1		20150915	3	9	September   	Tuesday   	3	1	0	0	4	1	12
+HILLSBOROUGH	2015-09-16	68	67	1		20150916	3	9	September   	Wednesday 	4	1	0	0	4	1	9
+HILLSBOROUGH	2015-09-17	70	71	2		20150917	3	9	September   	Thursday  	5	1	0	0	4	1	10
+HILLSBOROUGH	2015-09-18	69	72	3		20150918	3	9	September   	Friday    	6	1	0	0	4	1	17
+HILLSBOROUGH	2015-09-19	68	80	2		20150919	3	9	September   	Saturday  	7	0	1	0	4	1	12
+HILLSBOROUGH	2015-09-20	68	61	6		20150920	3	9	September   	Sunday    	1	0	1	0	4	1	8
+HILLSBOROUGH	2015-09-21	60	56	4		20150921	3	9	September   	Monday    	2	1	0	0	4	1	14
+HILLSBOROUGH	2015-09-22	65	61	4		20150922	3	9	September   	Tuesday   	3	1	0	0	4	1	7
+HILLSBOROUGH	2015-09-23	65	66	3		20150923	3	9	September   	Wednesday 	4	1	0	0	4	1	11
+HILLSBOROUGH	2015-09-24	64	63	4		20150924	3	9	September   	Thursday  	5	1	0	0	4	1	7
+HILLSBOROUGH	2015-09-25	66	71	3		20150925	3	9	September   	Friday    	6	1	0	0	4	1	10
+HILLSBOROUGH	2015-09-26	63	71	4		20150926	3	9	September   	Saturday  	7	0	1	0	4	1	6
+HILLSBOROUGH	2015-09-27	60	74	3		20150927	3	9	September   	Sunday    	1	0	1	0	4	1	3
+HILLSBOROUGH	2015-09-28	70	81	1		20150928	3	9	September   	Monday    	2	1	0	0	4	1	14
+HILLSBOROUGH	2015-09-29	74	88	1	Rain	20150929	3	9	September   	Tuesday   	3	1	0	0	4	2	14
+HILLSBOROUGH	2015-09-30	72	83	5	Rain	20150930	3	9	September   	Wednesday 	4	1	0	0	4	2	16
+HILLSBOROUGH	2015-10-01	59	69	10	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	6
+HILLSBOROUGH	2015-10-02	52	78	11	Rain	20151002	4	10	October     	Friday    	6	1	0	0	4	2	9
+HILLSBOROUGH	2015-10-03	50	81	10	Rain	20151003	4	10	October     	Saturday  	7	0	1	0	4	2	12
+HILLSBOROUGH	2015-10-04	58	61	8		20151004	4	10	October     	Sunday    	1	0	1	0	4	1	15
+HILLSBOROUGH	2015-10-05	57	67	7		20151005	4	10	October     	Monday    	2	1	0	0	4	1	25
+HILLSBOROUGH	2015-10-06	57	72	2		20151006	4	10	October     	Tuesday   	3	1	0	0	4	1	11
+HILLSBOROUGH	2015-10-07	62	73	2		20151007	4	10	October     	Wednesday 	4	1	0	0	4	1	10
+HILLSBOROUGH	2015-10-08	58	79	1		20151008	4	10	October     	Thursday  	5	1	0	0	4	1	10
+HILLSBOROUGH	2015-10-09	65	88	1	Fog-Rain-Thunderstorm	20151009	4	10	October     	Friday    	6	1	0	0	4	8	7
+HILLSBOROUGH	2015-10-10	54	64	6		20151010	4	10	October     	Saturday  	7	0	1	0	4	1	9
+HILLSBOROUGH	2015-10-11	53	76	1		20151011	4	10	October     	Sunday    	1	0	1	0	4	1	10
+HILLSBOROUGH	2015-10-12	57	71	1		20151012	4	10	October     	Monday    	2	1	0	1	4	1	13
+HILLSBOROUGH	2015-10-13	58	84	1	Rain	20151013	4	10	October     	Tuesday   	3	1	0	0	4	2	14
+HILLSBOROUGH	2015-10-14	56	81	1	Fog	20151014	4	10	October     	Wednesday 	4	1	0	0	4	3	14
+HILLSBOROUGH	2015-10-15	50	74	2		20151015	4	10	October     	Thursday  	5	1	0	0	4	1	11
+HILLSBOROUGH	2015-10-16	52	69	3		20151016	4	10	October     	Friday    	6	1	0	0	4	1	16
+HILLSBOROUGH	2015-10-17	42	66	3		20151017	4	10	October     	Saturday  	7	0	1	0	4	1	4
+HILLSBOROUGH	2015-10-18	38	66	3		20151018	4	10	October     	Sunday    	1	0	1	0	4	1	12
+HILLSBOROUGH	2015-10-19	38	66	2		20151019	4	10	October     	Monday    	2	1	0	0	4	1	26
+HILLSBOROUGH	2015-10-20	54	58	2		20151020	4	10	October     	Tuesday   	3	1	0	0	4	1	12
+HILLSBOROUGH	2015-10-21	58	67	1		20151021	4	10	October     	Wednesday 	4	1	0	0	4	1	16
+HILLSBOROUGH	2015-10-22	57	71	2		20151022	4	10	October     	Thursday  	5	1	0	0	4	1	14
+HILLSBOROUGH	2015-10-23	52	48	5		20151023	4	10	October     	Friday    	6	1	0	0	4	1	11
+HILLSBOROUGH	2015-10-24	44	69	3		20151024	4	10	October     	Saturday  	7	0	1	0	4	1	12
+HILLSBOROUGH	2015-10-25	60	74	3	Rain	20151025	4	10	October     	Sunday    	1	0	1	0	4	2	17
+HILLSBOROUGH	2015-10-26	47	68	1		20151026	4	10	October     	Monday    	2	1	0	0	4	1	12
+HILLSBOROUGH	2015-10-27	44	72	2		20151027	4	10	October     	Tuesday   	3	1	0	0	4	1	9
+HILLSBOROUGH	2015-10-28	60	88	6	Fog-Rain	20151028	4	10	October     	Wednesday 	4	1	0	0	4	7	11
+HILLSBOROUGH	2015-10-29	63	72	5	Fog-Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	7	4
+HILLSBOROUGH	2015-10-30	49	51	5		20151030	4	10	October     	Friday    	6	1	0	0	4	1	20
+HILLSBOROUGH	2015-10-31	41	72	1		20151031	4	10	October     	Saturday  	7	0	1	0	4	1	12
+HILLSBOROUGH	2015-11-01	54	78	1		20151101	4	11	November    	Sunday    	1	0	1	0	4	1	9
+HILLSBOROUGH	2015-11-02	52	84	1		20151102	4	11	November    	Monday    	2	1	0	0	4	1	11
+HILLSBOROUGH	2015-11-03	54	72	0		20151103	4	11	November    	Tuesday   	3	1	0	0	4	1	13
+HILLSBOROUGH	2015-11-04	56	75	2		20151104	4	11	November    	Wednesday 	4	1	0	0	4	1	10
+HILLSBOROUGH	2015-11-05	58	93	0	Fog-Rain	20151105	4	11	November    	Thursday  	5	1	0	0	4	7	10
+HILLSBOROUGH	2015-11-06	66	86	1	Fog-Rain	20151106	4	11	November    	Friday    	6	1	0	0	4	7	10
+HILLSBOROUGH	2015-11-07	61	53	5		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	9
+HILLSBOROUGH	2015-11-08	46	60	5		20151108	4	11	November    	Sunday    	1	0	1	0	4	1	6
+HILLSBOROUGH	2015-11-09	54	56	1		20151109	4	11	November    	Monday    	2	1	0	0	4	1	14
+HILLSBOROUGH	2015-11-10	54	86	5	Rain	20151110	4	11	November    	Tuesday   	3	1	0	0	4	2	13
+HILLSBOROUGH	2015-11-11	57	79	6	Rain	20151111	4	11	November    	Wednesday 	4	1	0	1	4	2	15
+HILLSBOROUGH	2015-11-12	54	86	4	Rain	20151112	4	11	November    	Thursday  	5	1	0	0	4	2	11
+HILLSBOROUGH	2015-11-13	52	41	7		20151113	4	11	November    	Friday    	6	1	0	0	4	1	17
+HILLSBOROUGH	2015-11-14	44	47	9	Rain	20151114	4	11	November    	Saturday  	7	0	1	0	4	2	7
+HILLSBOROUGH	2015-11-15	44	63	2		20151115	4	11	November    	Sunday    	1	0	1	0	4	1	12
+HILLSBOROUGH	2015-11-16	51	64	2		20151116	4	11	November    	Monday    	2	1	0	0	4	1	17
+HILLSBOROUGH	2015-11-17	42	64	4		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	12
+HILLSBOROUGH	2015-11-18	44	75	3		20151118	4	11	November    	Wednesday 	4	1	0	0	4	1	8
+HILLSBOROUGH	2015-11-19	60	91	6	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	10
+HILLSBOROUGH	2015-11-20	46	60	4		20151120	4	11	November    	Friday    	6	1	0	0	4	1	9
+HILLSBOROUGH	2015-11-21	40	66	4		20151121	4	11	November    	Saturday  	7	0	1	0	4	1	15
+HILLSBOROUGH	2015-11-22	44	58	5	Rain	20151122	4	11	November    	Sunday    	1	0	1	0	4	2	7
+HILLSBOROUGH	2015-11-23	32	53	8		20151123	4	11	November    	Monday    	2	1	0	0	4	1	11
+HILLSBOROUGH	2015-11-24	32	66	1		20151124	4	11	November    	Tuesday   	3	1	0	0	4	1	8
+HILLSBOROUGH	2015-11-25	37	69	1		20151125	4	11	November    	Wednesday 	4	1	0	0	4	1	9
+HILLSBOROUGH	2015-11-26	43	77	3		20151126	4	11	November    	Thursday  	5	1	0	1	4	1	4
+HILLSBOROUGH	2015-11-27	49	87	1	Fog	20151127	4	11	November    	Friday    	6	1	0	0	4	3	16
+HILLSBOROUGH	2015-11-28	51	81	2	Rain	20151128	4	11	November    	Saturday  	7	0	1	0	4	2	9
+HILLSBOROUGH	2015-11-29	42	62	5	Rain	20151129	4	11	November    	Sunday    	1	0	1	0	4	2	11
+HILLSBOROUGH	2015-11-30	37	63	5	Rain	20151130	4	11	November    	Monday    	2	1	0	0	4	2	15
+HILLSBOROUGH	2015-12-01	46	92	5	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	9
+HILLSBOROUGH	2015-12-02	50	95	1	Fog-Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	7	11
+HILLSBOROUGH	2015-12-03	48	69	5	Rain	20151203	4	12	December    	Thursday  	5	1	0	0	1	2	12
+HILLSBOROUGH	2015-12-04	40	66	3		20151204	4	12	December    	Friday    	6	1	0	0	1	1	11
+HILLSBOROUGH	2015-12-05	38	77	1		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	15
+HILLSBOROUGH	2015-12-06	37	80	1		20151206	4	12	December    	Sunday    	1	0	1	0	1	1	3
+HILLSBOROUGH	2015-12-07	40	71	1		20151207	4	12	December    	Monday    	2	1	0	0	1	1	14
+HILLSBOROUGH	2015-12-08	39	69	4		20151208	4	12	December    	Tuesday   	3	1	0	0	1	1	15
+HILLSBOROUGH	2015-12-09	40	76	1		20151209	4	12	December    	Wednesday 	4	1	0	0	1	1	13
+HILLSBOROUGH	2015-12-10	48	87	1	Fog-Rain	20151210	4	12	December    	Thursday  	5	1	0	0	1	7	7
+HILLSBOROUGH	2015-12-11	45	88	1		20151211	4	12	December    	Friday    	6	1	0	0	1	1	12
+HILLSBOROUGH	2015-12-12	51	83	0		20151212	4	12	December    	Saturday  	7	0	1	0	1	1	9
+HILLSBOROUGH	2015-12-13	58	81	1		20151213	4	12	December    	Sunday    	1	0	1	0	1	1	8
+HILLSBOROUGH	2015-12-14	60	90	3	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	13
+HILLSBOROUGH	2015-12-15	60	59	8	Rain	20151215	4	12	December    	Tuesday   	3	1	0	0	1	2	14
+HILLSBOROUGH	2015-12-16	46	62	7		20151216	4	12	December    	Wednesday 	4	1	0	0	1	1	7
+HILLSBOROUGH	2015-12-17	50	92	1	Rain	20151217	4	12	December    	Thursday  	5	1	0	0	1	2	14
+HILLSBOROUGH	2015-12-18	42	68	5		20151218	4	12	December    	Friday    	6	1	0	0	1	1	16
+HILLSBOROUGH	2015-12-19	36	45	9		20151219	4	12	December    	Saturday  	7	0	1	0	1	1	12
+HILLSBOROUGH	2015-12-20	35	57	3		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	8
+HILLSBOROUGH	2015-12-21	38	72	1		20151221	4	12	December    	Monday    	2	1	0	0	1	1	18
+HILLSBOROUGH	2015-12-22	52	87	1	Rain	20151222	4	12	December    	Tuesday   	3	1	0	0	1	2	9
+HILLSBOROUGH	2015-12-23	56	95	2	Fog-Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	7	8
+HILLSBOROUGH	2015-12-24	60	90	4	Fog-Rain	20151224	4	12	December    	Thursday  	5	1	0	0	1	7	13
+HILLSBOROUGH	2015-12-25	56	95	0	Fog-Rain	20151225	4	12	December    	Friday    	6	1	0	1	1	7	5
+HILLSBOROUGH	2015-12-26	54	59	6	Rain	20151226	4	12	December    	Saturday  	7	0	1	0	1	2	12
+HILLSBOROUGH	2015-12-27	54	91	2	Fog-Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	7	14
+HILLSBOROUGH	2015-12-28	38	66	8	Rain-Snow	20151228	4	12	December    	Monday    	2	1	0	0	1	6	16
+HILLSBOROUGH	2015-12-29	38	92	6	Fog-Rain-Snow	20151229	4	12	December    	Tuesday   	3	1	0	0	1	8	16
+HILLSBOROUGH	2015-12-30	42	94	2	Fog-Rain	20151230	4	12	December    	Wednesday 	4	1	0	0	1	7	18
+HILLSBOROUGH	2015-12-31	44	86	2	Fog	20151231	4	12	December    	Thursday  	5	1	0	0	1	3	7
+HILLSBOROUGH	2016-01-01	38	57	6		20160101	1	1	January     	Friday    	6	1	0	1	1	1	3
+HILLSBOROUGH	2016-01-02	33	58	4		20160102	1	1	January     	Saturday  	7	0	1	0	1	1	21
+HILLSBOROUGH	2016-01-03	33	70	2		20160103	1	1	January     	Sunday    	1	0	1	0	1	1	7
+HILLSBOROUGH	2016-01-04	24	48	9		20160104	1	1	January     	Monday    	2	1	0	0	1	1	29
+HILLSBOROUGH	2016-01-05	20	47	6		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	17
+HILLSBOROUGH	2016-01-06	24	60	1		20160106	1	1	January     	Wednesday 	4	1	0	0	1	1	18
+HILLSBOROUGH	2016-01-07	29	60	1		20160107	1	1	January     	Thursday  	5	1	0	0	1	1	13
+HILLSBOROUGH	2016-01-08	35	65	2		20160108	1	1	January     	Friday    	6	1	0	0	1	1	12
+HILLSBOROUGH	2016-01-09	42	84	4	Rain	20160109	1	1	January     	Saturday  	7	0	1	0	1	2	14
+HILLSBOROUGH	2016-01-10	52	86	6	Rain-Thunderstorm	20160110	1	1	January     	Sunday    	1	0	1	0	1	6	9
+HILLSBOROUGH	2016-01-11	28	44	10		20160111	1	1	January     	Monday    	2	1	0	0	1	1	13
+HILLSBOROUGH	2016-01-12	28	71	3	Snow	20160112	1	1	January     	Tuesday   	3	1	0	0	1	4	12
+HILLSBOROUGH	2016-01-13	24	48	9		20160113	1	1	January     	Wednesday 	4	1	0	0	1	1	19
+HILLSBOROUGH	2016-01-14	29	57	3		20160114	1	1	January     	Thursday  	5	1	0	0	1	1	14
+HILLSBOROUGH	2016-01-15	36	74	2	Rain	20160115	1	1	January     	Friday    	6	1	0	0	1	2	9
+HILLSBOROUGH	2016-01-16	44	82	3	Rain	20160116	1	1	January     	Saturday  	7	0	1	0	1	2	12
+HILLSBOROUGH	2016-01-17	32	81	2	Snow	20160117	1	1	January     	Sunday    	1	0	1	0	1	4	10
+HILLSBOROUGH	2016-01-18	22	52	7		20160118	1	1	January     	Monday    	2	1	0	1	1	1	24
+HILLSBOROUGH	2016-01-19	22	46	11		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	20
+HILLSBOROUGH	2016-01-20	32	55	9		20160120	1	1	January     	Wednesday 	4	1	0	0	1	1	18
+HILLSBOROUGH	2016-01-21	28	52	9		20160121	1	1	January     	Thursday  	5	1	0	0	1	1	16
+HILLSBOROUGH	2016-01-22	21	58	5	Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	4	15
+HILLSBOROUGH	2016-01-23	26	83	13	Fog-Snow	20160123	1	1	January     	Saturday  	7	0	1	0	1	7	1
+HILLSBOROUGH	2016-01-24	28	52	7		20160124	1	1	January     	Sunday    	1	0	1	0	1	1	7
+HILLSBOROUGH	2016-01-25	22	71	1		20160125	1	1	January     	Monday    	2	1	0	0	1	1	34
+HILLSBOROUGH	2016-01-26	29	75	2		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	28
+HILLSBOROUGH	2016-01-27	34	62	4	Rain	20160127	1	1	January     	Wednesday 	4	1	0	0	1	2	7
+HILLSBOROUGH	2016-01-28	26	70	1		20160128	1	1	January     	Thursday  	5	1	0	0	1	1	11
+HILLSBOROUGH	2016-01-29	30	66	4		20160129	1	1	January     	Friday    	6	1	0	0	1	1	8
+HILLSBOROUGH	2016-01-30	28	61	5		20160130	1	1	January     	Saturday  	7	0	1	0	1	1	8
+HILLSBOROUGH	2016-01-31	39	68	0		20160131	1	1	January     	Sunday    	1	0	1	0	1	1	8
+HILLSBOROUGH	2016-02-01	42	76	1	Rain	20160201	1	2	February    	Monday    	2	1	0	0	1	2	9
+HILLSBOROUGH	2016-02-02	37	69	2		20160202	1	2	February    	Tuesday   	3	1	0	0	1	1	9
+HILLSBOROUGH	2016-02-03	41	95	3	Fog-Rain	20160203	1	2	February    	Wednesday 	4	1	0	0	1	7	10
+HILLSBOROUGH	2016-02-04	44	80	2	Fog-Rain	20160204	1	2	February    	Thursday  	5	1	0	0	1	7	15
+HILLSBOROUGH	2016-02-05	34	76	7	Fog-Rain-Snow	20160205	1	2	February    	Friday    	6	1	0	0	1	8	6
+HILLSBOROUGH	2016-02-06	30	70	1		20160206	1	2	February    	Saturday  	7	0	1	0	1	1	9
+HILLSBOROUGH	2016-02-07	32	64	1		20160207	1	2	February    	Sunday    	1	0	1	0	1	1	7
+HILLSBOROUGH	2016-02-08	36	59	6		20160208	1	2	February    	Monday    	2	1	0	0	1	1	15
+HILLSBOROUGH	2016-02-09	31	83	2	Snow	20160209	1	2	February    	Tuesday   	3	1	0	0	1	4	10
+HILLSBOROUGH	2016-02-10	32	78	2	Snow	20160210	1	2	February    	Wednesday 	4	1	0	0	1	4	11
+HILLSBOROUGH	2016-02-11	22	49	9	Snow	20160211	1	2	February    	Thursday  	5	1	0	0	1	4	9
+HILLSBOROUGH	2016-02-12	16	52	4		20160212	1	2	February    	Friday    	6	1	0	0	1	1	17
+HILLSBOROUGH	2016-02-13	14	55	8	Snow	20160213	1	2	February    	Saturday  	7	0	1	0	1	4	12
+HILLSBOROUGH	2016-02-14	9	43	9		20160214	1	2	February    	Sunday    	1	0	1	0	1	1	19
+HOPEWELL	2015-01-01	31	45	10		20150101	1	1	January     	Thursday  	5	1	0	1	1	1	3
+HOPEWELL	2015-01-02	35	53	7		20150102	1	1	January     	Friday    	6	1	0	0	1	1	1
+HOPEWELL	2015-01-05	35	42	15		20150105	1	1	January     	Monday    	2	1	0	0	1	1	2
+HOPEWELL	2015-01-06	18	64	4	Snow	20150106	1	1	January     	Tuesday   	3	1	0	0	1	4	3
+HOPEWELL	2015-01-07	16	60	11		20150107	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+HOPEWELL	2015-01-08	13	50	9		20150108	1	1	January     	Thursday  	5	1	0	0	1	1	3
+HOPEWELL	2015-01-10	18	45	8		20150110	1	1	January     	Saturday  	7	0	1	0	1	1	3
+HOPEWELL	2015-01-11	25	51	6		20150111	1	1	January     	Sunday    	1	0	1	0	1	1	1
+HOPEWELL	2015-01-12	35	74	4	Rain	20150112	1	1	January     	Monday    	2	1	0	0	1	2	2
+HOPEWELL	2015-01-13	26	54	11		20150113	1	1	January     	Tuesday   	3	1	0	0	1	1	3
+HOPEWELL	2015-01-14	23	58	7		20150114	1	1	January     	Wednesday 	4	1	0	0	1	1	2
+HOPEWELL	2015-01-15	30	63	5		20150115	1	1	January     	Thursday  	5	1	0	0	1	1	3
+HOPEWELL	2015-01-16	31	57	12		20150116	1	1	January     	Friday    	6	1	0	0	1	1	2
+HOPEWELL	2015-01-17	22	43	6		20150117	1	1	January     	Saturday  	7	0	1	0	1	1	1
+HOPEWELL	2015-01-18	30	81	5	Rain	20150118	1	1	January     	Sunday    	1	0	1	0	1	2	1
+HOPEWELL	2015-01-19	38	68	9		20150119	1	1	January     	Monday    	2	1	0	1	1	1	3
+HOPEWELL	2015-01-20	36	71	5	Rain	20150120	1	1	January     	Tuesday   	3	1	0	0	1	2	2
+HOPEWELL	2015-01-22	34	75	4	Snow	20150122	1	1	January     	Thursday  	5	1	0	0	1	4	2
+HOPEWELL	2015-01-23	30	69	5	Snow	20150123	1	1	January     	Friday    	6	1	0	0	1	4	1
+HOPEWELL	2015-01-25	37	60	9	Snow	20150125	1	1	January     	Sunday    	1	0	1	0	1	4	2
+HOPEWELL	2015-01-26	27	75	14	Snow	20150126	1	1	January     	Monday    	2	1	0	0	1	4	2
+HOPEWELL	2015-01-28	25	42	10		20150128	1	1	January     	Wednesday 	4	1	0	0	1	1	1
+HOPEWELL	2015-01-29	21	57	5	Snow	20150129	1	1	January     	Thursday  	5	1	0	0	1	4	2
+HOPEWELL	2015-01-30	28	63	11	Snow	20150130	1	1	January     	Friday    	6	1	0	0	1	4	3
+HOPEWELL	2015-01-31	20	45	12		20150131	1	1	January     	Saturday  	7	0	1	0	1	1	3
+HOPEWELL	2015-02-01	27	61	5	Snow	20150201	1	2	February    	Sunday    	1	0	1	0	1	4	4
+HOPEWELL	2015-02-02	26	74	12	Rain-Snow	20150202	1	2	February    	Monday    	2	1	0	0	1	6	6
+HOPEWELL	2015-02-03	21	52	8		20150203	1	2	February    	Tuesday   	3	1	0	0	1	1	4
+HOPEWELL	2015-02-04	30	62	6		20150204	1	2	February    	Wednesday 	4	1	0	0	1	1	4
+HOPEWELL	2015-02-05	26	51	13	Snow	20150205	1	2	February    	Thursday  	5	1	0	0	1	4	3
+HOPEWELL	2015-02-06	21	43	7		20150206	1	2	February    	Friday    	6	1	0	0	1	1	1
+HOPEWELL	2015-02-07	30	49	4		20150207	1	2	February    	Saturday  	7	0	1	0	1	1	1
+HOPEWELL	2015-02-09	30	87	12	Rain	20150209	1	2	February    	Monday    	2	1	0	0	1	2	3
+HOPEWELL	2015-02-10	33	66	10		20150210	1	2	February    	Tuesday   	3	1	0	0	1	1	1
+HOPEWELL	2015-02-11	29	54	7		20150211	1	2	February    	Wednesday 	4	1	0	0	1	1	2
+HOPEWELL	2015-02-12	29	57	10	Snow	20150212	1	2	February    	Thursday  	5	1	0	0	1	4	1
+HOPEWELL	2015-02-13	14	43	10		20150213	1	2	February    	Friday    	6	1	0	0	1	1	2
+HOPEWELL	2015-02-15	12	58	18	Snow	20150215	1	2	February    	Sunday    	1	0	1	0	1	4	7
+HOPEWELL	2015-02-16	10	47	10	Snow	20150216	1	2	February    	Monday    	2	1	0	1	1	4	4
+HOPEWELL	2015-02-17	20	67	5	Snow	20150217	1	2	February    	Tuesday   	3	1	0	0	1	4	2
+HOPEWELL	2015-02-18	18	56	6	Snow	20150218	1	2	February    	Wednesday 	4	1	0	0	1	4	4
+HOPEWELL	2015-02-19	15	44	14	Snow	20150219	1	2	February    	Thursday  	5	1	0	0	1	4	1
+HOPEWELL	2015-02-20	8	44	10		20150220	1	2	February    	Friday    	6	1	0	0	1	1	5
+HOPEWELL	2015-02-21	18	69	6	Fog-Rain-Snow	20150221	1	2	February    	Saturday  	7	0	1	0	1	8	1
+HOPEWELL	2015-02-22	37	75	3	Rain	20150222	1	2	February    	Sunday    	1	0	1	0	1	2	1
+HOPEWELL	2015-02-23	23	48	11		20150223	1	2	February    	Monday    	2	1	0	0	1	1	5
+HOPEWELL	2015-02-24	12	49	5		20150224	1	2	February    	Tuesday   	3	1	0	0	1	1	1
+HOPEWELL	2015-02-25	23	61	6		20150225	1	2	February    	Wednesday 	4	1	0	0	1	1	5
+HOPEWELL	2015-02-26	26	52	8		20150226	1	2	February    	Thursday  	5	1	0	0	1	1	1
+HOPEWELL	2015-02-27	24	54	7		20150227	1	2	February    	Friday    	6	1	0	0	1	1	1
+HOPEWELL	2015-03-02	34	63	9		20150302	1	3	March       	Monday    	2	1	0	0	2	1	2
+HOPEWELL	2015-03-03	27	66	7	Rain-Snow	20150303	1	3	March       	Tuesday   	3	1	0	0	2	6	2
+HOPEWELL	2015-03-04	39	89	5	Fog-Rain	20150304	1	3	March       	Wednesday 	4	1	0	0	2	7	6
+HOPEWELL	2015-03-05	28	74	10	Fog-Rain-Snow	20150305	1	3	March       	Thursday  	5	1	0	0	2	8	1
+HOPEWELL	2015-03-08	37	58	6		20150308	1	3	March       	Sunday    	1	0	1	0	2	1	3
+HOPEWELL	2015-03-09	42	50	5	Rain	20150309	1	3	March       	Monday    	2	1	0	0	2	2	1
+HOPEWELL	2015-03-10	43	72	3	Fog-Rain	20150310	1	3	March       	Tuesday   	3	1	0	0	2	7	3
+HOPEWELL	2015-03-11	51	70	7	Rain	20150311	1	3	March       	Wednesday 	4	1	0	0	2	2	5
+HOPEWELL	2015-03-12	41	41	12		20150312	1	3	March       	Thursday  	5	1	0	0	2	1	2
+HOPEWELL	2015-03-13	38	39	8		20150313	1	3	March       	Friday    	6	1	0	0	2	1	2
+HOPEWELL	2015-03-14	41	91	4	Rain	20150314	1	3	March       	Saturday  	7	0	1	0	2	2	2
+HOPEWELL	2015-03-16	43	60	5		20150316	1	3	March       	Monday    	2	1	0	0	2	1	1
+HOPEWELL	2015-03-17	49	52	12		20150317	1	3	March       	Tuesday   	3	1	0	0	2	1	3
+HOPEWELL	2015-03-18	36	31	13		20150318	1	3	March       	Wednesday 	4	1	0	0	2	1	2
+HOPEWELL	2015-03-19	33	45	5		20150319	1	3	March       	Thursday  	5	1	0	0	2	1	3
+HOPEWELL	2015-03-20	32	70	8	Fog-Rain-Snow	20150320	1	3	March       	Friday    	6	1	0	0	2	8	1
+HOPEWELL	2015-03-21	39	74	5		20150321	1	3	March       	Saturday  	7	0	1	0	2	1	1
+HOPEWELL	2015-03-22	37	45	10		20150322	1	3	March       	Sunday    	1	0	1	0	2	1	2
+HOPEWELL	2015-03-23	32	41	7		20150323	1	3	March       	Monday    	2	1	0	0	2	1	4
+HOPEWELL	2015-03-24	33	40	4		20150324	1	3	March       	Tuesday   	3	1	0	0	2	1	4
+HOPEWELL	2015-03-26	52	89	5	Fog-Rain	20150326	1	3	March       	Thursday  	5	1	0	0	2	7	3
+HOPEWELL	2015-03-28	33	48	13		20150328	1	3	March       	Saturday  	7	0	1	0	2	1	1
+HOPEWELL	2015-03-29	35	33	9		20150329	1	3	March       	Sunday    	1	0	1	0	2	1	3
+HOPEWELL	2015-03-30	44	57	10	Snow	20150330	1	3	March       	Monday    	2	1	0	0	2	4	1
+HOPEWELL	2015-04-01	42	59	8		20150401	2	4	April       	Wednesday 	4	1	0	0	2	1	3
+HOPEWELL	2015-04-02	48	54	10		20150402	2	4	April       	Thursday  	5	1	0	0	2	1	2
+HOPEWELL	2015-04-03	60	67	8	Fog-Rain	20150403	2	4	April       	Friday    	6	1	0	0	2	7	1
+HOPEWELL	2015-04-04	53	56	14	Fog-Rain	20150404	2	4	April       	Saturday  	7	0	1	0	2	7	1
+HOPEWELL	2015-04-06	56	48	9		20150406	2	4	April       	Monday    	2	1	0	0	2	1	1
+HOPEWELL	2015-04-07	56	69	9	Rain	20150407	2	4	April       	Tuesday   	3	1	0	0	2	2	2
+HOPEWELL	2015-04-08	42	73	15	Rain	20150408	2	4	April       	Wednesday 	4	1	0	0	2	2	2
+HOPEWELL	2015-04-09	40	86	8	Rain	20150409	2	4	April       	Thursday  	5	1	0	0	2	2	2
+HOPEWELL	2015-04-10	48	89	7	Rain-Thunderstorm	20150410	2	4	April       	Friday    	6	1	0	0	2	6	2
+HOPEWELL	2015-04-13	58	51	9		20150413	2	4	April       	Monday    	2	1	0	0	2	1	7
+HOPEWELL	2015-04-16	59	42	9		20150416	2	4	April       	Thursday  	5	1	0	1	2	1	3
+HOPEWELL	2015-04-17	63	73	7	Rain	20150417	2	4	April       	Friday    	6	1	0	0	2	2	1
+HOPEWELL	2015-04-18	65	54	7		20150418	2	4	April       	Saturday  	7	0	1	0	2	1	1
+HOPEWELL	2015-04-19	55	42	10	Rain	20150419	2	4	April       	Sunday    	1	0	1	0	2	2	1
+HOPEWELL	2015-04-20	59	81	9	Fog-Rain	20150420	2	4	April       	Monday    	2	1	0	0	2	7	1
+HOPEWELL	2015-04-21	58	59	8	Rain-Thunderstorm	20150421	2	4	April       	Tuesday   	3	1	0	0	2	6	1
+HOPEWELL	2015-04-22	56	52	10	Rain-Thunderstorm	20150422	2	4	April       	Wednesday 	4	1	0	0	2	6	1
+HOPEWELL	2015-04-23	44	47	12		20150423	2	4	April       	Thursday  	5	1	0	0	2	1	2
+HOPEWELL	2015-04-24	46	34	12		20150424	2	4	April       	Friday    	6	1	0	0	2	1	1
+HOPEWELL	2015-04-25	46	41	6		20150425	2	4	April       	Saturday  	7	0	1	0	2	1	3
+HOPEWELL	2015-04-27	51	45	10		20150427	2	4	April       	Monday    	2	1	0	0	2	1	2
+HOPEWELL	2015-04-28	59	50	11		20150428	2	4	April       	Tuesday   	3	1	0	0	2	1	1
+HOPEWELL	2015-04-29	63	42	8		20150429	2	4	April       	Wednesday 	4	1	0	0	2	1	2
+HOPEWELL	2015-04-30	56	64	10		20150430	2	4	April       	Thursday  	5	1	0	0	2	1	1
+HOPEWELL	2015-05-01	54	62	6		20150501	2	5	May         	Friday    	6	1	0	0	2	1	4
+HOPEWELL	2015-05-02	57	56	5		20150502	2	5	May         	Saturday  	7	0	1	0	2	1	1
+HOPEWELL	2015-05-03	62	48	4		20150503	2	5	May         	Sunday    	1	0	1	0	2	1	2
+HOPEWELL	2015-05-04	66	47	7		20150504	2	5	May         	Monday    	2	1	0	0	2	1	3
+HOPEWELL	2015-05-05	71	54	5		20150505	2	5	May         	Tuesday   	3	1	0	0	2	1	2
+HOPEWELL	2015-05-07	66	59	5		20150507	2	5	May         	Thursday  	5	1	0	0	2	1	2
+HOPEWELL	2015-05-09	65	79	6	Rain	20150509	2	5	May         	Saturday  	7	0	1	0	2	2	3
+HOPEWELL	2015-05-11	75	74	8	Rain-Thunderstorm	20150511	2	5	May         	Monday    	2	1	0	0	2	6	2
+HOPEWELL	2015-05-12	74	61	11		20150512	2	5	May         	Tuesday   	3	1	0	0	2	1	1
+HOPEWELL	2015-05-14	59	47	6		20150514	2	5	May         	Thursday  	5	1	0	0	2	1	3
+HOPEWELL	2015-05-15	62	57	7		20150515	2	5	May         	Friday    	6	1	0	0	2	1	1
+HOPEWELL	2015-05-16	69	72	5	Rain-Thunderstorm	20150516	2	5	May         	Saturday  	7	0	1	0	2	6	3
+HOPEWELL	2015-05-17	73	79	3	Fog	20150517	2	5	May         	Sunday    	1	0	1	0	2	3	3
+HOPEWELL	2015-05-18	67	87	7		20150518	2	5	May         	Monday    	2	1	0	0	2	1	5
+HOPEWELL	2015-05-19	70	77	6	Fog	20150519	2	5	May         	Tuesday   	3	1	0	0	2	3	1
+HOPEWELL	2015-05-20	60	52	10		20150520	2	5	May         	Wednesday 	4	1	0	0	2	1	2
+HOPEWELL	2015-05-23	57	37	6		20150523	2	5	May         	Saturday  	7	0	1	0	2	1	2
+HOPEWELL	2015-05-26	75	62	10		20150526	2	5	May         	Tuesday   	3	1	0	0	2	1	3
+HOPEWELL	2015-05-27	79	69	9	Rain-Thunderstorm	20150527	2	5	May         	Wednesday 	4	1	0	0	2	6	2
+HOPEWELL	2015-05-28	78	70	5	Thunderstorm	20150528	2	5	May         	Thursday  	5	1	0	0	2	5	1
+HOPEWELL	2015-05-31	79	63	10	Rain-Thunderstorm	20150531	2	5	May         	Sunday    	1	0	1	0	2	6	1
+HOPEWELL	2015-06-01	60	95	10	Rain-Thunderstorm	20150601	2	6	June        	Monday    	2	1	0	0	3	6	3
+HOPEWELL	2015-06-03	62	73	7	Rain	20150603	2	6	June        	Wednesday 	4	1	0	0	3	2	2
+HOPEWELL	2015-06-04	61	69	10		20150604	2	6	June        	Thursday  	5	1	0	0	3	1	1
+HOPEWELL	2015-06-05	64	81	5	Rain	20150605	2	6	June        	Friday    	6	1	0	0	3	2	2
+HOPEWELL	2015-06-06	70	61	6	Rain	20150606	2	6	June        	Saturday  	7	0	1	0	3	2	2
+HOPEWELL	2015-06-07	65	64	8		20150607	2	6	June        	Sunday    	1	0	1	0	3	1	1
+HOPEWELL	2015-06-09	75	68	8	Rain	20150609	2	6	June        	Tuesday   	3	1	0	0	3	2	2
+HOPEWELL	2015-06-10	71	64	5		20150610	2	6	June        	Wednesday 	4	1	0	0	3	1	3
+HOPEWELL	2015-06-11	79	66	7		20150611	2	6	June        	Thursday  	5	1	0	0	3	1	2
+HOPEWELL	2015-06-12	82	67	6		20150612	2	6	June        	Friday    	6	1	0	0	3	1	1
+HOPEWELL	2015-06-13	79	63	7		20150613	2	6	June        	Saturday  	7	0	1	0	3	1	3
+HOPEWELL	2015-06-14	78	74	5	Rain-Thunderstorm	20150614	2	6	June        	Sunday    	1	0	1	0	3	6	3
+HOPEWELL	2015-06-15	78	76	8	Rain-Thunderstorm	20150615	2	6	June        	Monday    	2	1	0	0	3	6	2
+HOPEWELL	2015-06-16	78	78	6	Fog-Rain	20150616	2	6	June        	Tuesday   	3	1	0	0	3	7	2
+HOPEWELL	2015-06-17	72	64	7		20150617	2	6	June        	Wednesday 	4	1	0	0	3	1	2
+HOPEWELL	2015-06-18	66	83	7	Rain	20150618	2	6	June        	Thursday  	5	1	0	0	3	2	2
+HOPEWELL	2015-06-19	77	74	6	Rain	20150619	2	6	June        	Friday    	6	1	0	0	3	2	1
+HOPEWELL	2015-06-20	72	79	8	Rain	20150620	2	6	June        	Saturday  	7	0	1	0	3	2	3
+HOPEWELL	2015-06-21	80	75	10	Rain	20150621	2	6	June        	Sunday    	1	0	1	0	3	2	1
+HOPEWELL	2015-06-22	79	60	6		20150622	2	6	June        	Monday    	2	1	0	0	3	1	1
+HOPEWELL	2015-06-23	80	68	10	Rain-Thunderstorm	20150623	2	6	June        	Tuesday   	3	1	0	0	3	6	1
+HOPEWELL	2015-06-24	74	67	7		20150624	2	6	June        	Wednesday 	4	1	0	0	3	1	1
+HOPEWELL	2015-06-25	71	62	4	Rain	20150625	2	6	June        	Thursday  	5	1	0	0	3	2	2
+HOPEWELL	2015-06-27	65	77	11	Rain	20150627	2	6	June        	Saturday  	7	0	1	0	3	2	3
+HOPEWELL	2015-06-29	69	62	7		20150629	2	6	June        	Monday    	2	1	0	0	3	1	3
+HOPEWELL	2015-06-30	73	71	8	Rain-Thunderstorm	20150630	2	6	June        	Tuesday   	3	1	0	0	3	6	1
+HOPEWELL	2015-07-01	75	69	8	Rain-Thunderstorm	20150701	3	7	July        	Wednesday 	4	1	0	0	3	6	1
+HOPEWELL	2015-07-03	72	71	5		20150703	3	7	July        	Friday    	6	1	0	1	3	1	1
+HOPEWELL	2015-07-04	71	67	6	Rain	20150704	3	7	July        	Saturday  	7	0	1	0	3	2	1
+HOPEWELL	2015-07-07	81	76	6	Rain-Thunderstorm	20150707	3	7	July        	Tuesday   	3	1	0	0	3	6	1
+HOPEWELL	2015-07-08	81	76	6	Rain	20150708	3	7	July        	Wednesday 	4	1	0	0	3	2	2
+HOPEWELL	2015-07-09	77	83	6	Rain-Thunderstorm	20150709	3	7	July        	Thursday  	5	1	0	0	3	6	2
+HOPEWELL	2015-07-10	77	66	8		20150710	3	7	July        	Friday    	6	1	0	0	3	1	2
+HOPEWELL	2015-07-11	77	58	5		20150711	3	7	July        	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-07-15	75	82	5	Rain-Thunderstorm	20150715	3	7	July        	Wednesday 	4	1	0	0	3	6	1
+HOPEWELL	2015-07-16	70	62	7		20150716	3	7	July        	Thursday  	5	1	0	0	3	1	1
+HOPEWELL	2015-07-17	71	72	7		20150717	3	7	July        	Friday    	6	1	0	0	3	1	3
+HOPEWELL	2015-07-19	84	71	4		20150719	3	7	July        	Sunday    	1	0	1	0	3	1	2
+HOPEWELL	2015-07-20	85	67	5		20150720	3	7	July        	Monday    	2	1	0	0	3	1	1
+HOPEWELL	2015-07-22	74	59	7		20150722	3	7	July        	Wednesday 	4	1	0	0	3	1	1
+HOPEWELL	2015-07-24	73	58	4		20150724	3	7	July        	Friday    	6	1	0	0	3	1	1
+HOPEWELL	2015-07-25	75	57	5		20150725	3	7	July        	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-07-26	78	60	8		20150726	3	7	July        	Sunday    	1	0	1	0	3	1	2
+HOPEWELL	2015-07-28	82	61	3		20150728	3	7	July        	Tuesday   	3	1	0	0	3	1	2
+HOPEWELL	2015-07-29	82	66	5		20150729	3	7	July        	Wednesday 	4	1	0	0	3	1	2
+HOPEWELL	2015-07-30	82	77	8	Rain-Thunderstorm	20150730	3	7	July        	Thursday  	5	1	0	0	3	6	2
+HOPEWELL	2015-07-31	79	63	7	Rain	20150731	3	7	July        	Friday    	6	1	0	0	3	2	1
+HOPEWELL	2015-08-01	80	50	7	Rain	20150801	3	8	August      	Saturday  	7	0	1	0	3	2	2
+HOPEWELL	2015-08-03	79	62	8		20150803	3	8	August      	Monday    	2	1	0	0	3	1	3
+HOPEWELL	2015-08-04	79	61	7	Rain-Thunderstorm	20150804	3	8	August      	Tuesday   	3	1	0	0	3	6	1
+HOPEWELL	2015-08-05	76	55	6		20150805	3	8	August      	Wednesday 	4	1	0	0	3	1	3
+HOPEWELL	2015-08-06	73	61	4	Rain	20150806	3	8	August      	Thursday  	5	1	0	0	3	2	3
+HOPEWELL	2015-08-07	75	61	7		20150807	3	8	August      	Friday    	6	1	0	0	3	1	1
+HOPEWELL	2015-08-08	72	66	5		20150808	3	8	August      	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-08-09	75	67	6		20150809	3	8	August      	Sunday    	1	0	1	0	3	1	2
+HOPEWELL	2015-08-10	72	72	7	Rain	20150810	3	8	August      	Monday    	2	1	0	0	3	2	2
+HOPEWELL	2015-08-11	76	83	8	Fog-Rain-Thunderstorm	20150811	3	8	August      	Tuesday   	3	1	0	0	3	8	2
+HOPEWELL	2015-08-12	75	68	7		20150812	3	8	August      	Wednesday 	4	1	0	0	3	1	1
+HOPEWELL	2015-08-13	72	59	4		20150813	3	8	August      	Thursday  	5	1	0	0	3	1	1
+HOPEWELL	2015-08-14	73	62	4		20150814	3	8	August      	Friday    	6	1	0	0	3	1	1
+HOPEWELL	2015-08-15	77	63	4		20150815	3	8	August      	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-08-16	80	63	5		20150816	3	8	August      	Sunday    	1	0	1	0	3	1	4
+HOPEWELL	2015-08-17	82	64	5	Rain-Thunderstorm	20150817	3	8	August      	Monday    	2	1	0	0	3	6	2
+HOPEWELL	2015-08-18	80	64	6		20150818	3	8	August      	Tuesday   	3	1	0	0	3	1	2
+HOPEWELL	2015-08-19	82	70	7	Rain-Thunderstorm	20150819	3	8	August      	Wednesday 	4	1	0	0	3	6	1
+HOPEWELL	2015-08-20	79	78	10	Rain	20150820	3	8	August      	Thursday  	5	1	0	0	3	2	1
+HOPEWELL	2015-08-21	77	67	7	Rain-Thunderstorm	20150821	3	8	August      	Friday    	6	1	0	0	3	6	4
+HOPEWELL	2015-08-22	73	51	6		20150822	3	8	August      	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-08-24	74	72	5		20150824	3	8	August      	Monday    	2	1	0	0	3	1	1
+HOPEWELL	2015-08-25	78	61	6		20150825	3	8	August      	Tuesday   	3	1	0	0	3	1	3
+HOPEWELL	2015-08-26	71	55	7		20150826	3	8	August      	Wednesday 	4	1	0	0	3	1	2
+HOPEWELL	2015-08-29	71	68	4		20150829	3	8	August      	Saturday  	7	0	1	0	3	1	1
+HOPEWELL	2015-08-30	77	0	5		20150830	3	8	August      	Sunday    	1	0	1	0	3	1	1
+HOPEWELL	2015-08-31	82	66	6		20150831	3	8	August      	Monday    	2	1	0	0	3	1	4
+HOPEWELL	2015-09-01	80	64	5		20150901	3	9	September   	Tuesday   	3	1	0	0	4	1	1
+HOPEWELL	2015-09-02	79	71	3	Fog	20150902	3	9	September   	Wednesday 	4	1	0	0	4	3	1
+HOPEWELL	2015-09-03	82	59	6		20150903	3	9	September   	Thursday  	5	1	0	0	4	1	2
+HOPEWELL	2015-09-05	73	62	7		20150905	3	9	September   	Saturday  	7	0	1	0	4	1	3
+HOPEWELL	2015-09-06	72	59	5		20150906	3	9	September   	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-09-08	81	65	6		20150908	3	9	September   	Tuesday   	3	1	0	0	4	1	3
+HOPEWELL	2015-09-10	73	91	8	Rain-Thunderstorm	20150910	3	9	September   	Thursday  	5	1	0	0	4	6	3
+HOPEWELL	2015-09-11	74	72	7	Rain	20150911	3	9	September   	Friday    	6	1	0	0	4	2	1
+HOPEWELL	2015-09-12	70	81	7	Rain	20150912	3	9	September   	Saturday  	7	0	1	0	4	2	1
+HOPEWELL	2015-09-13	64	75	7	Rain	20150913	3	9	September   	Sunday    	1	0	1	0	4	2	1
+HOPEWELL	2015-09-14	64	55	8		20150914	3	9	September   	Monday    	2	1	0	0	4	1	1
+HOPEWELL	2015-09-15	68	57	6		20150915	3	9	September   	Tuesday   	3	1	0	0	4	1	1
+HOPEWELL	2015-09-16	72	60	7		20150916	3	9	September   	Wednesday 	4	1	0	0	4	1	4
+HOPEWELL	2015-09-17	72	63	5		20150917	3	9	September   	Thursday  	5	1	0	0	4	1	1
+HOPEWELL	2015-09-18	71	67	5		20150918	3	9	September   	Friday    	6	1	0	0	4	1	3
+HOPEWELL	2015-09-19	72	70	4	Fog	20150919	3	9	September   	Saturday  	7	0	1	0	4	3	3
+HOPEWELL	2015-09-20	69	64	8		20150920	3	9	September   	Sunday    	1	0	1	0	4	1	2
+HOPEWELL	2015-09-21	64	54	8		20150921	3	9	September   	Monday    	2	1	0	0	4	1	2
+HOPEWELL	2015-09-22	66	70	8		20150922	3	9	September   	Tuesday   	3	1	0	0	4	1	1
+HOPEWELL	2015-09-24	66	63	7		20150924	3	9	September   	Thursday  	5	1	0	0	4	1	1
+HOPEWELL	2015-09-25	68	64	8		20150925	3	9	September   	Friday    	6	1	0	0	4	1	1
+HOPEWELL	2015-09-27	63	74	7		20150927	3	9	September   	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-09-28	73	78	5		20150928	3	9	September   	Monday    	2	1	0	0	4	1	2
+HOPEWELL	2015-09-29	75	81	5	Fog-Rain	20150929	3	9	September   	Tuesday   	3	1	0	0	4	7	1
+HOPEWELL	2015-09-30	72	79	11	Rain	20150930	3	9	September   	Wednesday 	4	1	0	0	4	2	1
+HOPEWELL	2015-10-01	60	75	11	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	1
+HOPEWELL	2015-10-02	52	0	16	Rain	20151002	4	10	October     	Friday    	6	1	0	0	4	2	2
+HOPEWELL	2015-10-03	51	88	15	Rain	20151003	4	10	October     	Saturday  	7	0	1	0	4	2	2
+HOPEWELL	2015-10-04	57	68	12		20151004	4	10	October     	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-10-05	57	67	8		20151005	4	10	October     	Monday    	2	1	0	0	4	1	3
+HOPEWELL	2015-10-06	61	67	4		20151006	4	10	October     	Tuesday   	3	1	0	0	4	1	1
+HOPEWELL	2015-10-08	62	75	4		20151008	4	10	October     	Thursday  	5	1	0	0	4	1	3
+HOPEWELL	2015-10-10	56	61	5		20151010	4	10	October     	Saturday  	7	0	1	0	4	1	3
+HOPEWELL	2015-10-11	55	68	3		20151011	4	10	October     	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-10-12	60	62	4		20151012	4	10	October     	Monday    	2	1	0	1	4	1	1
+HOPEWELL	2015-10-13	64	77	5	Thunderstorm	20151013	4	10	October     	Tuesday   	3	1	0	0	4	5	3
+HOPEWELL	2015-10-15	55	66	6		20151015	4	10	October     	Thursday  	5	1	0	0	4	1	7
+HOPEWELL	2015-10-17	48	59	7		20151017	4	10	October     	Saturday  	7	0	1	0	4	1	1
+HOPEWELL	2015-10-20	57	55	8		20151020	4	10	October     	Tuesday   	3	1	0	0	4	1	2
+HOPEWELL	2015-10-21	60	64	4		20151021	4	10	October     	Wednesday 	4	1	0	0	4	1	1
+HOPEWELL	2015-10-22	60	69	5		20151022	4	10	October     	Thursday  	5	1	0	0	4	1	1
+HOPEWELL	2015-10-23	53	50	9		20151023	4	10	October     	Friday    	6	1	0	0	4	1	4
+HOPEWELL	2015-10-25	57	63	8	Rain	20151025	4	10	October     	Sunday    	1	0	1	0	4	2	1
+HOPEWELL	2015-10-26	49	58	5		20151026	4	10	October     	Monday    	2	1	0	0	4	1	1
+HOPEWELL	2015-10-28	61	86	13	Fog-Rain	20151028	4	10	October     	Wednesday 	4	1	0	0	4	7	2
+HOPEWELL	2015-10-29	64	61	10	Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	2	4
+HOPEWELL	2015-10-30	52	51	7		20151030	4	10	October     	Friday    	6	1	0	0	4	1	1
+HOPEWELL	2015-11-01	57	75	7		20151101	4	11	November    	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-11-02	54	69	2		20151102	4	11	November    	Monday    	2	1	0	0	4	1	1
+HOPEWELL	2015-11-03	57	65	3		20151103	4	11	November    	Tuesday   	3	1	0	0	4	1	5
+HOPEWELL	2015-11-04	60	66	4	Fog	20151104	4	11	November    	Wednesday 	4	1	0	0	4	3	1
+HOPEWELL	2015-11-05	61	89	3	Fog-Rain	20151105	4	11	November    	Thursday  	5	1	0	0	4	7	1
+HOPEWELL	2015-11-06	69	81	7	Fog	20151106	4	11	November    	Friday    	6	1	0	0	4	3	1
+HOPEWELL	2015-11-07	60	58	6		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	3
+HOPEWELL	2015-11-08	47	53	5		20151108	4	11	November    	Sunday    	1	0	1	0	4	1	7
+HOPEWELL	2015-11-09	46	63	2		20151109	4	11	November    	Monday    	2	1	0	0	4	1	2
+HOPEWELL	2015-11-10	55	74	12	Rain-Thunderstorm	20151110	4	11	November    	Tuesday   	3	1	0	0	4	6	2
+HOPEWELL	2015-11-11	57	78	7	Rain	20151111	4	11	November    	Wednesday 	4	1	0	1	4	2	3
+HOPEWELL	2015-11-12	53	89	6	Rain	20151112	4	11	November    	Thursday  	5	1	0	0	4	2	2
+HOPEWELL	2015-11-13	53	46	12		20151113	4	11	November    	Friday    	6	1	0	0	4	1	2
+HOPEWELL	2015-11-14	45	45	10		20151114	4	11	November    	Saturday  	7	0	1	0	4	1	1
+HOPEWELL	2015-11-15	47	51	7		20151115	4	11	November    	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-11-16	55	46	6		20151116	4	11	November    	Monday    	2	1	0	0	4	1	3
+HOPEWELL	2015-11-17	46	61	9		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	4
+HOPEWELL	2015-11-18	49	74	9		20151118	4	11	November    	Wednesday 	4	1	0	0	4	1	1
+HOPEWELL	2015-11-19	61	86	10	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	6
+HOPEWELL	2015-11-20	49	61	8		20151120	4	11	November    	Friday    	6	1	0	0	4	1	2
+HOPEWELL	2015-11-21	43	59	7		20151121	4	11	November    	Saturday  	7	0	1	0	4	1	1
+HOPEWELL	2015-11-22	45	63	8		20151122	4	11	November    	Sunday    	1	0	1	0	4	1	1
+HOPEWELL	2015-11-23	35	50	8		20151123	4	11	November    	Monday    	2	1	0	0	4	1	5
+HOPEWELL	2015-11-25	39	61	3		20151125	4	11	November    	Wednesday 	4	1	0	0	4	1	2
+HOPEWELL	2015-11-26	47	67	3		20151126	4	11	November    	Thursday  	5	1	0	1	4	1	1
+HOPEWELL	2015-11-27	50	78	4	Fog-Snow	20151127	4	11	November    	Friday    	6	1	0	0	4	7	3
+HOPEWELL	2015-11-28	55	79	3	Rain	20151128	4	11	November    	Saturday  	7	0	1	0	4	2	1
+HOPEWELL	2015-11-29	42	61	6	Rain	20151129	4	11	November    	Sunday    	1	0	1	0	4	2	2
+HOPEWELL	2015-11-30	38	71	9	Rain	20151130	4	11	November    	Monday    	2	1	0	0	4	2	3
+HOPEWELL	2015-12-01	47	95	8	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	3
+HOPEWELL	2015-12-02	53	89	4	Fog-Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	7	1
+HOPEWELL	2015-12-04	42	61	5		20151204	4	12	December    	Friday    	6	1	0	0	1	1	2
+HOPEWELL	2015-12-05	41	69	4		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	3
+HOPEWELL	2015-12-07	44	68	4		20151207	4	12	December    	Monday    	2	1	0	0	1	1	3
+HOPEWELL	2015-12-08	41	66	5		20151208	4	12	December    	Tuesday   	3	1	0	0	1	1	4
+HOPEWELL	2015-12-10	52	73	3	Rain	20151210	4	12	December    	Thursday  	5	1	0	0	1	2	1
+HOPEWELL	2015-12-12	56	76	2		20151212	4	12	December    	Saturday  	7	0	1	0	1	1	4
+HOPEWELL	2015-12-13	61	79	3	Fog	20151213	4	12	December    	Sunday    	1	0	1	0	1	3	1
+HOPEWELL	2015-12-14	61	87	8	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	1
+HOPEWELL	2015-12-15	59	69	12	Rain	20151215	4	12	December    	Tuesday   	3	1	0	0	1	2	1
+HOPEWELL	2015-12-16	49	63	8		20151216	4	12	December    	Wednesday 	4	1	0	0	1	1	1
+HOPEWELL	2015-12-17	51	86	3	Fog-Rain	20151217	4	12	December    	Thursday  	5	1	0	0	1	7	3
+HOPEWELL	2015-12-18	46	70	9		20151218	4	12	December    	Friday    	6	1	0	0	1	1	1
+HOPEWELL	2015-12-19	36	47	12		20151219	4	12	December    	Saturday  	7	0	1	0	1	1	4
+HOPEWELL	2015-12-20	36	52	6		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	3
+HOPEWELL	2015-12-21	43	63	6		20151221	4	12	December    	Monday    	2	1	0	0	1	1	1
+HOPEWELL	2015-12-22	57	86	6	Fog-Rain	20151222	4	12	December    	Tuesday   	3	1	0	0	1	7	3
+HOPEWELL	2015-12-23	61	95	7	Fog-Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	7	1
+HOPEWELL	2015-12-24	67	89	9	Fog-Rain	20151224	4	12	December    	Thursday  	5	1	0	0	1	7	2
+HOPEWELL	2015-12-25	63	94	3	Fog-Rain	20151225	4	12	December    	Friday    	6	1	0	1	1	7	1
+HOPEWELL	2015-12-26	54	71	9		20151226	4	12	December    	Saturday  	7	0	1	0	1	1	2
+HOPEWELL	2015-12-27	54	90	8	Fog-Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	7	2
+HOPEWELL	2015-12-28	41	67	11	Rain	20151228	4	12	December    	Monday    	2	1	0	0	1	2	1
+HOPEWELL	2015-12-29	43	93	8	Fog-Rain	20151229	4	12	December    	Tuesday   	3	1	0	0	1	7	4
+HOPEWELL	2015-12-30	45	93	4	Fog-Rain	20151230	4	12	December    	Wednesday 	4	1	0	0	1	7	1
+HOPEWELL	2015-12-31	46	78	6		20151231	4	12	December    	Thursday  	5	1	0	0	1	1	4
+HOPEWELL	2016-01-01	36	56	8		20160101	1	1	January     	Friday    	6	1	0	1	1	1	1
+HOPEWELL	2016-01-02	35	56	6		20160102	1	1	January     	Saturday  	7	0	1	0	1	1	1
+HOPEWELL	2016-01-03	36	61	7		20160103	1	1	January     	Sunday    	1	0	1	0	1	1	1
+HOPEWELL	2016-01-04	23	52	13		20160104	1	1	January     	Monday    	2	1	0	0	1	1	1
+HOPEWELL	2016-01-05	20	41	7		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	2
+HOPEWELL	2016-01-06	26	52	3		20160106	1	1	January     	Wednesday 	4	1	0	0	1	1	2
+HOPEWELL	2016-01-07	33	52	2		20160107	1	1	January     	Thursday  	5	1	0	0	1	1	2
+HOPEWELL	2016-01-08	38	65	6		20160108	1	1	January     	Friday    	6	1	0	0	1	1	1
+HOPEWELL	2016-01-09	44	83	8		20160109	1	1	January     	Saturday  	7	0	1	0	1	1	5
+HOPEWELL	2016-01-10	52	76	15	Rain	20160110	1	1	January     	Sunday    	1	0	1	0	1	2	3
+HOPEWELL	2016-01-11	29	42	10		20160111	1	1	January     	Monday    	2	1	0	0	1	1	2
+HOPEWELL	2016-01-13	24	47	11		20160113	1	1	January     	Wednesday 	4	1	0	0	1	1	1
+HOPEWELL	2016-01-14	31	51	4		20160114	1	1	January     	Thursday  	5	1	0	0	1	1	1
+HOPEWELL	2016-01-16	46	73	8	Rain	20160116	1	1	January     	Saturday  	7	0	1	0	1	2	2
+HOPEWELL	2016-01-17	33	74	5	Snow	20160117	1	1	January     	Sunday    	1	0	1	0	1	4	3
+HOPEWELL	2016-01-18	23	66	13		20160118	1	1	January     	Monday    	2	1	0	1	1	1	2
+HOPEWELL	2016-01-19	21	45	15		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	2
+HOPEWELL	2016-01-20	29	53	6		20160120	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+HOPEWELL	2016-01-21	30	51	8		20160121	1	1	January     	Thursday  	5	1	0	0	1	1	8
+HOPEWELL	2016-01-22	22	65	6	Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	4	4
+HOPEWELL	2016-01-24	27	50	9	Snow	20160124	1	1	January     	Sunday    	1	0	1	0	1	4	1
+HOPEWELL	2016-01-25	24	60	3		20160125	1	1	January     	Monday    	2	1	0	0	1	1	5
+HOPEWELL	2016-01-26	34	73	4		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	2
+HOPEWELL	2016-01-27	36	55	8		20160127	1	1	January     	Wednesday 	4	1	0	0	1	1	3
+HOPEWELL	2016-01-28	29	68	3		20160128	1	1	January     	Thursday  	5	1	0	0	1	1	2
+HOPEWELL	2016-01-29	32	66	8	Rain-Snow	20160129	1	1	January     	Friday    	6	1	0	0	1	6	1
+HOPEWELL	2016-01-30	30	59	6		20160130	1	1	January     	Saturday  	7	0	1	0	1	1	1
+HOPEWELL	2016-02-03	46	85	7	Fog-Rain	20160203	1	2	February    	Wednesday 	4	1	0	0	1	7	3
+HOPEWELL	2016-02-04	48	73	6	Fog-Rain	20160204	1	2	February    	Thursday  	5	1	0	0	1	7	1
+HOPEWELL	2016-02-05	35	65	9	Rain-Snow	20160205	1	2	February    	Friday    	6	1	0	0	1	6	7
+HOPEWELL	2016-02-06	30	63	3		20160206	1	2	February    	Saturday  	7	0	1	0	1	1	3
+HOPEWELL	2016-02-07	34	64	4		20160207	1	2	February    	Sunday    	1	0	1	0	1	1	4
+HOPEWELL	2016-02-08	36	62	10	Snow	20160208	1	2	February    	Monday    	2	1	0	0	1	4	4
+HOPEWELL	2016-02-09	32	88	6	Snow	20160209	1	2	February    	Tuesday   	3	1	0	0	1	4	1
+HOPEWELL	2016-02-10	32	74	10	Snow	20160210	1	2	February    	Wednesday 	4	1	0	0	1	4	2
+HOPEWELL	2016-02-11	23	56	12	Snow	20160211	1	2	February    	Thursday  	5	1	0	0	1	4	2
+HOPEWELL	2016-02-12	19	55	6	Snow	20160212	1	2	February    	Friday    	6	1	0	0	1	4	1
+HOPEWELL	2016-02-13	16	53	14	Snow	20160213	1	2	February    	Saturday  	7	0	1	0	1	4	3
+HOPEWELL	2016-02-14	10	45	7		20160214	1	2	February    	Sunday    	1	0	1	0	1	1	1
+NEW BRUNSWICK	2015-01-01	34	44	5		20150101	1	1	January     	Thursday  	5	1	0	1	1	1	7
+NEW BRUNSWICK	2015-01-02	40	47	7		20150102	1	1	January     	Friday    	6	1	0	0	1	1	11
+NEW BRUNSWICK	2015-01-03	40	79	4	Rain	20150103	1	1	January     	Saturday  	7	0	1	0	1	2	11
+NEW BRUNSWICK	2015-01-04	51	91	5	Rain	20150104	1	1	January     	Sunday    	1	0	1	0	1	2	9
+NEW BRUNSWICK	2015-01-05	38	41	18		20150105	1	1	January     	Monday    	2	1	0	0	1	1	22
+NEW BRUNSWICK	2015-01-06	23	67	5	Snow	20150106	1	1	January     	Tuesday   	3	1	0	0	1	4	22
+NEW BRUNSWICK	2015-01-07	20	55	11	Snow	20150107	1	1	January     	Wednesday 	4	1	0	0	1	4	26
+NEW BRUNSWICK	2015-01-08	18	46	12		20150108	1	1	January     	Thursday  	5	1	0	0	1	1	27
+NEW BRUNSWICK	2015-01-09	29	52	8	Snow	20150109	1	1	January     	Friday    	6	1	0	0	1	4	27
+NEW BRUNSWICK	2015-01-10	22	43	12	Snow	20150110	1	1	January     	Saturday  	7	0	1	0	1	4	15
+NEW BRUNSWICK	2015-01-11	31	41	4		20150111	1	1	January     	Sunday    	1	0	1	0	1	1	6
+NEW BRUNSWICK	2015-01-12	40	79	1	Rain	20150112	1	1	January     	Monday    	2	1	0	0	1	2	10
+NEW BRUNSWICK	2015-01-13	30	51	9		20150113	1	1	January     	Tuesday   	3	1	0	0	1	1	12
+NEW BRUNSWICK	2015-01-14	27	61	8		20150114	1	1	January     	Wednesday 	4	1	0	0	1	1	25
+NEW BRUNSWICK	2015-01-15	34	61	6		20150115	1	1	January     	Thursday  	5	1	0	0	1	1	10
+NEW BRUNSWICK	2015-01-16	35	50	10		20150116	1	1	January     	Friday    	6	1	0	0	1	1	13
+NEW BRUNSWICK	2015-01-17	26	47	6		20150117	1	1	January     	Saturday  	7	0	1	0	1	1	12
+NEW BRUNSWICK	2015-01-18	35	88	1	Rain-Thunderstorm	20150118	1	1	January     	Sunday    	1	0	1	0	1	6	15
+NEW BRUNSWICK	2015-01-19	42	68	10		20150119	1	1	January     	Monday    	2	1	0	1	1	1	21
+NEW BRUNSWICK	2015-01-20	39	59	7		20150120	1	1	January     	Tuesday   	3	1	0	0	1	1	23
+NEW BRUNSWICK	2015-01-21	33	49	3	Snow	20150121	1	1	January     	Wednesday 	4	1	0	0	1	4	12
+NEW BRUNSWICK	2015-01-22	38	65	5	Snow	20150122	1	1	January     	Thursday  	5	1	0	0	1	4	15
+NEW BRUNSWICK	2015-01-23	36	60	4	Rain	20150123	1	1	January     	Friday    	6	1	0	0	1	2	19
+NEW BRUNSWICK	2015-01-24	38	87	4	Rain-Snow	20150124	1	1	January     	Saturday  	7	0	1	0	1	6	20
+NEW BRUNSWICK	2015-01-25	40	53	8		20150125	1	1	January     	Sunday    	1	0	1	0	1	1	13
+NEW BRUNSWICK	2015-01-26	30	73	11	Snow	20150126	1	1	January     	Monday    	2	1	0	0	1	4	14
+NEW BRUNSWICK	2015-01-27	28	71	12	Snow	20150127	1	1	January     	Tuesday   	3	1	0	0	1	4	9
+NEW BRUNSWICK	2015-01-28	28	43	12		20150128	1	1	January     	Wednesday 	4	1	0	0	1	1	20
+NEW BRUNSWICK	2015-01-29	26	54	3	Rain-Snow	20150129	1	1	January     	Thursday  	5	1	0	0	1	6	31
+NEW BRUNSWICK	2015-01-30	32	69	8	Snow	20150130	1	1	January     	Friday    	6	1	0	0	1	4	26
+NEW BRUNSWICK	2015-01-31	24	46	15		20150131	1	1	January     	Saturday  	7	0	1	0	1	1	24
+NEW BRUNSWICK	2015-02-01	30	63	5	Rain-Snow	20150201	1	2	February    	Sunday    	1	0	1	0	1	6	21
+NEW BRUNSWICK	2015-02-02	28	86	8	Rain-Snow	20150202	1	2	February    	Monday    	2	1	0	0	1	6	25
+NEW BRUNSWICK	2015-02-03	23	63	6		20150203	1	2	February    	Tuesday   	3	1	0	0	1	1	23
+NEW BRUNSWICK	2015-02-04	32	68	1		20150204	1	2	February    	Wednesday 	4	1	0	0	1	1	20
+NEW BRUNSWICK	2015-02-05	29	53	8	Snow	20150205	1	2	February    	Thursday  	5	1	0	0	1	4	23
+NEW BRUNSWICK	2015-02-06	22	46	7		20150206	1	2	February    	Friday    	6	1	0	0	1	1	21
+NEW BRUNSWICK	2015-02-07	32	56	1		20150207	1	2	February    	Saturday  	7	0	1	0	1	1	19
+NEW BRUNSWICK	2015-02-08	38	82	4		20150208	1	2	February    	Sunday    	1	0	1	0	1	1	7
+NEW BRUNSWICK	2015-02-09	32	83	11		20150209	1	2	February    	Monday    	2	1	0	0	1	1	21
+NEW BRUNSWICK	2015-02-10	36	70	9		20150210	1	2	February    	Tuesday   	3	1	0	0	1	1	22
+NEW BRUNSWICK	2015-02-11	32	54	8		20150211	1	2	February    	Wednesday 	4	1	0	0	1	1	25
+NEW BRUNSWICK	2015-02-12	31	66	5	Snow	20150212	1	2	February    	Thursday  	5	1	0	0	1	4	18
+NEW BRUNSWICK	2015-02-13	18	41	15		20150213	1	2	February    	Friday    	6	1	0	0	1	1	20
+NEW BRUNSWICK	2015-02-14	26	66	2	Snow	20150214	1	2	February    	Saturday  	7	0	1	0	1	4	18
+NEW BRUNSWICK	2015-02-15	18	54	22	Snow	20150215	1	2	February    	Sunday    	1	0	1	0	1	4	25
+NEW BRUNSWICK	2015-02-16	15	41	14		20150216	1	2	February    	Monday    	2	1	0	1	1	1	18
+NEW BRUNSWICK	2015-02-17	24	68	3	Snow	20150217	1	2	February    	Tuesday   	3	1	0	0	1	4	30
+NEW BRUNSWICK	2015-02-18	24	66	1	Snow	20150218	1	2	February    	Wednesday 	4	1	0	0	1	4	32
+NEW BRUNSWICK	2015-02-19	20	46	16		20150219	1	2	February    	Thursday  	5	1	0	0	1	1	29
+NEW BRUNSWICK	2015-02-20	14	40	14		20150220	1	2	February    	Friday    	6	1	0	0	1	1	39
+NEW BRUNSWICK	2015-02-21	24	67	1	Rain-Snow	20150221	1	2	February    	Saturday  	7	0	1	0	1	6	22
+NEW BRUNSWICK	2015-02-22	40	81	0	Rain-Snow	20150222	1	2	February    	Sunday    	1	0	1	0	1	6	29
+NEW BRUNSWICK	2015-02-23	26	46	9		20150223	1	2	February    	Monday    	2	1	0	0	1	1	30
+NEW BRUNSWICK	2015-02-24	18	48	4		20150224	1	2	February    	Tuesday   	3	1	0	0	1	1	25
+NEW BRUNSWICK	2015-02-25	30	55	4		20150225	1	2	February    	Wednesday 	4	1	0	0	1	1	25
+NEW BRUNSWICK	2015-02-26	30	54	6		20150226	1	2	February    	Thursday  	5	1	0	0	1	1	18
+NEW BRUNSWICK	2015-02-27	28	48	4		20150227	1	2	February    	Friday    	6	1	0	0	1	1	16
+NEW BRUNSWICK	2015-02-28	24	39	2	Snow	20150228	1	2	February    	Saturday  	7	0	1	0	1	4	18
+NEW BRUNSWICK	2015-03-01	27	65	0	Snow	20150301	1	3	March       	Sunday    	1	0	1	0	2	4	18
+NEW BRUNSWICK	2015-03-02	36	61	6		20150302	1	3	March       	Monday    	2	1	0	0	2	1	25
+NEW BRUNSWICK	2015-03-03	30	67	4	Rain-Snow	20150303	1	3	March       	Tuesday   	3	1	0	0	2	6	17
+NEW BRUNSWICK	2015-03-04	43	90	3	Rain	20150304	1	3	March       	Wednesday 	4	1	0	0	2	2	29
+NEW BRUNSWICK	2015-03-05	33	85	3	Rain-Snow	20150305	1	3	March       	Thursday  	5	1	0	0	2	6	11
+NEW BRUNSWICK	2015-03-06	22	54	6	Snow	20150306	1	3	March       	Friday    	6	1	0	0	2	4	30
+NEW BRUNSWICK	2015-03-07	30	53	4		20150307	1	3	March       	Saturday  	7	0	1	0	2	1	21
+NEW BRUNSWICK	2015-03-08	41	56	4		20150308	1	3	March       	Sunday    	1	0	1	0	2	1	17
+NEW BRUNSWICK	2015-03-09	46	52	4	Rain	20150309	1	3	March       	Monday    	2	1	0	0	2	2	31
+NEW BRUNSWICK	2015-03-10	45	75	0	Rain	20150310	1	3	March       	Tuesday   	3	1	0	0	2	2	24
+NEW BRUNSWICK	2015-03-11	54	76	4		20150311	1	3	March       	Wednesday 	4	1	0	0	2	1	25
+NEW BRUNSWICK	2015-03-12	47	34	14		20150312	1	3	March       	Thursday  	5	1	0	0	2	1	36
+NEW BRUNSWICK	2015-03-24	43	38	4		20150324	1	3	March       	Tuesday   	3	1	0	0	2	1	20
+NEW BRUNSWICK	2015-03-25	41	63	1	Rain	20150325	1	3	March       	Wednesday 	4	1	0	0	2	2	15
+NEW BRUNSWICK	2015-03-26	56	93	1	Fog-Rain-Thunderstorm	20150326	1	3	March       	Thursday  	5	1	0	0	2	8	29
+NEW BRUNSWICK	2015-03-27	47	69	5	Rain	20150327	1	3	March       	Friday    	6	1	0	0	2	2	23
+NEW BRUNSWICK	2015-03-28	39	48	11		20150328	1	3	March       	Saturday  	7	0	1	0	2	1	21
+NEW BRUNSWICK	2015-03-29	40	31	9		20150329	1	3	March       	Sunday    	1	0	1	0	2	1	8
+NEW BRUNSWICK	2015-03-30	44	54	3		20150330	1	3	March       	Monday    	2	1	0	0	2	1	28
+NEW BRUNSWICK	2015-04-21	63	31	13		20150421	2	4	April       	Tuesday   	3	1	0	0	2	1	25
+NEW BRUNSWICK	2015-04-22	64	52	4	Rain-Thunderstorm	20150422	2	4	April       	Wednesday 	4	1	0	0	2	6	19
+NEW BRUNSWICK	2015-04-23	49	53	13	Rain	20150423	2	4	April       	Thursday  	5	1	0	0	2	2	19
+NEW BRUNSWICK	2015-04-24	49	39	12		20150424	2	4	April       	Friday    	6	1	0	0	2	1	31
+NEW BRUNSWICK	2015-04-25	52	40	7		20150425	2	4	April       	Saturday  	7	0	1	0	2	1	18
+NEW BRUNSWICK	2015-04-26	56	37	7		20150426	2	4	April       	Sunday    	1	0	1	0	2	1	15
+NEW BRUNSWICK	2015-04-27	57	44	9		20150427	2	4	April       	Monday    	2	1	0	0	2	1	22
+NEW BRUNSWICK	2015-04-28	64	43	10		20150428	2	4	April       	Tuesday   	3	1	0	0	2	1	22
+NEW BRUNSWICK	2015-04-29	68	43	7		20150429	2	4	April       	Wednesday 	4	1	0	0	2	1	12
+NEW BRUNSWICK	2015-04-30	58	59	9		20150430	2	4	April       	Thursday  	5	1	0	0	2	1	21
+NEW BRUNSWICK	2015-05-01	55	63	7		20150501	2	5	May         	Friday    	6	1	0	0	2	1	17
+NEW BRUNSWICK	2015-05-02	60	60	3		20150502	2	5	May         	Saturday  	7	0	1	0	2	1	12
+NEW BRUNSWICK	2015-05-03	65	44	2		20150503	2	5	May         	Sunday    	1	0	1	0	2	1	7
+NEW BRUNSWICK	2015-05-04	73	38	2		20150504	2	5	May         	Monday    	2	1	0	0	2	1	15
+NEW BRUNSWICK	2015-05-05	77	46	4		20150505	2	5	May         	Tuesday   	3	1	0	0	2	1	22
+NEW BRUNSWICK	2015-05-06	68	45	5	Rain	20150506	2	5	May         	Wednesday 	4	1	0	0	2	2	14
+NEW BRUNSWICK	2015-05-07	67	57	3		20150507	2	5	May         	Thursday  	5	1	0	0	2	1	15
+NEW BRUNSWICK	2015-05-08	70	62	3	Fog	20150508	2	5	May         	Friday    	6	1	0	0	2	3	19
+NEW BRUNSWICK	2015-05-09	62	93	3	Fog-Rain	20150509	2	5	May         	Saturday  	7	0	1	0	2	7	17
+NEW BRUNSWICK	2015-05-10	75	68	2	Fog	20150510	2	5	May         	Sunday    	1	0	1	0	2	3	7
+NEW BRUNSWICK	2015-05-11	80	76	4	Rain-Thunderstorm	20150511	2	5	May         	Monday    	2	1	0	0	2	6	29
+NEW BRUNSWICK	2015-05-12	79	61	6		20150512	2	5	May         	Tuesday   	3	1	0	0	2	1	24
+NEW BRUNSWICK	2015-05-13	64	45	12		20150513	2	5	May         	Wednesday 	4	1	0	0	2	1	17
+NEW BRUNSWICK	2015-05-14	54	56	6		20150514	2	5	May         	Thursday  	5	1	0	0	2	1	19
+NEW BRUNSWICK	2015-05-19	74	69	2		20150519	2	5	May         	Tuesday   	3	1	0	0	2	1	22
+NEW BRUNSWICK	2015-05-20	65	49	11		20150520	2	5	May         	Wednesday 	4	1	0	0	2	1	14
+NEW BRUNSWICK	2015-05-21	58	57	1	Rain	20150521	2	5	May         	Thursday  	5	1	0	0	2	2	12
+NEW BRUNSWICK	2015-05-22	66	50	8		20150522	2	5	May         	Friday    	6	1	0	0	2	1	19
+NEW BRUNSWICK	2015-05-23	62	33	7		20150523	2	5	May         	Saturday  	7	0	1	0	2	1	11
+NEW BRUNSWICK	2015-05-24	69	45	3		20150524	2	5	May         	Sunday    	1	0	1	0	2	1	9
+NEW BRUNSWICK	2015-05-25	77	51	3		20150525	2	5	May         	Monday    	2	1	0	1	2	1	10
+NEW BRUNSWICK	2015-05-26	80	52	5		20150526	2	5	May         	Tuesday   	3	1	0	0	2	1	19
+NEW BRUNSWICK	2015-05-27	82	72	4	Rain-Thunderstorm	20150527	2	5	May         	Wednesday 	4	1	0	0	2	6	14
+NEW BRUNSWICK	2015-05-28	82	66	2		20150528	2	5	May         	Thursday  	5	1	0	0	2	1	11
+NEW BRUNSWICK	2015-05-29	76	54	6		20150529	2	5	May         	Friday    	6	1	0	0	2	1	19
+NEW BRUNSWICK	2015-05-30	80	67	3		20150530	2	5	May         	Saturday  	7	0	1	0	2	1	13
+NEW BRUNSWICK	2015-05-31	78	75	5	Rain-Thunderstorm	20150531	2	5	May         	Sunday    	1	0	1	0	2	6	13
+NEW BRUNSWICK	2015-06-01	62	93	8	Rain-Thunderstorm	20150601	2	6	June        	Monday    	2	1	0	0	3	6	31
+NEW BRUNSWICK	2015-06-02	56	91	7	Rain	20150602	2	6	June        	Tuesday   	3	1	0	0	3	2	20
+NEW BRUNSWICK	2015-06-03	65	72	6		20150603	2	6	June        	Wednesday 	4	1	0	0	3	1	13
+NEW BRUNSWICK	2015-06-04	64	69	6		20150604	2	6	June        	Thursday  	5	1	0	0	3	1	13
+NEW BRUNSWICK	2015-06-05	66	77	1	Rain	20150605	2	6	June        	Friday    	6	1	0	0	3	2	10
+NEW BRUNSWICK	2015-06-06	73	66	3	Rain-Thunderstorm	20150606	2	6	June        	Saturday  	7	0	1	0	3	6	16
+NEW BRUNSWICK	2015-06-07	67	56	3		20150607	2	6	June        	Sunday    	1	0	1	0	3	1	4
+NEW BRUNSWICK	2015-06-08	76	67	5	Rain	20150608	2	6	June        	Monday    	2	1	0	0	3	2	15
+NEW BRUNSWICK	2015-06-09	80	68	5	Rain	20150609	2	6	June        	Tuesday   	3	1	0	0	3	2	19
+NEW BRUNSWICK	2015-06-10	76	55	3		20150610	2	6	June        	Wednesday 	4	1	0	0	3	1	16
+NEW BRUNSWICK	2015-06-11	84	57	5	Thunderstorm	20150611	2	6	June        	Thursday  	5	1	0	0	3	5	19
+NEW BRUNSWICK	2015-06-12	86	58	2		20150612	2	6	June        	Friday    	6	1	0	0	3	1	19
+NEW BRUNSWICK	2015-06-13	84	49	7		20150613	2	6	June        	Saturday  	7	0	1	0	3	1	21
+NEW BRUNSWICK	2015-06-14	80	56	2	Rain-Thunderstorm	20150614	2	6	June        	Sunday    	1	0	1	0	3	6	8
+NEW BRUNSWICK	2015-06-15	79	86	3	Rain-Thunderstorm	20150615	2	6	June        	Monday    	2	1	0	0	3	6	18
+NEW BRUNSWICK	2015-06-16	76	83	1	Rain-Thunderstorm	20150616	2	6	June        	Tuesday   	3	1	0	0	3	6	8
+NEW BRUNSWICK	2015-06-17	77	57	6		20150617	2	6	June        	Wednesday 	4	1	0	0	3	1	15
+NEW BRUNSWICK	2015-06-18	70	84	5	Rain	20150618	2	6	June        	Thursday  	5	1	0	0	3	2	27
+NEW BRUNSWICK	2015-06-19	80	66	2	Rain	20150619	2	6	June        	Friday    	6	1	0	0	3	2	21
+NEW BRUNSWICK	2015-06-20	76	74	6		20150620	2	6	June        	Saturday  	7	0	1	0	3	1	10
+NEW BRUNSWICK	2015-06-21	82	74	6	Rain-Thunderstorm	20150621	2	6	June        	Sunday    	1	0	1	0	3	6	6
+NEW BRUNSWICK	2015-06-22	82	55	8		20150622	2	6	June        	Monday    	2	1	0	0	3	1	26
+NEW BRUNSWICK	2015-06-23	86	65	4	Rain-Thunderstorm	20150623	2	6	June        	Tuesday   	3	1	0	0	3	6	8
+NEW BRUNSWICK	2015-06-24	78	50	6		20150624	2	6	June        	Wednesday 	4	1	0	0	3	1	21
+NEW BRUNSWICK	2015-06-25	76	50	3	Rain	20150625	2	6	June        	Thursday  	5	1	0	0	3	2	19
+NEW BRUNSWICK	2015-06-26	78	61	5		20150626	2	6	June        	Friday    	6	1	0	0	3	1	23
+NEW BRUNSWICK	2015-06-27	68	75	7	Rain	20150627	2	6	June        	Saturday  	7	0	1	0	3	2	12
+NEW BRUNSWICK	2015-06-28	72	79	8	Rain	20150628	2	6	June        	Sunday    	1	0	1	0	3	2	15
+NEW BRUNSWICK	2015-06-29	73	59	8		20150629	2	6	June        	Monday    	2	1	0	0	3	1	19
+NEW BRUNSWICK	2015-06-30	78	64	4	Rain	20150630	2	6	June        	Tuesday   	3	1	0	0	3	2	15
+NEW BRUNSWICK	2015-07-01	80	66	5	Rain-Thunderstorm	20150701	3	7	July        	Wednesday 	4	1	0	0	3	6	13
+NEW BRUNSWICK	2015-07-02	76	63	1	Rain	20150702	3	7	July        	Thursday  	5	1	0	0	3	2	16
+NEW BRUNSWICK	2015-07-03	77	56	2		20150703	3	7	July        	Friday    	6	1	0	1	3	1	4
+NEW BRUNSWICK	2015-07-04	76	64	1	Rain	20150704	3	7	July        	Saturday  	7	0	1	0	3	2	10
+NEW BRUNSWICK	2015-07-05	78	61	1		20150705	3	7	July        	Sunday    	1	0	1	0	3	1	13
+NEW BRUNSWICK	2015-07-06	80	71	3		20150706	3	7	July        	Monday    	2	1	0	0	3	1	12
+NEW BRUNSWICK	2015-07-07	86	68	2		20150707	3	7	July        	Tuesday   	3	1	0	0	3	1	7
+NEW BRUNSWICK	2015-07-08	86	71	3	Rain-Thunderstorm	20150708	3	7	July        	Wednesday 	4	1	0	0	3	6	9
+NEW BRUNSWICK	2015-07-09	78	75	2	Rain-Thunderstorm	20150709	3	7	July        	Thursday  	5	1	0	0	3	6	12
+NEW BRUNSWICK	2015-07-10	81	59	6		20150710	3	7	July        	Friday    	6	1	0	0	3	1	9
+NEW BRUNSWICK	2015-07-11	78	59	2		20150711	3	7	July        	Saturday  	7	0	1	0	3	1	11
+NEW BRUNSWICK	2015-07-16	78	45	5		20150716	3	7	July        	Thursday  	5	1	0	0	3	1	22
+NEW BRUNSWICK	2015-07-17	76	64	3		20150717	3	7	July        	Friday    	6	1	0	0	3	1	16
+NEW BRUNSWICK	2015-07-18	84	67	5	Thunderstorm	20150718	3	7	July        	Saturday  	7	0	1	0	3	5	12
+NEW BRUNSWICK	2015-07-19	89	60	4		20150719	3	7	July        	Sunday    	1	0	1	0	3	1	10
+NEW BRUNSWICK	2015-07-20	90	55	6		20150720	3	7	July        	Monday    	2	1	0	0	3	1	17
+NEW BRUNSWICK	2015-07-21	86	56	4	Rain	20150721	3	7	July        	Tuesday   	3	1	0	0	3	2	15
+NEW BRUNSWICK	2015-07-22	79	44	9		20150722	3	7	July        	Wednesday 	4	1	0	0	3	1	21
+NEW BRUNSWICK	2015-07-23	78	43	4		20150723	3	7	July        	Thursday  	5	1	0	0	3	1	18
+NEW BRUNSWICK	2015-07-24	80	39	2		20150724	3	7	July        	Friday    	6	1	0	0	3	1	10
+NEW BRUNSWICK	2015-07-25	80	46	4		20150725	3	7	July        	Saturday  	7	0	1	0	3	1	9
+NEW BRUNSWICK	2015-07-26	84	52	3		20150726	3	7	July        	Sunday    	1	0	1	0	3	1	13
+NEW BRUNSWICK	2015-07-27	82	67	4	Rain-Thunderstorm	20150727	3	7	July        	Monday    	2	1	0	0	3	6	15
+NEW BRUNSWICK	2015-07-28	86	60	2		20150728	3	7	July        	Tuesday   	3	1	0	0	3	1	15
+NEW BRUNSWICK	2015-07-29	88	54	2		20150729	3	7	July        	Wednesday 	4	1	0	0	3	1	19
+NEW BRUNSWICK	2015-07-30	86	77	3	Rain-Thunderstorm	20150730	3	7	July        	Thursday  	5	1	0	0	3	6	18
+NEW BRUNSWICK	2015-07-31	84	52	4		20150731	3	7	July        	Friday    	6	1	0	0	3	1	18
+NEW BRUNSWICK	2015-08-01	84	45	4		20150801	3	8	August      	Saturday  	7	0	1	0	3	1	17
+NEW BRUNSWICK	2015-08-02	82	42	2		20150802	3	8	August      	Sunday    	1	0	1	0	3	1	12
+NEW BRUNSWICK	2015-08-03	86	47	3		20150803	3	8	August      	Monday    	2	1	0	0	3	1	15
+NEW BRUNSWICK	2015-08-04	83	54	5	Rain-Thunderstorm	20150804	3	8	August      	Tuesday   	3	1	0	0	3	6	20
+NEW BRUNSWICK	2015-08-05	81	49	3		20150805	3	8	August      	Wednesday 	4	1	0	0	3	1	16
+NEW BRUNSWICK	2015-08-06	78	48	3		20150806	3	8	August      	Thursday  	5	1	0	0	3	1	25
+NEW BRUNSWICK	2015-08-07	80	49	4		20150807	3	8	August      	Friday    	6	1	0	0	3	1	15
+NEW BRUNSWICK	2015-08-08	77	54	4		20150808	3	8	August      	Saturday  	7	0	1	0	3	1	11
+NEW BRUNSWICK	2015-08-09	79	59	4		20150809	3	8	August      	Sunday    	1	0	1	0	3	1	9
+NEW BRUNSWICK	2015-08-10	78	64	4		20150810	3	8	August      	Monday    	2	1	0	0	3	1	9
+NEW BRUNSWICK	2015-08-11	78	79	5	Rain-Thunderstorm	20150811	3	8	August      	Tuesday   	3	1	0	0	3	6	21
+NEW BRUNSWICK	2015-08-12	78	60	4		20150812	3	8	August      	Wednesday 	4	1	0	0	3	1	24
+NEW BRUNSWICK	2015-08-13	74	49	3		20150813	3	8	August      	Thursday  	5	1	0	0	3	1	13
+NEW BRUNSWICK	2015-08-14	74	51	3		20150814	3	8	August      	Friday    	6	1	0	0	3	1	26
+NEW BRUNSWICK	2015-08-15	80	51	2		20150815	3	8	August      	Saturday  	7	0	1	0	3	1	17
+NEW BRUNSWICK	2015-08-16	82	51	4		20150816	3	8	August      	Sunday    	1	0	1	0	3	1	7
+NEW BRUNSWICK	2015-08-17	84	50	4		20150817	3	8	August      	Monday    	2	1	0	0	3	1	18
+NEW BRUNSWICK	2015-08-18	83	58	4		20150818	3	8	August      	Tuesday   	3	1	0	0	3	1	19
+NEW BRUNSWICK	2015-08-19	80	76	4	Thunderstorm	20150819	3	8	August      	Wednesday 	4	1	0	0	3	5	15
+NEW BRUNSWICK	2015-08-20	80	75	6	Rain	20150820	3	8	August      	Thursday  	5	1	0	0	3	2	8
+NEW BRUNSWICK	2015-08-21	79	58	4	Rain-Thunderstorm	20150821	3	8	August      	Friday    	6	1	0	0	3	6	15
+NEW BRUNSWICK	2015-08-22	76	44	5		20150822	3	8	August      	Saturday  	7	0	1	0	3	1	7
+NEW BRUNSWICK	2015-08-23	74	64	3		20150823	3	8	August      	Sunday    	1	0	1	0	3	1	12
+NEW BRUNSWICK	2015-08-24	76	66	2		20150824	3	8	August      	Monday    	2	1	0	0	3	1	6
+NEW BRUNSWICK	2015-08-25	81	53	3	Thunderstorm	20150825	3	8	August      	Tuesday   	3	1	0	0	3	5	17
+NEW BRUNSWICK	2015-08-26	73	48	6		20150826	3	8	August      	Wednesday 	4	1	0	0	3	1	15
+NEW BRUNSWICK	2015-08-27	72	54	5		20150827	3	8	August      	Thursday  	5	1	0	0	3	1	17
+NEW BRUNSWICK	2015-08-28	70	52	2		20150828	3	8	August      	Friday    	6	1	0	0	3	1	9
+NEW BRUNSWICK	2015-08-29	73	55	1		20150829	3	8	August      	Saturday  	7	0	1	0	3	1	18
+NEW BRUNSWICK	2015-08-30	78	57	2		20150830	3	8	August      	Sunday    	1	0	1	0	3	1	10
+NEW BRUNSWICK	2015-08-31	82	56	4		20150831	3	8	August      	Monday    	2	1	0	0	3	1	26
+NEW BRUNSWICK	2015-09-01	80	61	3		20150901	3	9	September   	Tuesday   	3	1	0	0	4	1	19
+NEW BRUNSWICK	2015-09-02	80	61	2		20150902	3	9	September   	Wednesday 	4	1	0	0	4	1	17
+NEW BRUNSWICK	2015-09-03	82	56	3		20150903	3	9	September   	Thursday  	5	1	0	0	4	1	20
+NEW BRUNSWICK	2015-09-04	76	66	6	Rain	20150904	3	9	September   	Friday    	6	1	0	0	4	2	18
+NEW BRUNSWICK	2015-09-05	74	62	6		20150905	3	9	September   	Saturday  	7	0	1	0	4	1	12
+NEW BRUNSWICK	2015-09-06	72	60	2		20150906	3	9	September   	Sunday    	1	0	1	0	4	1	12
+NEW BRUNSWICK	2015-09-07	78	58	2		20150907	3	9	September   	Monday    	2	1	0	1	4	1	16
+NEW BRUNSWICK	2015-09-08	84	54	4		20150908	3	9	September   	Tuesday   	3	1	0	0	4	1	15
+NEW BRUNSWICK	2015-09-09	81	73	3	Rain-Thunderstorm	20150909	3	9	September   	Wednesday 	4	1	0	0	4	6	14
+NEW BRUNSWICK	2015-09-10	74	86	5	Rain-Thunderstorm	20150910	3	9	September   	Thursday  	5	1	0	0	4	6	14
+NEW BRUNSWICK	2015-09-11	74	69	7		20150911	3	9	September   	Friday    	6	1	0	0	4	1	32
+NEW BRUNSWICK	2015-09-12	71	78	3	Rain	20150912	3	9	September   	Saturday  	7	0	1	0	4	2	20
+NEW BRUNSWICK	2015-09-13	68	69	4	Rain	20150913	3	9	September   	Sunday    	1	0	1	0	4	2	9
+NEW BRUNSWICK	2015-09-14	65	51	8		20150914	3	9	September   	Monday    	2	1	0	0	4	1	23
+NEW BRUNSWICK	2015-09-15	69	50	2		20150915	3	9	September   	Tuesday   	3	1	0	0	4	1	11
+NEW BRUNSWICK	2015-09-16	73	52	1		20150916	3	9	September   	Wednesday 	4	1	0	0	4	1	21
+NEW BRUNSWICK	2015-09-17	74	54	1		20150917	3	9	September   	Thursday  	5	1	0	0	4	1	10
+NEW BRUNSWICK	2015-09-18	73	56	2		20150918	3	9	September   	Friday    	6	1	0	0	4	1	26
+NEW BRUNSWICK	2015-09-19	74	73	2		20150919	3	9	September   	Saturday  	7	0	1	0	4	1	19
+NEW BRUNSWICK	2015-09-20	72	53	6		20150920	3	9	September   	Sunday    	1	0	1	0	4	1	13
+NEW BRUNSWICK	2015-09-21	64	47	8	Rain	20150921	3	9	September   	Monday    	2	1	0	0	4	2	22
+NEW BRUNSWICK	2015-09-22	65	58	7		20150922	3	9	September   	Tuesday   	3	1	0	0	4	1	28
+NEW BRUNSWICK	2015-09-23	68	58	4		20150923	3	9	September   	Wednesday 	4	1	0	0	4	1	21
+NEW BRUNSWICK	2015-09-29	75	85	8	Rain	20150929	3	9	September   	Tuesday   	3	1	0	0	4	2	26
+NEW BRUNSWICK	2015-09-30	70	80	9	Rain	20150930	3	9	September   	Wednesday 	4	1	0	0	4	2	29
+NEW BRUNSWICK	2015-10-01	59	70	11	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	21
+NEW BRUNSWICK	2015-10-02	52	82	13	Rain	20151002	4	10	October     	Friday    	6	1	0	0	4	2	30
+NEW BRUNSWICK	2015-10-03	51	83	15	Rain	20151003	4	10	October     	Saturday  	7	0	1	0	4	2	16
+NEW BRUNSWICK	2015-10-04	58	60	12		20151004	4	10	October     	Sunday    	1	0	1	0	4	1	10
+NEW BRUNSWICK	2015-10-05	57	62	9		20151005	4	10	October     	Monday    	2	1	0	0	4	1	25
+NEW BRUNSWICK	2015-10-06	61	63	2		20151006	4	10	October     	Tuesday   	3	1	0	0	4	1	16
+NEW BRUNSWICK	2015-10-07	64	65	2		20151007	4	10	October     	Wednesday 	4	1	0	0	4	1	25
+NEW BRUNSWICK	2015-10-08	62	71	1		20151008	4	10	October     	Thursday  	5	1	0	0	4	1	16
+NEW BRUNSWICK	2015-10-09	68	81	3	Rain-Thunderstorm	20151009	4	10	October     	Friday    	6	1	0	0	4	6	20
+NEW BRUNSWICK	2015-10-10	56	54	7		20151010	4	10	October     	Saturday  	7	0	1	0	4	1	10
+NEW BRUNSWICK	2015-10-11	56	64	2		20151011	4	10	October     	Sunday    	1	0	1	0	4	1	18
+NEW BRUNSWICK	2015-10-12	62	64	1		20151012	4	10	October     	Monday    	2	1	0	1	4	1	18
+NEW BRUNSWICK	2015-10-13	64	74	2	Rain-Thunderstorm	20151013	4	10	October     	Tuesday   	3	1	0	0	4	6	13
+NEW BRUNSWICK	2015-10-14	60	64	5		20151014	4	10	October     	Wednesday 	4	1	0	0	4	1	11
+NEW BRUNSWICK	2015-10-15	55	59	2		20151015	4	10	October     	Thursday  	5	1	0	0	4	1	16
+NEW BRUNSWICK	2015-10-16	56	58	3		20151016	4	10	October     	Friday    	6	1	0	0	4	1	19
+NEW BRUNSWICK	2015-10-17	48	53	4		20151017	4	10	October     	Saturday  	7	0	1	0	4	1	15
+NEW BRUNSWICK	2015-10-18	41	51	4		20151018	4	10	October     	Sunday    	1	0	1	0	4	1	20
+NEW BRUNSWICK	2015-10-19	42	55	0		20151019	4	10	October     	Monday    	2	1	0	0	4	1	17
+NEW BRUNSWICK	2015-10-20	58	45	5		20151020	4	10	October     	Tuesday   	3	1	0	0	4	1	16
+NEW BRUNSWICK	2015-10-21	63	55	0		20151021	4	10	October     	Wednesday 	4	1	0	0	4	1	28
+NEW BRUNSWICK	2015-10-22	63	57	2		20151022	4	10	October     	Thursday  	5	1	0	0	4	1	13
+NEW BRUNSWICK	2015-10-23	54	45	7		20151023	4	10	October     	Friday    	6	1	0	0	4	1	9
+NEW BRUNSWICK	2015-10-24	48	62	2		20151024	4	10	October     	Saturday  	7	0	1	0	4	1	12
+NEW BRUNSWICK	2015-10-25	59	67	3	Rain	20151025	4	10	October     	Sunday    	1	0	1	0	4	2	20
+NEW BRUNSWICK	2015-10-26	50	57	0		20151026	4	10	October     	Monday    	2	1	0	0	4	1	12
+NEW BRUNSWICK	2015-10-27	48	64	1		20151027	4	10	October     	Tuesday   	3	1	0	0	4	1	22
+NEW BRUNSWICK	2015-10-28	60	86	8	Rain-Thunderstorm	20151028	4	10	October     	Wednesday 	4	1	0	0	4	6	26
+NEW BRUNSWICK	2015-10-29	64	62	7	Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	2	26
+NEW BRUNSWICK	2015-10-30	53	46	7		20151030	4	10	October     	Friday    	6	1	0	0	4	1	24
+NEW BRUNSWICK	2015-10-31	46	61	1		20151031	4	10	October     	Saturday  	7	0	1	0	4	1	14
+NEW BRUNSWICK	2015-11-01	56	71	2	Rain	20151101	4	11	November    	Sunday    	1	0	1	0	4	2	20
+NEW BRUNSWICK	2015-11-02	56	70	1		20151102	4	11	November    	Monday    	2	1	0	0	4	1	20
+NEW BRUNSWICK	2015-11-03	58	63	0		20151103	4	11	November    	Tuesday   	3	1	0	0	4	1	17
+NEW BRUNSWICK	2015-11-04	58	73	1		20151104	4	11	November    	Wednesday 	4	1	0	0	4	1	23
+NEW BRUNSWICK	2015-11-05	61	93	0	Fog-Rain	20151105	4	11	November    	Thursday  	5	1	0	0	4	7	20
+NEW BRUNSWICK	2015-11-06	68	82	2		20151106	4	11	November    	Friday    	6	1	0	0	4	1	12
+NEW BRUNSWICK	2015-11-07	62	50	3		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	9
+NEW BRUNSWICK	2015-11-08	49	51	5		20151108	4	11	November    	Sunday    	1	0	1	0	4	1	10
+NEW BRUNSWICK	2015-11-09	47	62	0		20151109	4	11	November    	Monday    	2	1	0	0	4	1	13
+NEW BRUNSWICK	2015-11-10	55	82	5	Rain-Thunderstorm	20151110	4	11	November    	Tuesday   	3	1	0	0	4	6	30
+NEW BRUNSWICK	2015-11-11	56	79	3		20151111	4	11	November    	Wednesday 	4	1	0	1	4	1	20
+NEW BRUNSWICK	2015-11-12	56	83	1	Rain	20151112	4	11	November    	Thursday  	5	1	0	0	4	2	19
+NEW BRUNSWICK	2015-11-13	52	42	15		20151113	4	11	November    	Friday    	6	1	0	0	4	1	36
+NEW BRUNSWICK	2015-11-14	44	47	14		20151114	4	11	November    	Saturday  	7	0	1	0	4	1	18
+NEW BRUNSWICK	2015-11-15	47	50	4		20151115	4	11	November    	Sunday    	1	0	1	0	4	1	16
+NEW BRUNSWICK	2015-11-16	55	43	2		20151116	4	11	November    	Monday    	2	1	0	0	4	1	17
+NEW BRUNSWICK	2015-11-17	46	52	5		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	9
+NEW BRUNSWICK	2015-11-18	50	69	3		20151118	4	11	November    	Wednesday 	4	1	0	0	4	1	12
+NEW BRUNSWICK	2015-11-19	60	90	5	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	20
+NEW BRUNSWICK	2015-11-20	52	51	4		20151120	4	11	November    	Friday    	6	1	0	0	4	1	19
+NEW BRUNSWICK	2015-11-21	44	55	2		20151121	4	11	November    	Saturday  	7	0	1	0	4	1	22
+NEW BRUNSWICK	2015-11-22	47	61	4	Rain	20151122	4	11	November    	Sunday    	1	0	1	0	4	2	12
+NEW BRUNSWICK	2015-11-23	38	46	10		20151123	4	11	November    	Monday    	2	1	0	0	4	1	24
+NEW BRUNSWICK	2015-11-24	36	51	1		20151124	4	11	November    	Tuesday   	3	1	0	0	4	1	25
+NEW BRUNSWICK	2015-11-25	41	60	0		20151125	4	11	November    	Wednesday 	4	1	0	0	4	1	14
+NEW BRUNSWICK	2015-11-26	46	80	0		20151126	4	11	November    	Thursday  	5	1	0	1	4	1	10
+NEW BRUNSWICK	2015-11-27	52	77	1	Fog	20151127	4	11	November    	Friday    	6	1	0	0	4	3	13
+NEW BRUNSWICK	2015-11-28	53	76	1	Rain	20151128	4	11	November    	Saturday  	7	0	1	0	4	2	12
+NEW BRUNSWICK	2015-11-29	43	59	3	Rain	20151129	4	11	November    	Sunday    	1	0	1	0	4	2	9
+NEW BRUNSWICK	2015-11-30	39	61	7		20151130	4	11	November    	Monday    	2	1	0	0	4	1	16
+NEW BRUNSWICK	2015-12-01	47	92	7	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	27
+NEW BRUNSWICK	2015-12-02	50	97	0	Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	2	18
+NEW BRUNSWICK	2015-12-03	48	66	7		20151203	4	12	December    	Thursday  	5	1	0	0	1	1	25
+NEW BRUNSWICK	2015-12-04	44	59	5		20151204	4	12	December    	Friday    	6	1	0	0	1	1	15
+NEW BRUNSWICK	2015-12-05	41	68	0		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	24
+NEW BRUNSWICK	2015-12-06	42	71	0		20151206	4	12	December    	Sunday    	1	0	1	0	1	1	12
+NEW BRUNSWICK	2015-12-07	45	61	0		20151207	4	12	December    	Monday    	2	1	0	0	1	1	17
+NEW BRUNSWICK	2015-12-08	42	63	3		20151208	4	12	December    	Tuesday   	3	1	0	0	1	1	19
+NEW BRUNSWICK	2015-12-09	42	74	0		20151209	4	12	December    	Wednesday 	4	1	0	0	1	1	18
+NEW BRUNSWICK	2015-12-10	53	75	0	Rain	20151210	4	12	December    	Thursday  	5	1	0	0	1	2	12
+NEW BRUNSWICK	2015-12-11	51	78	1		20151211	4	12	December    	Friday    	6	1	0	0	1	1	18
+NEW BRUNSWICK	2015-12-12	56	75	0		20151212	4	12	December    	Saturday  	7	0	1	0	1	1	11
+NEW BRUNSWICK	2015-12-13	60	76	1		20151213	4	12	December    	Sunday    	1	0	1	0	1	1	10
+NEW BRUNSWICK	2015-12-14	59	92	1	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	9
+NEW BRUNSWICK	2015-12-15	60	57	13	Rain	20151215	4	12	December    	Tuesday   	3	1	0	0	1	2	15
+NEW BRUNSWICK	2015-12-16	48	62	7		20151216	4	12	December    	Wednesday 	4	1	0	0	1	1	20
+NEW BRUNSWICK	2015-12-17	54	91	1	Rain	20151217	4	12	December    	Thursday  	5	1	0	0	1	2	19
+NEW BRUNSWICK	2015-12-18	44	66	6	Rain	20151218	4	12	December    	Friday    	6	1	0	0	1	2	21
+NEW BRUNSWICK	2015-12-19	36	46	12		20151219	4	12	December    	Saturday  	7	0	1	0	1	1	16
+NEW BRUNSWICK	2015-12-20	36	49	6		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	7
+NEW BRUNSWICK	2015-12-21	43	59	1		20151221	4	12	December    	Monday    	2	1	0	0	1	1	19
+NEW BRUNSWICK	2015-12-22	56	87	1	Rain	20151222	4	12	December    	Tuesday   	3	1	0	0	1	2	18
+NEW BRUNSWICK	2015-12-23	56	99	1	Fog-Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	7	18
+NEW BRUNSWICK	2015-12-24	65	83	3	Rain	20151224	4	12	December    	Thursday  	5	1	0	0	1	2	11
+NEW BRUNSWICK	2015-12-25	58	95	0	Fog-Rain	20151225	4	12	December    	Friday    	6	1	0	1	1	7	8
+NEW BRUNSWICK	2015-12-26	54	56	7	Rain	20151226	4	12	December    	Saturday  	7	0	1	0	1	2	7
+NEW BRUNSWICK	2015-12-27	53	90	4	Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	2	12
+NEW BRUNSWICK	2015-12-28	40	58	10	Rain-Snow	20151228	4	12	December    	Monday    	2	1	0	0	1	6	11
+NEW BRUNSWICK	2015-12-29	38	94	11	Rain-Snow	20151229	4	12	December    	Tuesday   	3	1	0	0	1	6	11
+NEW BRUNSWICK	2015-12-30	44	90	0	Rain	20151230	4	12	December    	Wednesday 	4	1	0	0	1	2	22
+NEW BRUNSWICK	2015-12-31	44	79	3		20151231	4	12	December    	Thursday  	5	1	0	0	1	1	11
+NEW BRUNSWICK	2016-01-01	37	59	10		20160101	1	1	January     	Friday    	6	1	0	1	1	1	9
+NEW BRUNSWICK	2016-01-02	36	53	7		20160102	1	1	January     	Saturday  	7	0	1	0	1	1	11
+NEW BRUNSWICK	2016-01-03	37	59	4		20160103	1	1	January     	Sunday    	1	0	1	0	1	1	10
+NEW BRUNSWICK	2016-01-04	24	46	10		20160104	1	1	January     	Monday    	2	1	0	0	1	1	21
+NEW BRUNSWICK	2016-01-05	20	36	7		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	28
+NEW BRUNSWICK	2016-01-06	28	41	2		20160106	1	1	January     	Wednesday 	4	1	0	0	1	1	22
+NEW BRUNSWICK	2016-01-07	34	46	1		20160107	1	1	January     	Thursday  	5	1	0	0	1	1	27
+NEW BRUNSWICK	2016-01-08	38	58	5		20160108	1	1	January     	Friday    	6	1	0	0	1	1	11
+NEW BRUNSWICK	2016-01-09	43	82	4	Rain	20160109	1	1	January     	Saturday  	7	0	1	0	1	2	8
+NEW BRUNSWICK	2016-01-10	51	80	12	Rain-Thunderstorm	20160110	1	1	January     	Sunday    	1	0	1	0	1	6	12
+NEW BRUNSWICK	2016-01-11	31	40	15		20160111	1	1	January     	Monday    	2	1	0	0	1	1	20
+NEW BRUNSWICK	2016-01-12	32	58	3	Rain	20160112	1	1	January     	Tuesday   	3	1	0	0	1	2	11
+NEW BRUNSWICK	2016-01-13	25	45	17		20160113	1	1	January     	Wednesday 	4	1	0	0	1	1	15
+NEW BRUNSWICK	2016-01-14	30	49	7		20160114	1	1	January     	Thursday  	5	1	0	0	1	1	17
+NEW BRUNSWICK	2016-01-15	39	69	0	Rain	20160115	1	1	January     	Friday    	6	1	0	0	1	2	11
+NEW BRUNSWICK	2016-01-16	46	73	7	Rain	20160116	1	1	January     	Saturday  	7	0	1	0	1	2	15
+NEW BRUNSWICK	2016-01-17	34	69	5	Snow	20160117	1	1	January     	Sunday    	1	0	1	0	1	4	15
+NEW BRUNSWICK	2016-01-18	24	52	11		20160118	1	1	January     	Monday    	2	1	0	1	1	1	18
+NEW BRUNSWICK	2016-01-19	22	45	17		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	24
+NEW BRUNSWICK	2016-01-20	32	53	9		20160120	1	1	January     	Wednesday 	4	1	0	0	1	1	28
+NEW BRUNSWICK	2016-01-21	30	48	7		20160121	1	1	January     	Thursday  	5	1	0	0	1	1	24
+NEW BRUNSWICK	2016-01-22	24	47	7	Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	4	28
+NEW BRUNSWICK	2016-01-23	25	89	16	Snow	20160123	1	1	January     	Saturday  	7	0	1	0	1	4	9
+NEW BRUNSWICK	2016-01-24	26	52	7	Snow	20160124	1	1	January     	Sunday    	1	0	1	0	1	4	11
+NEW BRUNSWICK	2016-01-25	27	65	1		20160125	1	1	January     	Monday    	2	1	0	0	1	1	32
+NEW BRUNSWICK	2016-01-26	34	72	1		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	32
+NEW BRUNSWICK	2016-01-27	36	58	6		20160127	1	1	January     	Wednesday 	4	1	0	0	1	1	21
+NEW BRUNSWICK	2016-01-28	32	63	0		20160128	1	1	January     	Thursday  	5	1	0	0	1	1	22
+NEW BRUNSWICK	2016-01-29	34	62	4		20160129	1	1	January     	Friday    	6	1	0	0	1	1	25
+NEW BRUNSWICK	2016-01-30	32	55	5		20160130	1	1	January     	Saturday  	7	0	1	0	1	1	17
+NEW BRUNSWICK	2016-01-31	43	65	1		20160131	1	1	January     	Sunday    	1	0	1	0	1	1	13
+NEW BRUNSWICK	2016-02-01	44	70	2	Rain	20160201	1	2	February    	Monday    	2	1	0	0	1	2	28
+NEW BRUNSWICK	2016-02-02	42	56	1		20160202	1	2	February    	Tuesday   	3	1	0	0	1	1	18
+NEW BRUNSWICK	2016-02-03	46	89	2	Fog-Rain	20160203	1	2	February    	Wednesday 	4	1	0	0	1	7	23
+NEW BRUNSWICK	2016-02-04	49	70	3	Rain	20160204	1	2	February    	Thursday  	5	1	0	0	1	2	17
+NEW BRUNSWICK	2016-02-05	36	70	7	Rain-Snow	20160205	1	2	February    	Friday    	6	1	0	0	1	6	24
+NEW BRUNSWICK	2016-02-06	32	57	1		20160206	1	2	February    	Saturday  	7	0	1	0	1	1	15
+NEW BRUNSWICK	2016-02-07	36	61	1		20160207	1	2	February    	Sunday    	1	0	1	0	1	1	18
+NEW BRUNSWICK	2016-02-08	34	64	12		20160208	1	2	February    	Monday    	2	1	0	0	1	1	15
+NEW BRUNSWICK	2016-02-09	31	80	5	Snow	20160209	1	2	February    	Tuesday   	3	1	0	0	1	4	24
+NEW BRUNSWICK	2016-02-10	34	71	6	Rain-Snow	20160210	1	2	February    	Wednesday 	4	1	0	0	1	6	13
+NEW BRUNSWICK	2016-02-11	24	42	17	Snow	20160211	1	2	February    	Thursday  	5	1	0	0	1	4	26
+NEW BRUNSWICK	2016-02-12	20	45	7		20160212	1	2	February    	Friday    	6	1	0	0	1	1	21
+NEW BRUNSWICK	2016-02-13	14	47	13	Snow	20160213	1	2	February    	Saturday  	7	0	1	0	1	4	18
+NEW BRUNSWICK	2016-02-14	9	33	12		20160214	1	2	February    	Sunday    	1	0	1	0	1	1	18
+WAYNE	2015-01-19	36	66	7		20150119	1	1	January     	Monday    	2	1	0	1	1	1	1
+WAYNE	2015-01-23	28	61	4		20150123	1	1	January     	Friday    	6	1	0	0	1	1	1
+WAYNE	2015-01-28	24	39	8		20150128	1	1	January     	Wednesday 	4	1	0	0	1	1	2
+WAYNE	2015-01-29	20	59	2	Snow	20150129	1	1	January     	Thursday  	5	1	0	0	1	4	1
+WAYNE	2015-02-04	22	79	1		20150204	1	2	February    	Wednesday 	4	1	0	0	1	1	1
+WAYNE	2015-02-22	35	80	0	Snow	20150222	1	2	February    	Sunday    	1	0	1	0	1	4	1
+WAYNE	2015-03-22	35	38	10		20150322	1	3	March       	Sunday    	1	0	1	0	2	1	1
+WAYNE	2015-04-04	51	57	10	Rain	20150404	2	4	April       	Saturday  	7	0	1	0	2	2	1
+WAYNE	2015-04-09	40	84	6	Rain	20150409	2	4	April       	Thursday  	5	1	0	0	2	2	1
+WAYNE	2015-04-14	59	53	4		20150414	2	4	April       	Tuesday   	3	1	0	0	2	1	1
+WAYNE	2015-04-17	62	70	5	Rain	20150417	2	4	April       	Friday    	6	1	0	0	2	2	1
+WAYNE	2015-04-19	53	40	7		20150419	2	4	April       	Sunday    	1	0	1	0	2	1	1
+WAYNE	2015-04-28	58	45	8		20150428	2	4	April       	Tuesday   	3	1	0	0	2	1	1
+WAYNE	2015-04-30	54	62	7		20150430	2	4	April       	Thursday  	5	1	0	0	2	1	1
+WAYNE	2015-05-22	62	48	6	Rain	20150522	2	5	May         	Friday    	6	1	0	0	2	2	1
+WAYNE	2015-06-15	72	89	3	Fog-Rain-Thunderstorm	20150615	2	6	June        	Monday    	2	1	0	0	3	8	1
+WAYNE	2015-06-17	72	61	6		20150617	2	6	June        	Wednesday 	4	1	0	0	3	1	1
+WAYNE	2015-06-21	77	79	4	Rain	20150621	2	6	June        	Sunday    	1	0	1	0	3	2	1
+WAYNE	2015-07-02	70	66	1		20150702	3	7	July        	Thursday  	5	1	0	0	3	1	1
+WAYNE	2015-07-20	86	60	3		20150720	3	7	July        	Monday    	2	1	0	0	3	1	1
+WAYNE	2015-07-27	78	74	3	Rain	20150727	3	7	July        	Monday    	2	1	0	0	3	2	2
+WAYNE	2015-07-29	81	56	2		20150729	3	7	July        	Wednesday 	4	1	0	0	3	1	1
+WAYNE	2015-08-12	74	62	4		20150812	3	8	August      	Wednesday 	4	1	0	0	3	1	2
+WAYNE	2015-08-15	78	54	2		20150815	3	8	August      	Saturday  	7	0	1	0	3	1	1
+WAYNE	2015-08-16	80	59	2		20150816	3	8	August      	Sunday    	1	0	1	0	3	1	1
+WAYNE	2015-09-01	78	63	2		20150901	3	9	September   	Tuesday   	3	1	0	0	4	1	1
+WAYNE	2015-09-03	80	62	2		20150903	3	9	September   	Thursday  	5	1	0	0	4	1	1
+WAYNE	2015-09-27	60	72	3		20150927	3	9	September   	Sunday    	1	0	1	0	4	1	1
+WAYNE	2015-10-01	58	71	9	Rain	20151001	4	10	October     	Thursday  	5	1	0	0	4	2	1
+WAYNE	2015-10-08	60	75	2		20151008	4	10	October     	Thursday  	5	1	0	0	4	1	1
+WAYNE	2015-10-12	60	68	2		20151012	4	10	October     	Monday    	2	1	0	1	4	1	2
+WAYNE	2015-10-29	63	67	7	Rain	20151029	4	10	October     	Thursday  	5	1	0	0	4	2	1
+WAYNE	2015-11-07	60	55	5		20151107	4	11	November    	Saturday  	7	0	1	0	4	1	1
+WAYNE	2015-11-10	52	73	6	Rain	20151110	4	11	November    	Tuesday   	3	1	0	0	4	2	1
+WAYNE	2015-11-13	52	43	11	Rain	20151113	4	11	November    	Friday    	6	1	0	0	4	2	1
+WAYNE	2015-11-14	44	46	11		20151114	4	11	November    	Saturday  	7	0	1	0	4	1	1
+WAYNE	2015-11-17	42	58	4		20151117	4	11	November    	Tuesday   	3	1	0	0	4	1	1
+WAYNE	2015-11-19	60	90	10	Rain	20151119	4	11	November    	Thursday  	5	1	0	0	4	2	1
+WAYNE	2015-11-20	49	51	6		20151120	4	11	November    	Friday    	6	1	0	0	4	1	1
+WAYNE	2015-11-21	42	64	2		20151121	4	11	November    	Saturday  	7	0	1	0	4	1	1
+WAYNE	2015-11-23	36	46	7		20151123	4	11	November    	Monday    	2	1	0	0	4	1	2
+WAYNE	2015-11-27	50	81	1	Fog	20151127	4	11	November    	Friday    	6	1	0	0	4	3	1
+WAYNE	2015-12-01	44	93	6	Rain	20151201	4	12	December    	Tuesday   	3	1	0	0	1	2	1
+WAYNE	2015-12-02	48	96	2	Fog-Rain	20151202	4	12	December    	Wednesday 	4	1	0	0	1	7	1
+WAYNE	2015-12-04	42	60	5		20151204	4	12	December    	Friday    	6	1	0	0	1	1	1
+WAYNE	2015-12-05	40	75	0		20151205	4	12	December    	Saturday  	7	0	1	0	1	1	1
+WAYNE	2015-12-14	57	91	4	Fog-Rain	20151214	4	12	December    	Monday    	2	1	0	0	1	7	2
+WAYNE	2015-12-15	58	61	12	Rain	20151215	4	12	December    	Tuesday   	3	1	0	0	1	2	1
+WAYNE	2015-12-17	52	93	2	Rain	20151217	4	12	December    	Thursday  	5	1	0	0	1	2	1
+WAYNE	2015-12-18	44	67	5		20151218	4	12	December    	Friday    	6	1	0	0	1	1	1
+WAYNE	2015-12-20	37	48	6		20151220	4	12	December    	Sunday    	1	0	1	0	1	1	1
+WAYNE	2015-12-23	54	96	2	Fog-Rain	20151223	4	12	December    	Wednesday 	4	1	0	0	1	7	1
+WAYNE	2015-12-25	56	87	0		20151225	4	12	December    	Friday    	6	1	0	1	1	1	1
+WAYNE	2015-12-27	52	88	4	Rain	20151227	4	12	December    	Sunday    	1	0	1	0	1	2	1
+WAYNE	2015-12-28	38	61	8	Rain-Snow	20151228	4	12	December    	Monday    	2	1	0	0	1	6	1
+WAYNE	2016-01-04	24	45	7		20160104	1	1	January     	Monday    	2	1	0	0	1	1	1
+WAYNE	2016-01-05	18	46	4		20160105	1	1	January     	Tuesday   	3	1	0	0	1	1	2
+WAYNE	2016-01-07	31	51	0		20160107	1	1	January     	Thursday  	5	1	0	0	1	1	1
+WAYNE	2016-01-08	34	65	4		20160108	1	1	January     	Friday    	6	1	0	0	1	1	1
+WAYNE	2016-01-09	41	82	5	Rain	20160109	1	1	January     	Saturday  	7	0	1	0	1	2	2
+WAYNE	2016-01-11	30	38	10		20160111	1	1	January     	Monday    	2	1	0	0	1	1	1
+WAYNE	2016-01-12	30	64	3	Snow	20160112	1	1	January     	Tuesday   	3	1	0	0	1	4	1
+WAYNE	2016-01-18	23	51	10	Snow	20160118	1	1	January     	Monday    	2	1	0	1	1	4	1
+WAYNE	2016-01-19	22	42	12		20160119	1	1	January     	Tuesday   	3	1	0	0	1	1	1
+WAYNE	2016-01-22	22	45	4	Snow	20160122	1	1	January     	Friday    	6	1	0	0	1	4	1
+WAYNE	2016-01-24	28	49	6		20160124	1	1	January     	Sunday    	1	0	1	0	1	1	1
+WAYNE	2016-01-25	26	70	0		20160125	1	1	January     	Monday    	2	1	0	0	1	1	1
+WAYNE	2016-01-26	31	71	2		20160126	1	1	January     	Tuesday   	3	1	0	0	1	1	1
+WAYNE	2016-01-31	45	55	3		20160131	1	1	January     	Sunday    	1	0	1	0	1	1	1
+WAYNE	2016-02-01	46	60	3		20160201	1	2	February    	Monday    	2	1	0	0	1	1	1
+WAYNE	2016-02-02	38	60	1		20160202	1	2	February    	Tuesday   	3	1	0	0	1	1	1
