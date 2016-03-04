@@ -273,8 +273,10 @@ print(fit.treebagtrans)
 
 #Compare Models and visualize the results
 cvValuestrans <- resamples(list(glmnet = fit.glmnettrans , CART = fit.rparttrans, SVM = fit.svmRadialtrans, lm = fit.lmtrans, knn = fit.knntrans ))
+
 summary(cvValuestrans)
 bwplot(cvValuestrans, metric = "RMSE")
+
 
 ensemblevaluestrans1 <- resamples(list(gbm = fit.gbmtrans, rf = fit.rftrans ))
 summary(ensemblevaluestrans1)
@@ -283,99 +285,6 @@ bwplot(ensemblevaluestrans1, metric = "RMSE")
 ensemblevaluestrans2 <- resamples(list(cubist = fit.cubisttrans, treebag = fit.treebagtrans ))
 summary(ensemblevaluestrans2)
 bwplot(ensemblevaluestrans2, metric = "RMSE")
-
-#---------------------------------------------------
-#Model with Log transformation on Y variable
-#--------------------------------------------------
-#transcallcnt <- BoxCoxTrans(data_train$call_cnt)
-callcnt_log     <- log(data_train$call_cnt)
-Temp_log        <- log(data_train$Temp)
-Windspeed_log   <- log(data_train$Windspeed)
-Humidity_log    <- log(data_train$Humidity)
-
-# append the transformed variable to data_train
-data_train <- cbind(data_train, Temp_log, Windspeed_log, Humidity_log,callcnt_log)
-
-# Histogram after the transformation for all the Variables in one graph
-mpgid <- mutate(data_train, id=as.numeric(rownames(data_train)))
-mpgstack <- melt(mpgid, id="id")
-pp <- qplot(value, data=mpgstack) + facet_wrap(~variable, scales="free")
-ggsave("mpg-histograms_after_log.pdf", pp, scale=2)
-
-head(data_train,5) # view the top 6 rows
-
-#Models with log transformation on Y variable only
-# lm evaluation
-set.seed(849)
-fit.lmlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data=data_train, method="lm", metric="RMSE", 
-                   preProc=c("center", "scale"), trControl=cctrlcv10)
-print(fit.lmlog)
-
-#lmnet evaluation
-set.seed(849)
-fit.glmnetlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data=data_train, method="glmnet", metric="RMSE", 
-                       preProc=c("center", "scale"), trControl=cctrlcv10)
-print(fit.glmnetlog)
-
-#K_nearest Neighbor - Non- Linear Algorithm
-set.seed(849)
-fit.knnlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data=data_train, method="knn", metric="RMSE", 
-                    preProc=c("center", "scale"), trControl=cctrlcv10)
-print(fit.knnlog)
-
-#SVM Radial Model
-set.seed(849)
-fit.svmRadiallog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data=data_train, method="svmRadial", metric="RMSE",
-                          trControl=cctrlcv10)
-print(fit.svmRadiallog)
-
-# CART Model
-set.seed(849)
-fit.rpartlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data=data_train, method="rpart", metric="RMSE", 
-                      trControl=cctrlcv10)
-print(fit.rpartlog)
-
-
-# GBM Model
-set.seed(849)
-fit.gbmlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data = data_train, method = "gbm",metric="RMSE",
-                    verbose = FALSE,   trControl = cctrlcv5 )
-print(fit.gbmlog)
-
-
-# Random forest Model
-set.seed(849)
-fit.rflog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data = data_train,method = "rf",metric="RMSE",
-                   verbose = FALSE,    trControl = cctrlcv5 )
-print(fit.rflog)
-
-
-#Model cubist
-set.seed(849)
-fit.cubistlog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data = data_train,method = "cubist",metric="RMSE",
-                       verbose = FALSE,Control = cctrlcv5 )
-print(fit.cubistlog)
-
-
-#Model treebag
-set.seed(849)
-fit.treebaglog <- train(callcnt_log ~ call_city+call_date+Temp+Humidity+Windspeed+Month_name+is_a_public_holiday+Working_day+wevents+week_day_name, data = data_train,method = "treebag",
-                        verbose = FALSE,Control = cctrlcv5 )
-print(fit.treebaglog)
-
-#compare and visualize the models
-cvValueslog <- resamples(list(glmnet = fit.glmnetlog , CART = fit.rpartlog, SVM = fit.svmRadiallog, lm = fit.lmlog, knn = fit.knnlog ))
-summary(cvValueslog)
-bwplot(cvValueslog, metric = "RMSE")
-
-ensemblevalueslog1 <- resamples(list(gbm = fit.gbmlog, rf = fit.rflog ))
-summary(ensemblevalueslog1)
-bwplot(ensemblevalueslog1, metric = "RMSE")
-
-ensemblevalueslog2 <- resamples(list(cubist = fit.cubistlog, treebag = fit.treebaglog ))
-summary(ensemblevalueslog2)
-bwplot(ensemblevalueslog2, metric = "RMSE")
-
 
 #-------------------------------------------------------
 #Models with tuning parameters
@@ -465,45 +374,25 @@ print(fit.rf2)
 #Use the best algorithm(s) to predict on validation dataset and estimate error on unseen data.
 #---------------------------------------------------------------------------------------------------
 
-fit.glmnetlog$finalModel
-fit.glmnetlog$bestTune
-fit.glmnetlog$results
+fit.glmnettrans$finalModel
+fit.glmnettrans$bestTune
+fit.glmnettrans$results
 
 #variable importance Grapgh
 varImp(fit.lm)
 plot(varImp(fit.lm))
 plot(varImp(fit.glmnetlog))
 
+#create new variable in data_test for 
 
 #Predict Values
-predictedVal<-predict(fit.lmtrans,data_test)
-modelvalues<-data.frame(obs = data_test$callcnt_new, pred=predictedVal)
-defaultSummary(modelvalues)
+predicted_callcnt<- exp(predict(fit.lmtrans,data_test))
+predictmodelvalues<-data.frame(actual = data_test$call_cnt, predicted=predicted_callcnt)
+head(predictmodelvalues)
 
-
- # Apply the model to the testing data (i.e., make predictions) ...
-# (Don't forget to exponentiate the results to revert the log transformation)
-predict_test_glmnet <- exp(predict(fit.glmnetlog, data_test))
-
-predictmodelvalues<-data.frame(obs = data_test$call_cnt, pred=predict_test_glmnet)
-
-defaultSummary(predictmodelvalues)
-
-summary(predict_test_glmnet)
-
-# ...and evaluate the accuracy
-RMSE_predict_glmnet <- sqrt(mean((predict_test_glmnet- data_test$call_cnt)^2))
-MAE_predict_glmnet <- mean(abs(predict_test_glmnet- data_test$call_cnt))
-
-# Create a data frame with the predictions for each method
-all.predictions <- data.frame(actual = data_test$call_cnt,
-                              Predicted = predict_test_glmnet, Predicted_lmtrans = predictedVal)
-                              
-head(all.predictions)
-#rm(residualslm) <- resid(fit.lm)
 
 #Visualze the results for the Actual and predictable values
-ggplot(data = all.predictions,aes(x = actual, y = Predicted)) + 
+ggplot(data = predictmodelvalues,aes(x = actual, y = predicted)) + 
   geom_point(colour = "blue") + 
   geom_abline(intercept = 0, slope = 1, colour = "red") +
   geom_vline(xintercept = 23, colour = "green", linetype = "dashed") +
