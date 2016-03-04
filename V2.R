@@ -273,10 +273,8 @@ print(fit.treebagtrans)
 
 #Compare Models and visualize the results
 cvValuestrans <- resamples(list(glmnet = fit.glmnettrans , CART = fit.rparttrans, SVM = fit.svmRadialtrans, lm = fit.lmtrans, knn = fit.knntrans ))
-
 summary(cvValuestrans)
 bwplot(cvValuestrans, metric = "RMSE")
-
 
 ensemblevaluestrans1 <- resamples(list(gbm = fit.gbmtrans, rf = fit.rftrans ))
 summary(ensemblevaluestrans1)
@@ -290,10 +288,10 @@ bwplot(ensemblevaluestrans2, metric = "RMSE")
 #Model with Log transformation on Y variable
 #--------------------------------------------------
 #transcallcnt <- BoxCoxTrans(data_train$call_cnt)
-callcnt_log     <- predict(BoxCoxTrans(data_train$call_cnt), data_train$call_cnt)
-Temp_log        <- predict(BoxCoxTrans(data_train$Temp), data_train$Temp)
-Windspeed_log   <- predict(BoxCoxTrans(data_train$Windspeed), data_train$Windspeed)
-Humidity_log    <- predict(BoxCoxTrans(data_train$Humidity), data_train$Humidity)
+callcnt_log     <- log(data_train$call_cnt)
+Temp_log        <- log(data_train$Temp)
+Windspeed_log   <- log(data_train$Windspeed)
+Humidity_log    <- log(data_train$Humidity)
 
 # append the transformed variable to data_train
 data_train <- cbind(data_train, Temp_log, Windspeed_log, Humidity_log,callcnt_log)
